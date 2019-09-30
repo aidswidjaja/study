@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+nav_order: 1
 ---
 
 # “Haven’t we all done this in our Maths Summary Books?”

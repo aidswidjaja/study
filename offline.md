@@ -1,6 +1,7 @@
 ---
 title: Offline Copies
 layout: default
+nav_order: 3
 ---
 
 # Offline Copies
@@ -10,6 +11,7 @@ Some content like Cheat Sheets and Student-made Quizzes are downloadable as PDFs
 
 You also require the following dependencies:
 - [RubyGems](https://rubygems.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
 - [Bundler](https://bundler.io/)
 - [Git](https://git-scm.com/) - which is preinstalled on many systems already
 

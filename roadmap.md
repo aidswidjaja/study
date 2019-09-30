@@ -1,6 +1,7 @@
 ---
 title: Roadmap
 layout: default
+nav_order: 2
 ---
 
 # Roadmap
@@ -59,7 +60,7 @@ With credit to the following resources:
 - [ ] Year 9 Maths 5.3 Chapter 9 - Probability and single variable data analysis <label class="label label-red">High-priority</label>
 - [ ] Year 9 Maths 5.3 Chapter 10 - Quadratic equations and graphs of parabolas <label class="label label-red">High-priority</label>
 
-#### SELF-MADE QUIZZES
+#### STUDENT-MADE QUIZZES
 
 - [ ] Quiz 1 
 - Year 9 Maths 5.3 Chapter 1 - Computation and financial mathematics
@@ -70,11 +71,11 @@ With credit to the following resources:
 - Year 9 Maths 5.3 Chapter 4 - Linear relationships
 - Year 9 Maths 5.3 Chapter 5 - Length, area, surface area and volume
 
-- [ ] Quiz 3            
+- [ ] Quiz 3  <label class="label label-red">High-priority</label>           
 - Year 9 Maths 5.3 Chapter 6 - Indices and surds
 - Year 9 Maths 5.3 Chapter 9 - Probability and single variable data analysis
 
-- [ ] Quiz 4            
+- [ ] Quiz 4  <label class="label label-red">High-priority</label>        
 - Year 9 Maths 5.3 Chapter 8 - Quadratic expressions and algebraic fractions 
 - Year 9 Maths 5.3 Chapter 10 - Quadratic equations and graphs of parabolas 
 
@@ -84,6 +85,10 @@ With credit to the following resources:
 #### CHEAT SHEETS AND OTHER RESOURCES
 
 - [x] Quadratics Cheat Sheet
+
+# SCIENCE
+
+
 
 
 
