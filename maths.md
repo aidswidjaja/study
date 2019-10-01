@@ -1,3 +1,10 @@
+---
+title: Maths
+layout: default
+nav_order: 10
+---
+# Maths
+
 With credit to the following resources:
 
 * CambridgeMATHS NSW Syllabus for the Australian Curriculum Year 7 Option 1
@@ -65,4 +72,4 @@ With credit to the following resources:
 
 #### CHEAT SHEETS AND OTHER RESOURCES
 
-- [x] Quadratics Cheat Sheet
+- [x] Quadratics Cheat Sheet <label class="label label-yellow">Awaiting upload</label>

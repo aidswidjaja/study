@@ -11,7 +11,7 @@ A majority of the project will be moving everything from Google Docs to Markdown
 
 The roadmap allows us to keep track of what needs to be completed, what has already been completed and what is most important for completion. You can view each subject's roadmap on it's parent page. For example, for the Maths roadmap, you would click on the Maths parent page.
 
-**If you'd like to contribute and help out, please [email me!](mailto:adrian.marcus.widjaja@gmail.com?I want to contribute to Adrian's Study Club!). If your school works from a different curriculum let me know too and we can make an arrangement to mutually benefit both schools!**
+**If you'd like to contribute and help out, please [email me!](mailto:adrian.marcus.widjaja@gmail.com?I want to contribute to Adrian's Study Club!) If your school works from a different curriculum let me know too and we can make an arrangement to mutually benefit both schools!**
 
 *Last updated: 29 September 2019*
 
