@@ -1,7 +1,7 @@
 ---
 title: Offline Copies
 layout: default
-nav_order: 3
+nav_order: 6
 ---
 
 # Offline Copies
@@ -22,7 +22,7 @@ If you're on Mac, you might want to not affect the pre-installed system Ruby. Yo
 rvm list
     # shows all installed versions
 rvm use x.x.x
-    # uses version no x.x.x
+    # where x.x.x is the Ruby version number
 which ruby
     # confirms which Ruby version you are now using
 ```
@@ -30,9 +30,9 @@ which ruby
 1. **Clone the repository:**
 ```
 cd DIRECTORY-NAME 
-     # replace DIRECTORY-NAME-HERE with the directory where you want to store the contents
-     # or leave empty for user root directory 
-     # (i.e C:\Users\Adrian and Jacinta~/Macintosh HD/Users/Adrian are your root directories)
+    # replace DIRECTORY-NAME-HERE with the directory where you want to store the contents
+    # or leave empty for user root directory 
+    # (i.e C:\Users\Adrian and Jacinta~/Macintosh HD/Users/Adrian are your root directories)
 git clone https://github.com/aidswidaja/study
 ```
 1. **Download the theme:**
