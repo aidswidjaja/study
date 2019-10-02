@@ -75,7 +75,7 @@ With credit to the following resources:
 
 #### CHEAT SHEETS AND OTHER RESOURCES
 
-- [ ] Quadratics Cheat Sheet <label class="label label-yellow">Awaiting upload</label>
+- [ ] Quadratics Cheat Sheet <label class="label label-blue">Awaiting upload</label>
 - [ ] Practice Papers <label class="label label-red">High-priority</label>
 
 Practice papers are available on [Google Drive](https://drive.google.com/drive/folders/1Lc8Ct2LC0LQ_yq95yTJHZh5Sq8j7gDBN?usp=sharing) but I'll add them here too later.

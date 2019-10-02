@@ -9,6 +9,8 @@ nav_order: 2
 {: .no_toc }
 ## also known as Chemistry – the inside story
 
+<label class="label label-blue">
+
 #### Table of Contents
 * Table of Contents
 {:toc}

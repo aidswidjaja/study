@@ -29,7 +29,7 @@ With credit to the following resources:
 - [ ] Stage 5 Science Chapter 1 - All under control <label class="label label-purple">Planned</label>
 - [ ] Stage 5 Science Chapter 2 - Medical science <label class="label label-purple">Planned</label>
 - [ ] Stage 5 Science Chapter 4 - Invisible waves <label class="label label-purple">Planned</label>
-- [ ] Stage 5 Science Chapter 5 - Chemistry – the inside story <label class="label label-purple">Planned</label>
+- [ ] Stage 5 Science Chapter 5 - Chemistry – the inside story <label class="label label-blue">In-Progress</label>
 - [ ] Stage 5 Science Chapter 6 - Radioactivity: a two-edged sword <label class="label label-purple">Planned</label>
 - [ ] Stage 5 Science Chapter 7 - Chemical reactions <label class="label label-purple">Planned</label>
 - [ ] Stage 5 Science Chapter 8 - The dynamic Earth <label class="label label-purple">Planned</label>
@@ -43,7 +43,7 @@ With credit to the following resources:
 - [ ] Stage 5 Science Chapter 1 - All under control
 - [ ] Stage 5 Science Chapter 2 - Medical science
 - [ ] Stage 5 Science Chapter 4 - Invisible waves
-- [ ] Stage 5 Science Chapter 5 - Chemistry – the inside story (Chemistry 1) <label class="label label-blue">In-Progress</label>
+- [ ] Stage 5 Science Chapter 5 - Chemistry – the inside story (Chemistry 1) 
 - [ ] Stage 5 Science Chapter 6 - Radioactivity: a two-edged sword
 - [ ] Stage 5 Science Chapter 7 - Chemical reactions
 - [ ] Stage 5 Science Chapter 8 - The dynamic Earth
@@ -69,7 +69,7 @@ With credit to the following resources:
 
 #### CHEAT SHEETS AND OTHER RESOURCES
 
-- [ ] How neurons work together <label class="label label-yellow">Awaiting upload</label>
+- [ ] How neurons work together 
 
 
 

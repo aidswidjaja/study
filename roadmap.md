@@ -25,7 +25,7 @@ The roadmap allows us to keep track of what needs to be completed, what has alre
 
 <label class="label label-blue">In-Progress</label> – The topic/chapter is currently in-progress and is being actively worked on. Not to be confused with Incomplete.
 
-<label class="label label-yellow">Awaiting upload</label> – It has been finished locally but is yet to be uploaded to the website.
+<label class="label label-blue">Awaiting upload</label> – It has been finished locally but is yet to be uploaded to the website.
 
 <label class="label label-green">Complete</label> – The topic/chapter has been finished. It won't be used on the Roadmap as it is substituted by the cheched checkbox, but you'll find it on individual pages. 
 
