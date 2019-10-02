@@ -43,7 +43,7 @@ With credit to the following resources:
 - [ ] Stage 5 Science Chapter 1 - All under control
 - [ ] Stage 5 Science Chapter 2 - Medical science
 - [ ] Stage 5 Science Chapter 4 - Invisible waves
-- [ ] Stage 5 Science Chapter 5 - Chemistry – the inside story
+- [ ] Stage 5 Science Chapter 5 - Chemistry – the inside story (Chemistry 1) <label class="label label-blue">In-Progress</label>
 - [ ] Stage 5 Science Chapter 6 - Radioactivity: a two-edged sword
 - [ ] Stage 5 Science Chapter 7 - Chemical reactions
 - [ ] Stage 5 Science Chapter 8 - The dynamic Earth
