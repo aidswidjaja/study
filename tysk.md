@@ -1,7 +1,7 @@
 ---
 title: TYSK
 layout: default
-nav_order: 8
+nav_order: 6
 ---
 
 *The following applies for Aloys students only.*
@@ -40,5 +40,5 @@ That's why TYSK has a WhatsApp group chat for important and medium-priority anno
     2. Press the ▾ (downwards triangle) symbol in the Search bar
     2. Click 'Create filter'
     2. Apply any filters you want. This can include labels, actions, etc. If you click "Categorise as:" and change it to 'Primary' TYSK will now show under the main inbox tab. You could also apply a coloured label to make TYSK emails more distinguishable by clicking "Apply the label:" and creating a new label for TYSK.
-1. If you have any issues with TYSK, please [email me using the information found on the TYSK Google Groups](https://groups.google.com/forum/#!forum/tysk-aloys)
+1. If you have any issues with TYSK, please [email me using the email address found on the TYSK Google Groups](https://groups.google.com/forum/#!forum/tysk-aloys)
 

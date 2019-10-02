@@ -13,7 +13,23 @@ The roadmap allows us to keep track of what needs to be completed, what has alre
 
 **If you'd like to contribute and help out, please [email me!](mailto:adrian.marcus.widjaja@gmail.com?I want to contribute to Adrian's Study Club!) If your school works from a different curriculum let me know too and we can make an arrangement to mutually benefit both schools!**
 
-*Last updated: 29 September 2019*
+### Guide to labels
+
+<label class="label label-yellow">Redundant</label> – It doesn't require completion as it isn't being tested on, it has already been completed in another topic, or for other reasons. Alternatively, the topic/chapter never had any work done on it, and if it was from 2017/2018 it probably won't ever be completed. *On the old Google Doc the term redundant means that it wasn't finished by the time it was required and so we stopped working to finish it. Here, it has a different definition.* **Note that for some chapters the redundant label won't be used and they will just be left out of their corresponding subject's roadmap entirely.
+
+<label class="label label-yellow">Incomplete</label> – The topic/chapter hasn't been finished and isn't being updated in the foreseeable future. Not to be confused with In-Progress.
+
+<label class="label label-purple">Planned</label> – The topic/chapter is planned to be worked on but hasn't started yet.
+
+<label class="label label-red">High-priority</label> – It's important to be completed and will be prioritised first for completion.
+
+<label class="label label-blue">In-Progress</label> – The topic/chapter is currently in-progress and is being actively worked on. Not to be confused with Incomplete.
+
+<label class="label label-yellow">Awaiting upload</label> – It has been finished locally but is yet to be uploaded to the website.
+
+<label class="label label-green">Complete</label> – The topic/chapter has been finished. It won't be used on the Roadmap as it is substituted by the cheched checkbox, but you'll find it on individual pages. 
+
+*Last updated: 2 October 2019*
 
 
 
