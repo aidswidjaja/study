@@ -33,10 +33,10 @@ With credit to the following resources:
 - [x] Year 8 Maths Chapter 3 - Measurement and Pythagoras’ theorem
 - [x] Year 8 Maths Chapter 4 - Fractions, decimals, percentages and financial mathematics
 - [x] Year 8 Maths Chapter 5 - Ratios and rates
-- [ ] Year 8 Maths Chapter 6 - Angle relationships and properties of geometrical figures 1
-- [ ] Year 8 Maths Chapter 7 - Linear relationships 1
+- [x] Year 8 Maths Chapter 6 - Angle relationships and properties of geometrical figures 1
+- [x] Year 8 Maths Chapter 7 - Linear relationships 1
 - [ ] Year 8 Maths Chapter 8 - Transformations and congruence <label class="label label-yellow">Redundant</label>
-- [ ] Year 8 Maths Chapter 9 - Data collection, representation, and analysis
+- [ ] Year 8 Maths Chapter 9 - Data collection, representation, and analysis <label class="label label-yellow">Redundant</label>
 
 **All Year 9 content will be now based off BBC Bitesize equivalents to reduce time spent working on them.**
 
