@@ -29,6 +29,8 @@ The roadmap allows us to keep track of what needs to be completed, what has alre
 
 <label class="label label-green">Complete</label> – The topic/chapter has been finished. It won't be used on the Roadmap as it is substituted by the checked checkbox, but you'll find it on individual pages. 
 
+<label class="label label-blue">Aloys</label> - Content most likely applies to Aloys students only.
+
 *Last updated: 2 October 2019*
 
 

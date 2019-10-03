@@ -4,14 +4,15 @@ layout: default
 nav_order: 30
 ---
 
-*If you are at Aloys, also go to [Manresa](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/Pages/The-Duke-of-Edinburgh's-International-Award.aspx).*
-
-*If you are not at Aloys, a lot of this content is Aloys-specific.*
+*Also go to [Manresa](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/Pages/The-Duke-of-Edinburgh's-International-Award.aspx).*
 
 # Duke of Ed
 {: .no_toc }
 
+<label class="label label-blue">Aloys</label>
+
 #### Table of Contents
+{: .no_toc }
 * Table of Contents
 {:toc}
 
@@ -20,7 +21,9 @@ nav_order: 30
 The Duke of Edinburgh's International Award - Australia is a leading structured (non-formal education) youth development program, empowering all young Australians aged 14 to 25 to explore their full potential regardless of their location or circumstance. The Award is a fully inclusive program and has no social, political, or religious affiliations.​ At St Aloysius' College the Award is offered as a three level Program:
 
 Level 1: Bronze is completed in Year 9 - a 6 month program. (Age 14 years)
+
 Level 2: Silver is completed in Year 10 - a 6 month program. (Age 15 years)
+
 Level 3: Gold is completed in Year 11 - a 12 month program. (Age 16 years)
 
 [View more on Google Drive](https://drive.google.com/drive/folders/1sByotWOt4P02yqxiGnfiYXyXjo4PhTv7?usp=sharing){: .btn}
@@ -69,8 +72,16 @@ Through this challenging journey of self-discovery, our Participants:
 
 ## Resources
 
-[Cooking with Trangias and Menu Planning](resources/dofe/Cooking%20with%20Trangias%20and%20Menu%20Planning.pdf)
-[Bronze Training Manual](resources/dofe/BronzeTrainingManual.pdf)
+- [Cooking with Trangias and Menu Planning](resources/dofe/Cooking%20with%20Trangias%20and%20Menu%20Planning.pdf)
+- [Bronze Training Manual](resources/dofe/BronzeTrainingManual.pdf)
+- [SAC Award Framework](resources/dofe/awardframework.pdf)
+- [NSW Award Framework](http://www.dukeofed.com.au/about-the-award/award-framework/)
+- [SAC Participant Agreement](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/SiteAssets/Pages/The-Duke-of-Edinburgh%27s-International-Award/Duke%20of%20Edinburgh%27s%20Award%20Participant%20Agreement.pdf)
+- [Assessor Commencement Guide​](https://3wsou42v16p23nizfdnrklyt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/CDOC1859310-Duke-of-Edinburghs-International-Award-NSW-Assessor-Commencement-Guide-ACG.pdf)
+- [NSW Participant Award Plan](http://dukeofed.com.au/wp-content/uploads/2015/09/Participant-Award-Plan-August-2015.pdf)
+- [Participant APP](https://www.youtube.com/watch?v=wjRPv6kOW2A&feature=youtu.be)
+- [Participant Web User Guide](https://3wsou42v16p23nizfdnrklyt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Participant-User-Guide.pdf)
+- [RFS Fire Danger Ratings and Total Fire Bans](https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans)
 
 [View more on Google Drive](https://drive.google.com/drive/folders/1sByotWOt4P02yqxiGnfiYXyXjo4PhTv7?usp=sharing)
 
