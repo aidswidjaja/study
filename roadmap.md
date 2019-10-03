@@ -5,9 +5,12 @@ nav_order: 4
 ---
 
 # Roadmap
-## for Things You Should Know and Adrian's Study Club
 
 A majority of the project will be moving everything from Google Docs to Markdown format to host on this site. However, with finals approaching close and our lack of neccessity for learning about Roman numerals, migration to the new platform will be done from topics of most importance to topics of least importance. This also means that topic areas from previous years that don't get covered now won't be prioritised as much.
+
+Personally I wish we could organise the chapters into concepts. However, that would unnecessarily take a lot of time and the search function + chapter headings already detail something if you wanted to find it. We also seriously recommend using [BBC Bitesize](https://bbc.co.uk/bitesize). If you'd like to volunteer to volunteer moving chapter headings into concepts (which requires merging Year 7 stuff with Year 9 stuff for example) please let me know. We might consider merging in the future but it isn't high priority right now.
+
+Also consider making your own written study notes as well. Most of this stuff is written in your workbooks/summary books and this just serves as a digital record of the work we do in class.
 
 The roadmap allows us to keep track of what needs to be completed, what has already been completed and what is most important for completion. You can view each subject's roadmap on it's parent page. For example, for the Maths roadmap, you would click on the Maths parent page.
 
