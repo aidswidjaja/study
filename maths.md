@@ -28,8 +28,8 @@ With credit to the following resources:
 - [ ] Year 7 Maths Chapter 9 - Equations
 - [ ] Year 7 Maths Chapter 10 - Measurement and Computation of Length, Perimeter and Area
 
-- [ ] Year 8 Maths Chapter 1 - Algebraic techniques 2 and indices
-- [ ] Year 8 Maths Chapter 2 - Equations 2
+- [x] Year 8 Maths Chapter 1 - Algebraic techniques 2 and indices
+- [x] Year 8 Maths Chapter 2 - Equations 2
 - [ ] Year 8 Maths Chapter 3 - Measurement and Pythagoras’ theorem
 - [ ] Year 8 Maths Chapter 4 - Fractions, decimals, percentages and financial mathematics
 - [ ] Year 8 Maths Chapter 5 - Ratios and rates
@@ -40,8 +40,8 @@ With credit to the following resources:
 
 **All Year 9 content will be now based off BBC Bitesize equivalents to reduce time spent working on them.**
 
-- [x] Year 9 Maths 5.3 Chapter 1 - Computation and financial mathematics <label class="label label-purple">Planned</label>
-- [x] Year 9 Maths 5.3 Chapter 2 - Expressions, equations and inequalities <label class="label label-purple">Planned</label>
+- [ ] Year 9 Maths 5.3 Chapter 1 - Computation and financial mathematics <label class="label label-purple">Planned</label>
+- [ ] Year 9 Maths 5.3 Chapter 2 - Expressions, equations and inequalities <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 3 - Right-angled triangles <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 4 - Linear relationships <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 5 - Length, area, surface area and volume <label class="label label-purple">Planned</label>

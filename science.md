@@ -17,14 +17,14 @@ With credit to the following resources:
 
 *Be advised some chapters are being omitted as they are not planned and won't be worked on, and therefore redundant. They won't carry the Redundant label but will just be left out of it entirely. This applies to chapters Stage 5 and onwards.*
 
-- [ ] Stage 4 Science Chapter 2 - Cells - the building blocks of life <label class="label label-purple">Planned</label><label class="label label-yellow">Incomplete</label>
-- [x] Stage 4 Science Chapter 4 - Classification <label class="label label-purple">Planned</label>
+- [ ] Stage 4 Science Chapter 2 - Cells - the building blocks of life <label class="label label-yellow">Incomplete</label>
+- [ ] Stage 4 Science Chapter 4 - Classification 
 - [ ] Stage 4 Science Chapter 6 - The solar system <label class="label label-yellow">Redundant</label>
-- [x] Stage 4 Science Chapter 7 - Forces in action <label class="label label-purple">Planned</label>
-- [x] Stage 4 Science Chapter 8 - Body systems <label class="label label-purple">Planned</label>
-- [ ] Stage 4 Science Chapter 10 - The changing Earth <label class="label label-purple">Planned</label> <label class="label label-yellow">Incomplete</label>
-- [x] Stage 4 Science Chapter 11 - Energy <label class="label label-purple">Planned</label>
-- [ ] Stage 4 Science Chapter 14 - Earth’s precious resources <label class="label label-purple">Planned</label> <label class="label label-yellow">Incomplete</label>
+- [ ] Stage 4 Science Chapter 7 - Forces in action 
+- [ ] Stage 4 Science Chapter 8 - Body systems 
+- [ ] Stage 4 Science Chapter 10 - The changing Earth <label class="label label-yellow">Incomplete</label>
+- [ ] Stage 4 Science Chapter 11 - Energy 
+- [ ] Stage 4 Science Chapter 14 - Earth’s precious resources <label class="label label-yellow">Incomplete</label>
 
 - [ ] Stage 5 Science Chapter 1 - All under control <label class="label label-purple">Planned</label>
 - [ ] Stage 5 Science Chapter 2 - Medical science <label class="label label-purple">Planned</label>

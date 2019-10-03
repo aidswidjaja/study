@@ -19,7 +19,7 @@ The roadmap allows us to keep track of what needs to be completed, what has alre
 
 <label class="label label-yellow">Incomplete</label> – The topic/chapter hasn't been finished and isn't being updated in the foreseeable future. Not to be confused with In-Progress.
 
-<label class="label label-purple">Planned</label> – The topic/chapter is planned to be worked on but hasn't started yet.
+<label class="label label-purple">Planned</label> – The topic/chapter is planned to be worked on sometime in the foreseeable future but hasn't started yet.
 
 <label class="label label-red">High-priority</label> – It's important to be completed and will be prioritised first for completion.
 
@@ -27,7 +27,7 @@ The roadmap allows us to keep track of what needs to be completed, what has alre
 
 <label class="label label-blue">Awaiting upload</label> – It has been finished locally but is yet to be uploaded to the website.
 
-<label class="label label-green">Complete</label> – The topic/chapter has been finished. It won't be used on the Roadmap as it is substituted by the cheched checkbox, but you'll find it on individual pages. 
+<label class="label label-green">Complete</label> – The topic/chapter has been finished. It won't be used on the Roadmap as it is substituted by the checked checkbox, but you'll find it on individual pages. 
 
 *Last updated: 2 October 2019*
 
