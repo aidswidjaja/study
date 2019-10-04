@@ -19,6 +19,6 @@ If you'd like to download content locally to your computer, choose the second op
 
 [View Maths resources on Google Drive](https://drive.google.com/drive/folders/1Lc8Ct2LC0LQ_yq95yTJHZh5Sq8j7gDBN?usp=sharing){: .btn}
 
-[View Maths resources on this website](resource/maths/pracpapers){: .btn}
+<a class="btn" href="resource/maths/pracpapers">View Maths resources on this website</a>
 
 
