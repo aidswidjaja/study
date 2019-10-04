@@ -11,7 +11,14 @@ nav_order: 5000
 
 <label class="label label-blue">In-Progress</label> 
 
+You can choose from two mirrors. Google Drive and Netlify CDN. Both are fast options.
+
+If you'd like to view content online, share it with others, or put it in your own Google Drive, choose the first option, "View Maths resources on Google Drive".
+
+If you'd like to download content locally to your computer, choose the second option, "View Maths resources on this website".
+
 [View Maths resources on Google Drive](https://drive.google.com/drive/folders/1Lc8Ct2LC0LQ_yq95yTJHZh5Sq8j7gDBN?usp=sharing){: .btn}
 
-I'll try and upload it to Google Drive later... and I'll have a download link here too sometime. Last updated 3 Oct by Adrian.
+[View Maths resources on this website](resource/maths/pracpapers){: .btn}
+
 

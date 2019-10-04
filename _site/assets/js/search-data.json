@@ -38,7 +38,7 @@
   }
   ,"8": {
     "title": "Extra Resources",
-    "content": "Extra Resources . like practice papers, NAPLAN past papers and stuff like that . In-Progress . View Maths resources on Google Drive . I’ll try and upload it to Google Drive later… and I’ll have a download link here too sometime. Last updated 3 Oct by Adrian. .",
+    "content": "Extra Resources . like practice papers, NAPLAN past papers and stuff like that . In-Progress . You can choose from two mirrors. Google Drive and Netlify CDN. Both are fast options. . If you’d like to view content online, share it with others, or put it in your own Google Drive, choose the first option, “View Maths resources on Google Drive”. . If you’d like to download content locally to your computer, choose the second option, “View Maths resources on this website”. . View Maths resources on Google Drive . View Maths resources on this website .",
     "url": "http://localhost:4000/mathsprac.html",
     "relUrl": "/mathsprac.html"
   }
