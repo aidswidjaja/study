@@ -30,6 +30,10 @@ and other things that might be of interest to you.
 
 I'm only sending it to my friends for the time being, but if you're not my friend that is okay and you can use it too. Just try not to tell too many people about it though.
 
+### Help! The search function doesn't work!
+
+I'm currently waiting on a bugfix from the developers of Just the Docs, the Jekyll theme I'm using to host this website. Currently the rake command in bundle fails due to some unescaped ampersands. Once the fix is released search will be available on this site. In the meantime, you can use `Ctrl` + `F` or `Cmd` + `F` to search for text on a page.
+
 ### How much have you already completed?
 
 You can see our [Roadmap](roadmap.html) which contains our schedule and projected topics.
