@@ -81,6 +81,10 @@ Oxygen has 8 protons, therefore sodium's **electron configuration** is `2, 6`
 
 When an atom is excited it may "jump" to a higher electron shell. They drop back down and release **light energy**.
 
+#### Groups in the Periodic Table
+
+There are 18 groups in the periodic table. Here are some important ones
+
 ## Atomic numbers and mass numbers
 
 #### Atomic number
@@ -106,7 +110,7 @@ Electrons are too small to be counted.
 
 You can represent the mass number and atomic number of an element like this:
 
-![AZE](resources/science/AZE2.jpg)
+![AZE1](/resources/science/AZE2.jpg)
 
 where:
 - `A` is the atomic number
@@ -115,7 +119,14 @@ where:
 
 For example, for the element iron,
 
-![FE AZE](resources/science/AZE1.jpg)
+![FE AZE](/resources/science/AZE1.jpg)
+
+You can use this information to calculate the number of neutrons...
+    number of neutrons = A − Z = 56 − 26 = 30
+
+
+... and the number of electrons or the number of protons.
+    number of electrons = number of protons = Z = 26
 
 ## Ions
 
