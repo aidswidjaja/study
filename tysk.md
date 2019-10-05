@@ -30,6 +30,31 @@ That's why TYSK has a WhatsApp group chat for important and medium-priority anno
 
 ***
 
+## Get started with TYSK on Email
+
+TYSK uses Google Groups to distribute emails. It is an easy and reliable way to send notifications. It also has the added benefit of allowing people to visit the Google Groups page to view past notifications without having to search through their inbox.
+
+Make sure your email settings are turned on in order to receive our notifications. Press the User Settings dropdown (a person next to a cog) and click Membership and Email Settings to get emails sent at your preference.
+
+If you're using Gmail you can set up individual labels and features to ensure that emails aren't delegated by Gmail to the "Forums" tab. Visit the [TYSK Help page](https://adrian-study-club.netlify.com/tysk.html#use-things-you-should-know-on-email) for more.
+
+### View the TYSK Calendar
+
+You can view an assessment schedule Google Calendar here, [at this link](https://calendar.google.com/calendar/embed?src=3s2njvh3m3sulttuinhvmscbj4%40group.calendar.google.com&ctz=Australia%2FSydney). You can also integrate it with iCal by going to File >> New Calendar Subscription... and pasting https://calendar.google.com/calendar/ical/3s2njvh3m3sulttuinhvmscbj4%40group.calendar.google.com/public/basic.ics as your URL.
+
+### View older notifications
+
+Instead of looking through your emails to find previous notifications, you can use this Google Groups interface, available [here](https://groups.google.com/forum/#!forum/tysk-aloys), to find past notifications.
+
+### Volunteer to help TYSK
+
+You can volunteer in a number of ways.
+
+1. Join the TYSK Staff Team and send out notifications for everybody, or manage the TYSK Calendar.
+2. Send a school provided assessment notification [to this email address](https://adrian-study-club.netlify.com/tysk.html#use-things-you-should-know-on-email) for Elective subjects or Maths 5.2, so we can add it to the TYSK Calendar.
+
+***
+
 ## Use Things You Should Know on Email
 
 1. Join the Google Group 'Things You Should Know'.
