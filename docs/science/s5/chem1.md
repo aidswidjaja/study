@@ -119,7 +119,7 @@ Electrons are too small to be counted.
 
 You can represent the mass number and atomic number of an element like this:
 
-![AZE1](/resources/science/AZE2.jpg)
+![AZE1](../../resources/science/AZE2.jpg)
 
 where:
 - `A` is the atomic number
@@ -128,7 +128,7 @@ where:
 
 For example, for the element iron,
 
-![FE AZE](/resources/science/AZE1.jpg)
+![FE AZE](../../resources/science/AZE1.jpg)
 
 You can use this information to calculate the number of neutrons...
     number of neutrons = A − Z = 56 − 26 = 30
@@ -186,7 +186,7 @@ Positive ions are called **cations**, while negative ions are called **anions**.
 - Sodium chloride, copper sulfate and calcium carbonate are examples of ionic compounds. 
 - Ionic compounds occur where metal and non-metal atoms combine. This creates an ionic bond.ionic
 
-![Ionic bonds](/resources/science/ionicbonds.png)
+![Ionic bonds](../../resources/science/ionicbonds.png)
 
 Ionic compounds usually:
 
@@ -228,7 +228,7 @@ Atoms can share electrons to create a covalent bond. Covalent molecules can be b
 
 Elements combine and share electrons to achieve full electron shells. Here are some common covalent molecules.
 
-![Covalent molecules](/resources/science/covalent1.png)
+![Covalent molecules](../../resources/science/covalent1.png)
 
 Covalent compounds usuall:
 

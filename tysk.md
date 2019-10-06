@@ -51,7 +51,7 @@ Instead of looking through your emails to find previous notifications, you can u
 You can volunteer in a number of ways.
 
 1. Join the TYSK Staff Team and send out notifications for everybody, or manage the TYSK Calendar.
-2. Send a school provided assessment notification [to this email address](https://adrian-study-club.netlify.com/tysk.html#use-things-you-should-know-on-email) for Elective subjects or Maths 5.2, so we can add it to the TYSK Calendar.
+2. Send a school provided assessment notification [to this email address](https://adrian-study-club.netlify.com/tysk.html#use-things-you-should-know-on-email) for Elective subjects or Maths 5.2, so we can add it to the TYSK Calendar and provide TYSK notifications for it.
 
 ***
 
