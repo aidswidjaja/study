@@ -72,9 +72,9 @@ Through this challenging journey of self-discovery, our Participants:
 
 ## Resources
 
-- [Cooking with Trangias and Menu Planning](resources/dofe/Cooking%20with%20Trangias%20and%20Menu%20Planning.pdf)
-- [Bronze Training Manual](resources/dofe/BronzeTrainingManual.pdf)
-- [SAC Award Framework](resources/dofe/awardframework.pdf)
+- [Cooking with Trangias and Menu Planning](../../resources/dofe/Cooking%20with%20Trangias%20and%20Menu%20Planning.pdf)
+- [Bronze Training Manual](../..resources/dofe/BronzeTrainingManual.pdf)
+- [SAC Award Framework](../..resources/dofe/awardframework.pdf)
 - [NSW Award Framework](http://www.dukeofed.com.au/about-the-award/award-framework/)
 - [SAC Participant Agreement](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/SiteAssets/Pages/The-Duke-of-Edinburgh%27s-International-Award/Duke%20of%20Edinburgh%27s%20Award%20Participant%20Agreement.pdf)
 - [Assessor Commencement Guide​](https://3wsou42v16p23nizfdnrklyt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/CDOC1859310-Duke-of-Edinburghs-International-Award-NSW-Assessor-Commencement-Guide-ACG.pdf)

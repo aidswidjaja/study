@@ -67,6 +67,8 @@ Therefore:
 ```
 and so on. This is called the **2, 8, 18 rule**. Electrons fill from the inner most shell going outwards. You can see a diagramatic representation on this electron dot diagram.
 
+*The 2, 8, 18 rule has some caveats though. See [Shells!](#shells) for more information.*
+
 ![Lewis dot diagram](https://wellnessadvocate.com/images/elements/Sodium_Orbit.gif)
 
 #### Examples of electron configurations
@@ -162,7 +164,7 @@ Ions are atoms that have gained or lost electrons. It means they have an electri
 
 For example, a sodium atom might need to lose an electron to have a full valence shell, and a chloride atom might need to gain an electron to have a full valence shell. The sodium atom can lose an electron to the chloride atom and now both atoms have full valence shells.
 
-### Naming Ions
+### Naming ions
 
 Positive ions are called **cations**, while negative ions are called **anions**. Cations keep their original name (e.g boron, lithium, etc) while negative ions have the -ide suffix (e.g flouride, nitride, etc).
 

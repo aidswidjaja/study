@@ -4,7 +4,7 @@ layout: default
 nav_order: 6
 ---
 
-*The following applies for Aloys students only.*
+<label class="label label-blue">Aloys</label>
 
 # Things You Should Know is a free service to help you stay on top of your assessments, events and co-curricular activities.
 
