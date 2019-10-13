@@ -1,11 +1,11 @@
 ---
-title: "Extra Resources"
+title: "Extra Resources for Maths"
 layout: default
 parent: Maths
 nav_order: 5000
 ---
 
-# Extra Resources
+# Extra Resources for Maths
 
 ### like practice papers, NAPLAN past papers and stuff like that
 
@@ -21,4 +21,7 @@ If you'd like to download content locally to your computer, choose the second op
 
 <a class="btn" href="../resources/maths/pracpapers/index.html">View Maths resources on this website</a>
 
+##### Note to self: remember to regenerate tree command whenever files in `~/docs/resources/maths/pracpapers` are moved, deleted, created, or otherwise changed.
+
+For more information, go [here](tree.html).
 

@@ -30,13 +30,13 @@ and other things that might be of interest to you.
 
 I'm only sending it to my friends for the time being, but if you're not my friend that is okay and you can use it too. Just try not to tell too many people about it though.
 
-### Links are broken
-
-I've reshuffled internal file directories so currently we're in the process of fixing links and images. We'll update here once everything has been fixed, in the meantime please be patient.
-
 ### Help! The search function doesn't work!
 
 I'm currently waiting on a bugfix from the developers of Just the Docs, the Jekyll theme I'm using to host this website. Currently the `rake` command in bundle fails due to some unescaped ampersands in the code lol. Once the fix is released search will be available on this site. In the meantime, you can use `Ctrl` + `F` or `Cmd` + `F` to search for text on a page.
+
+## What does == and != mean?
+
+[See this website.](https://www.programiz.com/python-programming/operators)
 
 ### How much have you already completed?
 

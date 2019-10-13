@@ -51,6 +51,8 @@ Most volume of the electron is made up of empty space.
 
 e.g gold atom has 79 protons
 
+***
+
 ## Electrons
 ### and the 2, 8, 18 rule
 {: .no_toc }
@@ -95,10 +97,11 @@ There are 18 groups in the periodic table. Here are some important ones.
 | Group 18   | Noble gases           | Inert elements that aren't that reactive          |   |   |
 | Group 3-12 | Transition metals     | Metallic elements                                 |   |   |
 
+***
 
 ## Atomic numbers and mass numbers
 
-#### Atomic number
+### Atomic number
 
 We know that the number of protons an atom has dictates what atom it is. In the periodic table, this is known as the atomic number.
 
@@ -109,7 +112,7 @@ e.g Chlorine has 17 protons therefore it's atomic number is 17
 
 Atoms are electrically neutral and must have **the same number of electrons as protons**. Otherwise, they become ions.
 
-#### Mass number
+### Mass number
 
 ```
 Mass number == number of protons + number of neutrons
@@ -117,7 +120,7 @@ Mass number == number of protons + number of neutrons
 
 Electrons are too small to be counted.
 
-#### Subatomic particles
+### Subatomic particles
 
 You can represent the mass number and atomic number of an element like this:
 
@@ -139,6 +142,8 @@ You can use this information to calculate the number of neutrons...
 ... and the number of electrons or the number of protons.
     number of electrons = number of protons = Z = 26
 
+***
+
 ## The Periodic Table
 
 Metalloids are elements that have properties of both metals and non-metals. On the periodic table they sort of zig zag. There are more cool patterns too...
@@ -157,6 +162,24 @@ Metalloids are elements that have properties of both metals and non-metals. On t
 - The period tells you the number of electron shells.
 - The third shell can hold up to 18 electrons but any shell with more than 8 electrons become unstable. Therefore, after 8 electrons the fourth shell starts to fill.
 - From scandium to zinc (21 - 30) which are transition metals, the third shell fills, and then the fourth shell continues to fill up.
+
+### Valencies
+
+You need to know your valencies in the periodic table. You can write valencies above the group on your periodic table, or refer to this table.
+
+| Group             | Valency |
+|-------------------|---------|
+| Group 1           | 1       |
+| Group 2           | 2       |
+| Group 3           | 3       |
+| Group 4, group 14 | 4       |
+| Group 15          | 3       |
+| Group 16          | 2       |
+| Group 17          | 1       |
+
+This will be **really** helpful for naming chemical formulas of ionic and covalent compounds later on.
+
+***
 
 ## Ions
 
@@ -198,11 +221,46 @@ Ionic compounds usually:
 4. dissolve in water
 5. when dissolved to become an aqueous solution, this soltuion is usually conductive to electricity
 
+### Naming an ionic compound[^1]
+
 You can solve for a metal and a non-metal's ionic compound chemical formula using the cross method.
 
+> REMEMBER: Cations first!
+
+#### Explanation[^2]
+
+    Find the chemical formula for iron(III) bromide.
+
+> NB: Note that electrovalency, valency, and charges are sometimes interchangably. They are similar but not the same.
+> NOTICE that iron is a metal and bromide is a non-metal.
+
+To determine the formula of an **ionic compound**, you need to balance the charges (electrovalencies). Compounds have to be **electrically neutral**. To do this:
+
+1. Find electrovalencies of the ions in the compound. For example:
+    Iron has a charge of +3
+    Bromide has a charge of -1
+2. Figure out how many negative ions you need to balance out positive ions, and vice versa. 
+```
+To balance out iron's charge of +3, you need 3 bromide ions. Therefore,
+    1x iron ion
+        charge of single iron(III) ion == +3
+        total charge of 1x iron ion == +3
+    3x bromide ion
+        charge of single bromide ion == -1
+        total charge of 3x bromide ion == -3
+∴ iron total charge of +3 balances with bromide total charge of -3
+```
+3. Write the formula.
+    One iron ion, three bromide ions
+    ∴ FeBr₃ is the chemical formula for iron(III) bromide
+
+#### Crossover method
+
+An easy method to determine ionic compound formulae.
+
 1. Take a metal and a non-metal. For this example, we will use magnesium and chloride.
-2. Write their corresponding valencies without + or - under them. For example, magnesium's valency is +2 and chloride's valency is -1.
-3. "Cross over" these valencies. Therefore, we end in MgCl2.
+2. Write their corresponding valencies without + or - under them. For example, magnesium's valency is +2 and chloride's valency is -1. 
+3. "Cross over" these valencies. Therefore, we end in `MgCl2`.
 ```
 Mg      Cl
 +2      -1
@@ -211,20 +269,19 @@ Mg      Cl
    MgCl2
 ```
 
-You need to know your valencies in the periodic table. You can write valencies above the group on your periodic table, or refer to this table.
+Remember, the elements need to achieve **electrical neutrality**.  How many `Cl` ions do you need to neutralise `Mg`?
 
-| Group             | Valency |
-|-------------------|---------|
-| Group 1           | 1       |
-| Group 2           | 2       |
-| Group 3           | 3       |
-| Group 4, group 14 | 4       |
-| Group 15          | 3       |
-| Group 16          | 2       |
-| Group 17          | 1       |
+Monoatomic ions such as aluminium ion, oxide ion and sodium ion contain one symbol. If you receive a radical or a **group of atoms with one singular charge** it is known as a polyatomic ion. These include  nitrate (NO₃ - overall charge 1-), sulfate (SO₄ - overall charge 2-) and phosphate (PO₄ - overall charge 3-)
 
+> QUICK NOTE: Radicals are groups of atoms with an overall charge.
 
-# Covalent compounds
+See the example below for a demonstration on hwo to deal with polyatomic ions.
+
+#### Examples
+
+***
+
+## Covalent compounds
 
 Atoms can share electrons to create a covalent bond. Covalent molecules can be between more than one type of atom or atoms of the same element. For example, oxygen gas (O2) is made up of two oxygen atoms sharing electrons.
 
@@ -232,11 +289,17 @@ Elements combine and share electrons to achieve full electron shells. Here are s
 
 ![Covalent molecules](../../resources/science/covalent1.png)
 
-Covalent compounds usuall:
+Covalent compounds usually:
 
 1. are gases, liquids, or solids with low melting points
 2. aren't electrically conductive
 3. insolube in water
 
+### Naming a covalent compound
 
+***
 
+## Footnotes and Normal Notes
+
+[^1]: Chapter 5.8, Finding the Right Formula – Core Science Stage 5 NSW Australian Curriculum Second Edition
+[^2]: Formulas for Ionic Compounds – Chemistry 101 Class Notes at Indiana University Northwesthttp://www.iun.edu/~cpanhd/C101webnotes/composition/formioncmpds.html

@@ -7,6 +7,7 @@ parent: Maths
 ---
 
 # Year 8 Maths
+<label class="label label-green">Complete</label>
 
 #### STUDY NOTES
 
