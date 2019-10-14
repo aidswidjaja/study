@@ -32,9 +32,9 @@ I'm only sending it to my friends for the time being, but if you're not my frien
 
 ### Help! The search function doesn't work!
 
-I'm currently waiting on a bugfix from the developers of Just the Docs, the Jekyll theme I'm using to host this website. Currently the `rake` command in bundle fails due to some unescaped ampersands in the code lol. Once the fix is released search will be available on this site. In the meantime, you can use `Ctrl` + `F` or `Cmd` + `F` to search for text on a page.
+I'm currently waiting on a bugfix from the developers of Just the Docs, the theme I'm using on this website. In the meantime, use `Ctrl`+`F` on Windows or `Command`+`F` on Mac to find content within a webpage. [Click here for more information on the issue.](https://github.com/pmarsceill/just-the-docs/pull/218)
 
-## What does == and != mean?
+### What does == and != mean?
 
 [See this website.](https://www.programiz.com/python-programming/operators)
 
