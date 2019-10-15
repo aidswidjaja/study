@@ -11,7 +11,7 @@ nav_order: 5000
 
 <label class="label label-blue">In-Progress</label> 
 
-<a class="btn" href="../resources/commerce/pracpapers/index.html">View Commerce resources on this website</a>
+<a class="btn" href="../resources/commerce/index.html">View Commerce resources on this website</a>
 
 ##### Note to self: remember to regenerate tree command whenever files in `~/docs/resources/commerce/pracpapers` are moved, deleted, created, or otherwise changed. For more information, go [here](tree.html).
 
