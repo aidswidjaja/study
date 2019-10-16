@@ -7,9 +7,9 @@ nav_order: 5000
 
 # Extra Resources for Commerce
 
-### like practice papers and marking criterias
+### like practice papers and marking criteria
 
-<label class="label label-blue">In-Progress</label> 
+<label class="label label-green">Complete</label>
 
 <a class="btn" href="../resources/commerce/index.html">View Commerce resources on this website</a>
 

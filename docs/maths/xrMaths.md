@@ -9,7 +9,7 @@ nav_order: 5000
 
 ### like practice papers, NAPLAN past papers and stuff like that
 
-<label class="label label-blue">In-Progress</label> 
+<label class="label label-green">Complete</label>
 
 You can choose from two mirrors. Google Drive and Netlify CDN. Both are fast options.
 
