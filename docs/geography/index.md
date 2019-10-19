@@ -11,7 +11,8 @@ With credit to the following resources:
 
 * Oxford Insight Geography Stage 4 Australian Curriculum for NSW
 * Oxford Insight Geography Stage 5 Australian Curriculum for NSW
-* BBC Bitesize GCSE (CCSE, AQA, OCR, and Edexcel)
+* BBC Bitesize KS3 Geography
+* BBC Bitesize GCSE Geography (CCEA, AQA, OCR, and Edexcel)
 
 #### Study Notes
 

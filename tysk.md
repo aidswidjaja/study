@@ -29,7 +29,6 @@ TYSK also has a WhatsApp group chat for important and medium-priority announceme
 
 You can view an assessment schedule Google Calendar here, [at this link](https://calendar.google.com/calendar/embed?src=3s2njvh3m3sulttuinhvmscbj4%40group.calendar.google.com&ctz=Australia%2FSydney). You can also integrate it with iCal by going to File >> New Calendar Subscription... and pasting `https://calendar.google.com/calendar/ical/3s2njvh3m3sulttuinhvmscbj4%40group.calendar.google.com/public/basic.ics` as your URL.
 
-
 ### Volunteer to help TYSK
 
 You can volunteer in a number of ways.

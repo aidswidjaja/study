@@ -299,7 +299,7 @@ Covalent compounds usually:
 
 ***
 
-## Footnotes and Normal Notes
+## Footnotes and Other Notes
 
 [^1]: Chapter 5.8, Finding the Right Formula – Core Science Stage 5 NSW Australian Curriculum Second Edition
-[^2]: Formulas for Ionic Compounds – Chemistry 101 Class Notes at Indiana University Northwesthttp://www.iun.edu/~cpanhd/C101webnotes/composition/formioncmpds.html
+[^2]: Formulas for Ionic Compounds – Chemistry 101 Class Notes at Indiana University Northwest http://www.iun.edu/~cpanhd/C101webnotes/composition/formioncmpds.html

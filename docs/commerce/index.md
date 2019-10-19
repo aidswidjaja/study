@@ -10,7 +10,7 @@ has_children: true
 With credit to the following resources:
 
 * New concepts in commerce – Third Edition (978 1 118 40100 2 [web])
-* BBC Bitesize GCSE (CCSE, AQA, OCR, and Edexcel) – Business
+* BBC Bitesize GCSE Business Studies (CCSE, AQA, OCR, and Edexcel)
 
 #### Extra Resources
 

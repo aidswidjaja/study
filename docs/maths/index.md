@@ -12,9 +12,9 @@ With credit to the following resources:
 
 * CambridgeMATHS NSW Syllabus for the Australian Curriculum Year 7 Option 1
 * CambridgeMATHS NSW Syllabus for the Australian Curriculum Year 8 Option 1
-* CambridgeMATHS NSW Year 9 5.1/5.2/5.3 Second Edition
-* BBC Bitesize GCSE (CCSE, AQA, OCR, and Edexcel)
-
+* CambridgeMATHS NSW Syllabus for the Australian Curriculum Year 9 5.1/5.2/5.3 Second Edition
+* BBC Bitesize KS3 Maths
+* BBC Bitesize GCSE Maths (CCEA, AQA, OCR, and Edexcel)
 
 #### CHEAT SHEETS AND OTHER RESOURCES
 
