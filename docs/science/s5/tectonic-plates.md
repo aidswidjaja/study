@@ -51,6 +51,7 @@ Evidence for this includes:
 ![Glacial deposits around the world](https://www.geolsoc.org.uk/~/media/shared/images/education%20careers/KS4/Chapter%201/slide8.jpg?la=en)
 5. Tectonic and seismic activity seems to concentrate on the boundaries of the plates, known as the Ring of Fire. 
 ![Global Earthquakes](https://upload.wikimedia.org/wikipedia/commons/7/77/EQs_1900-2013_worldseis.png)
+6. The magnetic north pole continually moved around[^2]
 
 Tectonic activity is the reason that our natural terrain is extremely varied. The Mid-Ocean Ridge and Marianas Trench are some examples of terrain formed by a divergent boundary and a convergent boundary respectively. The San Andreas Fault in California is a good example of a transform boundary.
 
@@ -78,9 +79,24 @@ Plates move because of convection currents in the molten liquid rock in the mant
 
 ![Convection currents in the asthenosphere](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oceanic_spreading.svg/1200px-Oceanic_spreading.svg.png)
 
-Heat generated from the really hot outer core rises, and when it gets to the top, is blocked by the crust, spreads out at the top, and falls when it begins to cool. This moves the boundaries of the plates. Gravity from the Sun and the Moon also has an effect on how plates move.
+Heat generated from the really hot outer core rises, and when it gets to the top, is blocked by the crust, spreads out at the top, and falls when it begins to cool. This moves the boundaries of the plates. As a result, the crust is affected by changing boundaries and this is what causes magma to upwell, usually at the site of divergent boundary (volcanic activity).
+
+## History of Tectonic Plates[^2]
+
+Alfred Wegener proposed the theory of continental drift, and that continents "plower This was due to the geographical evidence where coastlines fit together. Paleontologists – fossil scientists, found fossils on different continents. Moving into the present, underwater seisometers meant to alert nuclear activity showed that there was increased volcanic and seismic activity around the edges of plates. This, which occurred in the 1960s, basically made plate tectonic theory the dominant accepted theory for how the Earth was shaped.
+
+## Folds and Faults
+
+### Folding
+
+* Earth's crust bends, and this causes folding
+* When plates collide and are forced into each other, folding occurs. This process is known as compression.
+* Horizontal compression occurs which creates mountains.
+
+
 
 ## Footnotes and Other Notes
 
-[^1]: https://www.bbc.co.uk/bitesize/guides/z79mtv4/revision/3
+[^1]: Tectonic Plates on BBC Bitesize – https://www.bbc.co.uk/bitesize/guides/z79mtv4/revision/3
+[^2]: Southern Californian Earthquake Center at the University of Southern California and NASA Jet Propulsion Labatory – Integrated GPS Network Education Module http://scecinfo.usc.edu/education/k12/learn/plate2.htm (yes it's from 1998 I know okay)
 

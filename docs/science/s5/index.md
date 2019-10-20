@@ -66,12 +66,12 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [ ] Third line of defense
 
 #### Big Ideas In Science – Plate Tectonics (Chapter 8.2-8.6)
-- [ ] Wegener’s theory of continental drift
-- [ ] Describe the use of scientific ideas and technology in the development of the theory of plate tectonics
+- [x] Wegener’s theory of continental drift
+- [x] Describe the use of scientific ideas and technology in the development of the theory of plate tectonics
 - [x] Describe what Pangea was and when it existed
 - [x] Describe the features of Earth’s crust compared with other layers above and below it.
 - [x] Evidence supporting theories related to plate tectonics, including location of volcanoes and earthquake activity
-- [ ] Explain plate movement in terms of:
+- [x] Explain plate movement in terms of:
  	- heat and convection currents
 	- forces acting in the Earth’s crust
 	- types of boundaries
