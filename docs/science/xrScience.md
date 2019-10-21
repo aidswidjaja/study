@@ -11,6 +11,12 @@ nav_order: 5000
 
 ***
 
+## Adrian's Google Slides
+
+
+
+***
+
 ## C101 Indiana University Northwest
 
 [Chemistry 101 Class Notes at Indiana University Northwest](http://www.iun.edu/~cpanhd/C101webnotes/index.html){: .btn .btn-blue}

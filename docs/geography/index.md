@@ -14,6 +14,8 @@ With credit to the following resources:
 * BBC Bitesize KS3 Geography
 * BBC Bitesize GCSE Geography (CCEA, AQA, OCR, and Edexcel)
 
+**Looking for Geology? You might be able to find more information on plate tectonics in [Science](../science/s5/tectonic-plates.html).**
+
 #### Study Notes
 
 - [ ] Interconnections 

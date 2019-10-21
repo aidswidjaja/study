@@ -10,6 +10,7 @@ parent: Science
 
 #### Chemistry (Chapter 5.6; 5.8) 
 <label class="label label-green">Complete</label>
+
 NB: You will be provided with a polyatomic ion data sheet and periodic table during the exam. This is also attached to this notification for your reference.
 
 - [x] Understanding what an ion is
@@ -29,11 +30,13 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [ ] Writing chemical equations
 - [ ] Naming salts formed from acid reactions
 - [ ] Be able to describe what happens when an acid reacts with:
+
     - a base
     - an active metal
     - a carbonate
 - [ ] For each of these reaction types, be able to write:
 - word equations
+
 	- balanced chemical equations
 - [ ] Relate metal reactivity to position on the periodic table
 - [ ] Balancing chemical equations/conservation of mass 
@@ -72,6 +75,7 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Describe the features of Earth’s crust compared with other layers above and below it.
 - [x] Evidence supporting theories related to plate tectonics, including location of volcanoes and earthquake activity
 - [x] Explain plate movement in terms of:
+
  	- heat and convection currents
 	- forces acting in the Earth’s crust
 	- types of boundaries
@@ -90,7 +94,7 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [ ] Steps in the Scientific method
 - [ ] Assessing Theories, laws and models
 
-
+###### Quack quack, I think we have an SRP next year by the way.
 
 ### Polyatomic ion sheet
 
@@ -101,9 +105,6 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 | nitrate   | NO3 (1-)         |
 | hydroxide | OH (1-)          |
 | ammonium  | NH4 (1-)         |
-
-
-###### Quack quack, I think we have an SRP next year by the way.
 
 #### QUIZLET FLASHCARDS AND IRL NOTES
 

@@ -87,16 +87,30 @@ Alfred Wegener proposed the theory of continental drift, and that continents "pl
 
 ## Folds and Faults
 
-### Folding
+### Folding[^3]
 
 * Earth's crust bends, and this causes folding
 * When plates collide and are forced into each other, folding occurs. This process is known as compression.
 * Horizontal compression occurs which creates mountains.
 
+![Folding](../../resources/science/folds.jpg)
+
+In folding mountains, the part folded upwards is the anticline and the part folded downwards is the syncline.
+
+![Anticline and Syncline](https://www.radford.edu/jtso/GeologyofVirginia/Photos/Structures/FoldDiagram.jpg)
+
+![Age of anticline and Syncline](https://www.radford.edu/jtso/GeologyofVirginia/Photos/Structures/Foldblock.png)
+
+[More on Fold Mountains on BBC Bitesize GCSE Geography](https://www.bbc.co.uk/bitesize/guides/zyfxdmn/revision/1){: .btn .btn-purple}
+
+## Faults
+
 
 
 ## Footnotes and Other Notes
 
-[^1]: Tectonic Plates on BBC Bitesize – https://www.bbc.co.uk/bitesize/guides/z79mtv4/revision/3
-[^2]: Southern Californian Earthquake Center at the University of Southern California and NASA Jet Propulsion Labatory – Integrated GPS Network Education Module http://scecinfo.usc.edu/education/k12/learn/plate2.htm (yes it's from 1998 I know okay)
-
+[^1]: [Tectonic Plates on BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/z79mtv4/revision/3)
+[^2]: [Southern Californian Earthquake Center at the University of Southern California and NASA Jet Propulsion Labatory – Integrated GPS Network Education Module](http://scecinfo.usc.edu/education/k12/learn/plate2.htm) (yes it's from 1998 I know okay)
+[^3]: [Dr Jon Tso at Radford University in Radford, Virginia, United States](https://www.radford.edu/jtso/GeologyofVirginia/Structures/GeologyOfVAStructures4-2e.html)
+[^4]: [KS1 and KS2 Earthquakes](https://www.theschoolrun.com/homework-help/earthquakes)
+[^5]: [British Geological Survey](https://www.bgs.ac.uk/discoveringGeology/hazards/earthquakes/seismicWaves.html)
