@@ -30,13 +30,11 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [ ] Writing chemical equations
 - [ ] Naming salts formed from acid reactions
 - [ ] Be able to describe what happens when an acid reacts with:
-
     - a base
     - an active metal
     - a carbonate
 - [ ] For each of these reaction types, be able to write:
-- word equations
-
+    - word equations
 	- balanced chemical equations
 - [ ] Relate metal reactivity to position on the periodic table
 - [ ] Balancing chemical equations/conservation of mass 
@@ -44,8 +42,8 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 #### Control Systems (Chapter 1 + 2)
 - [ ] Endocrine System
 - [ ] How does the human body use hormones to maintain:
-- the right amount of glucose in the blood
-- the correct temperature
+    - the right amount of glucose in the blood
+    - the correct temperature
 - [ ] Negative feedback diagrams
 - [ ] Location and function of Endocrine glands (including names of hormones)
 
@@ -75,7 +73,6 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Describe the features of Earth’s crust compared with other layers above and below it.
 - [x] Evidence supporting theories related to plate tectonics, including location of volcanoes and earthquake activity
 - [x] Explain plate movement in terms of:
-
  	- heat and convection currents
 	- forces acting in the Earth’s crust
 	- types of boundaries
