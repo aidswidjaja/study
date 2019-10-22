@@ -7,7 +7,7 @@ parent: Maths
 ---
 
 # Year 9 Maths
-## "the earth is flat" – our Year 9 maths teacher (can we move this quote pls to angles of depression and elevation, pretty pls?)
+
 
 [View more 5.3 resources in Google Drive](https://drive.google.com/drive/folders/1Lc8Ct2LC0LQ_yq95yTJHZh5Sq8j7gDBN?usp=sharing){: .btn}
 
@@ -15,7 +15,7 @@ parent: Maths
 
 - [ ] Year 9 Maths 5.3 Chapter 1 - Computation and financial mathematics <label class="label label-purple">Planned</label> <label class="label label-red">High-priority</label>
 - [ ] Year 9 Maths 5.3 Chapter 2 - Expressions, equations and inequalities <label class="label label-blue">In-Progress</label>
-- [ ] Year 9 Maths 5.3 Chapter 3 - Right-angled triangles <label class="label label-purple">Planned</label>
+- [x] Year 9 Maths 5.3 Chapter 3 - Right-angled triangles <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 4 - Linear relationships <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 5 - Length, area, surface area and volume <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 6 - Indices and surds <label class="label label-purple">Planned</label> <label class="label label-red">High-priority</label> 

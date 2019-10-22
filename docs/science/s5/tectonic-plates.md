@@ -93,7 +93,7 @@ Alfred Wegener proposed the theory of continental drift, and that continents "pl
 * When plates collide and are forced into each other, folding occurs. This process is known as compression.
 * Horizontal compression occurs which creates mountains.
 
-![Folding](../../resources/science/folds.jpg)
+![Folding](../../resources/science/folding.jpg)
 
 In folding mountains, the part folded upwards is the anticline and the part folded downwards is the syncline.
 
