@@ -11,6 +11,14 @@ nav_order: 8
 ## The Earth, in a nutshell
 {: .no_toc }
 
+#### Table of Contents
+{: .no_toc }
+
+* Table of Contents
+{:toc}
+
+***
+
 ![The Earth in a nutshell](https://bam.files.bbci.co.uk/bam/live/content/zfpy3k7/medium)
 
 Earth is made up of tectonic plates; plates of crust that float on the mantle. Here’s a table of the different parts of the Earth.
@@ -85,13 +93,14 @@ Heat generated from the really hot outer core rises, and when it gets to the top
 
 Alfred Wegener proposed the theory of continental drift, and that continents "plower This was due to the geographical evidence where coastlines fit together. Paleontologists – fossil scientists, found fossils on different continents. Moving into the present, underwater seisometers meant to alert nuclear activity showed that there was increased volcanic and seismic activity around the edges of plates. This, which occurred in the 1960s, basically made plate tectonic theory the dominant accepted theory for how the Earth was shaped.
 
-## Folds and Faults
+## Folds, Faults and Subduction
 
 ### Folding[^3]
 
 * Earth's crust bends, and this causes folding
 * When plates collide and are forced into each other, folding occurs. This process is known as compression.
 * Horizontal compression occurs which creates mountains.
+* This process occurs at **collision zones**.
 
 ![Folding](../../resources/science/folding.jpg)
 
@@ -103,7 +112,38 @@ In folding mountains, the part folded upwards is the anticline and the part fold
 
 [More on Fold Mountains on BBC Bitesize GCSE Geography](https://www.bbc.co.uk/bitesize/guides/zyfxdmn/revision/1){: .btn .btn-purple}
 
-## Faults
+### Faults
+
+* Tectonic plates horizontally slip
+* This process is known as **rifting**, where the lithosphere is torn apart
+
+In fault-block mountains, the raised block is the **horst** while the lowered block is the **graben**.
+
+![Fault mountain](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fault-Horst-Graben.svg/2880px-Fault-Horst-Graben.svg.png)
+
+### Subduction[^6]
+
+[Destructive Plate Margins on BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zss8rwx/revision/5){: .btn .btn-green}
+
+* A geological process at convergent boundaries, where one plate dives under another
+* Most common with an oceanic plate, and a continental plate
+* The oceanic plate is denser, and it moves below the continental plate
+* This triggers earthquakes
+* This process occurs at the **subduction zone**.
+
+![Subduction zone](https://bam.files.bbci.co.uk/bam/live/content/ztjrj6f/large)
+
+When subduction occurs, it usually means that crust will be subducted too. This means that mantle from the asthenosphere will be upwelled to form new crust.
+
+![Seafloor upwelling/spreading](http://newsimg.bbc.co.uk/media/images/42718000/gif/_42718737_earth_crust416.gif)
+
+## Earthquakes
+
+Seismic and volcanic activity are more likely at the boundaries of tectonic plates. Most of the sliding, pushing, pulling, seafloor spreading and upwelling occurs along the tectonic plates. A large number of earthquakes and volcanic activity occur around the Pacific Plate. This is known as the Ring of Fire.
+
+![Ring of Fire](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pacific_Ring_of_Fire.svg/1200px-Pacific_Ring_of_Fire.svg.png)
+
+We can measure how much energy an earthquake produces using the Richter scale, which is a scale of magnitude. Every increase of 1 on the scale is an increase of amplitude by 10.
 
 
 
@@ -114,3 +154,4 @@ In folding mountains, the part folded upwards is the anticline and the part fold
 [^3]: [Dr Jon Tso at Radford University in Radford, Virginia, United States](https://www.radford.edu/jtso/GeologyofVirginia/Structures/GeologyOfVAStructures4-2e.html)
 [^4]: [KS1 and KS2 Earthquakes](https://www.theschoolrun.com/homework-help/earthquakes)
 [^5]: [British Geological Survey](https://www.bgs.ac.uk/discoveringGeology/hazards/earthquakes/seismicWaves.html)
+[^6]: [Destructive Plate Margins on BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zss8rwx/revision/5)

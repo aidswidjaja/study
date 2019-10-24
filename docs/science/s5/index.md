@@ -8,6 +8,10 @@ parent: Science
 
 # Stage 5 Science
 
+## so what's the difference between a cation and an anion again?
+
+<label class="label label-red">High-priority</label>
+
 #### Chemistry (Chapter 5.6; 5.8) 
 <label class="label label-green">Complete</label>
 
@@ -76,9 +80,9 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
  	- heat and convection currents
 	- forces acting in the Earth’s crust
 	- types of boundaries
-- [ ] Describe the process of folding and faulting and relate to mountain formation	
-- [ ] Describe and compare the processes of subduction and the formation of ocean ridges
-- [ ] Relate earthquake and volcanic activity to movement along plate boundaries
+- [x] Describe the process of folding and faulting and relate to mountain formation	
+- [x] Describe and compare the processes of subduction and the formation of ocean ridges
+- [x] Relate earthquake and volcanic activity to movement along plate boundaries
 - [ ] Compare energy released by earthquakes using the Richter scale
 - [ ] Associate tsunamis with earthquakes and volcanic activity
 - [ ] Distinguish between lava and magma

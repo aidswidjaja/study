@@ -18,9 +18,9 @@ With credit to the following resources:
 
 #### CHEAT SHEETS AND OTHER RESOURCES
 
-- [ ] Practice Papers <label class="label label-red">High-priority</label>
+- [x] Practice Papers <label class="label label-red">High-priority</label>
 
-Practice papers are available on [Google Drive](https://drive.google.com/drive/folders/1Lc8Ct2LC0LQ_yq95yTJHZh5Sq8j7gDBN?usp=sharing) but I'll add them here too later.
+<a class="btn" href="../resources/maths/pracpapers/index.html">View Maths resources on this website</a>
 
 ***
 

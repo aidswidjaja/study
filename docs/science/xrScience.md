@@ -11,6 +11,18 @@ nav_order: 5000
 
 ***
 
+## Practice Papers
+
+<label class="label label-green">Complete</label>
+
+
+<a class="btn" href="../resources/science/pracpapers/index.html">View Science resources on this website</a>
+
+##### Note to self: remember to regenerate tree command whenever files in `~/docs/resources/science/pracpapers` are moved, deleted, created, or otherwise changed. For more information, go [here](../maths/tree.html).
+
+
+***
+
 ## Adrian's Google Slides
 
 

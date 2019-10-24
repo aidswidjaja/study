@@ -22,6 +22,8 @@ parent: Science
 
 ## Stage 4 Concepts and Outcomes
 
+<label class="label label-blue">Awaiting upload</label>
+
 ##### Release note: All of these are yet to be uploaded to this website...
 
 #### Chemical reactions <label class="label label-yellow">Redundant</label>

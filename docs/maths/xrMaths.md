@@ -11,11 +11,13 @@ nav_order: 5000
 
 <label class="label label-green">Complete</label>
 
-You can choose from two mirrors. Google Drive and Netlify CDN. Both are fast options.
+You can choose from two mirrors. Google Drive and Netlify CDN. Both are fast options, but they both have different content.
 
-If you'd like to view content online, share it with others, or put it in your own Google Drive, choose the first option, "View Maths resources on Google Drive".
+Some content from T1, T2, and T3 are on Google Drive. This doesn't get actively maintained.
 
-If you'd like to download content locally to your computer, choose the second option, "View Maths resources on this website".
+If you're studying for finals, they are being actively uploaded to this website (Netlify CDN). 
+
+In the future, we will try and match the two databases so they both have the same content, or limit it only to one.
 
 [View Maths resources on Google Drive](https://drive.google.com/drive/folders/1Lc8Ct2LC0LQ_yq95yTJHZh5Sq8j7gDBN?usp=sharing){: .btn}
 

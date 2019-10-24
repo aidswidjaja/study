@@ -1,8 +1,7 @@
 ---
 title: "NESA HSC Terminology"
 layout: default
-parent: Geography
-nav_order: 5
+nav_order: 9
 ---
 
 # NESA HSC Terminology
