@@ -20,12 +20,11 @@ nav_order: 5000
 
 ##### Note to self: remember to regenerate tree command whenever files in `~/docs/resources/science/pracpapers` are moved, deleted, created, or otherwise changed. For more information, go [here](../maths/tree.html).
 
-
 ***
 
 ## Adrian's Google Slides
 
-
+<label class="label label-blue">In-progress</label>
 
 ***
 
