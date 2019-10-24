@@ -10,7 +10,7 @@ nav_order: 2
 ## also known as Chemistry – the inside story
 {: .no_toc }
 
-<label class="label label-blue">In-Progress</label>
+<label class="label label-green">Complete</label>
 
 #### Table of Contents
 {: .no_toc }
@@ -18,7 +18,7 @@ nav_order: 2
 * Table of Contents
 {:toc}
 
-*Hey there! Please be advised if you're an <label class="label label-blue">Aloys</label> boi this doesn't exactly match your textbook! I've tried to keep similar concepts together so if you can't find something, feel free to use the textbook, or use that neat little search bar up the top there! Thanks!*
+*Hey there! Please be advised if you're an* <label class="label label-blue">Aloys</label> *boi this doesn't exactly match your textbook! I've tried to keep similar concepts together so if you can't find something, feel free to use the textbook, or use that neat little search bar up the top there! Thanks!*
 
 ***
 

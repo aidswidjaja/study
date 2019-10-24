@@ -11,6 +11,8 @@ nav_order: 8
 ## The Earth, in a nutshell
 {: .no_toc }
 
+<label class="label label-green">Complete</label>
+
 #### Table of Contents
 {: .no_toc }
 
@@ -63,6 +65,8 @@ Evidence for this includes:
 
 Tectonic activity is the reason that our natural terrain is extremely varied. The Mid-Ocean Ridge and Marianas Trench are some examples of terrain formed by a divergent boundary and a convergent boundary respectively. The San Andreas Fault in California is a good example of a transform boundary.
 
+***
+
 ## Moooooove over!
 
 ### How do plates move?
@@ -92,6 +96,8 @@ Heat generated from the really hot outer core rises, and when it gets to the top
 ## History of Tectonic Plates[^2]
 
 Alfred Wegener proposed the theory of continental drift, and that continents "plower This was due to the geographical evidence where coastlines fit together. Paleontologists – fossil scientists, found fossils on different continents. Moving into the present, underwater seisometers meant to alert nuclear activity showed that there was increased volcanic and seismic activity around the edges of plates. This, which occurred in the 1960s, basically made plate tectonic theory the dominant accepted theory for how the Earth was shaped.
+
+***
 
 ## Folds, Faults and Subduction
 
@@ -143,9 +149,49 @@ Seismic and volcanic activity are more likely at the boundaries of tectonic plat
 
 ![Ring of Fire](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pacific_Ring_of_Fire.svg/1200px-Pacific_Ring_of_Fire.svg.png)
 
-We can measure how much energy an earthquake produces using the Richter scale, which is a scale of magnitude. Every increase of 1 on the scale is an increase of amplitude by 10.
+We can measure how much energy an earthquake produces using the Richter scale, which is a scale of magnitude. Every increase of 1 on the scale is an increase of amplitude by 10. **Familiarise yourself with the Richter scale now.**
 
+| Magnitude       | Description | Mercalli intensity | Average earthquake effects                                                                                                                                                                                                                                                                                                             | Average frequency of occurrence globally (estimated) |
+|-----------------|-------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| 1.0–1.9         | Micro       | I                  | Microearthquakes, not felt, or felt rarely. Recorded by seismographs.[30]                                                                                                                                                                                                                                                              | Continual/several million per year                   |
+| 2.0–2.9         | Minor       | I to II              | Felt slightly by some people. No damage to buildings.                                                                                                                                                                                                                                                                                  | Over one million per year                            |
+| 3.0–3.9         |             | III to IV            | Often felt by people, but very rarely causes damage. Shaking of indoor objects can be noticeable.                                                                                                                                                                                                                                      | Over 100,000 per year                                |
+| 4.0–4.9         | Light       | IV to VI             | Noticeable shaking of indoor objects and rattling noises. Felt by most people in the affected area. Slightly felt outside. Generally causes none to minimal damage. Moderate to significant damage very unlikely. Some objects may fall off shelves or be knocked over.                                                                | 10,000 to 15,000 per year                            |
+| 5.0–5.9         | Moderate    | VI to VII            | Can cause damage of varying severity to poorly constructed buildings. At most, none to slight damage to all other buildings. Felt by everyone.                                                                                                                                                                                         | 1,000 to 1,500 per year                              |
+| 6.0–6.9         | Strong      | VIII to X            | Damage to a moderate number of well-built structures in populated areas.Earthquake-resistant structuressurvive with slight to moderate damage. Poorly designed structures receive moderate to severe damage. Felt in wider areas; up to hundreds of miles/kilometers from the epicenter. Strong to violent shaking in epicentral area. | 100 to 150 per year                                  |
+| 7.0–7.9         | Major       | X or greater  | Causes damage to most buildings, some to partially or completely collapse or receive severe damage. Well-designed structures are likely to receive damage. Felt across great distances with major damage mostly limited to 250 km from epicenter.                                                                                      | 10 to 20 per year                                    |
+| 8.0–8.9         | Great       |                    | Major damage to buildings, structures likely to be destroyed. Will cause moderate to heavy damage to sturdy or earthquake-resistant buildings. Damaging in large areas. Felt in extremely large regions.                                                                                                                               | One per year                                         |
+| 9.0 and greater |             |                    | At or near total destruction – severe damage or collapse to all buildings. Heavy damage and shaking extends to distant locations. Permanent changes in ground topography.                                                                                                                                                              | One per 10 to 50 years                               |
 
+***
+
+### Tsunamis
+
+Many earthquakes occur underwater. When earthquakes occur, they can trigger waves. Waves travel long distances, and as the water gets shallower, the waves slow down. Then, they become higher and more closely packed. Adrian personally suggests you to check Tsunamis on BBC Bitesize for a better understanding!
+
+[Tsunamis on BBC Bitesize GCSE Edexcel](https://www.bbc.co.uk/bitesize/guides/zw7s4j6/revision/7){: .btn .btn-green }
+
+![Tsunamis](https://bam.files.bbci.co.uk/bam/live/content/z2h6v4j/large)
+
+***
+
+## Lava and Magma
+
+NOTE: Volcanoes will remain somewhat <label class="label label-yellow">Redundant</label> because it isn't being covered at Adrian's school. If you'd like to contribute, feel free to. Otherwise, please check out [BBC Bitesize's information on volcanoes](https://www.bbc.co.uk/bitesize/guides/zgh79qt/revision/1)
+
+![Lava and Magma](https://www.earthobservatory.sg/files/faq/magmavslava_copy.png)
+
+Volcanoes are formed when magma escapes through cracks in the crust and spews out as lava.
+
+Magma is molten rock. Then, when it escapes, it cools down and hardens as lava.
+
+***
+
+## Straya
+
+Australia lies in the centre of the Australian plate, which keeps it relatively immune from seismic and volcanic activity. As the mainland is not near any plate boundaries it doesn't occur near Australia a lot. This makes Australia quite a stable continent.
+
+**
 
 ## Footnotes and Other Notes
 

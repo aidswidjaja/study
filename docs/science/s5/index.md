@@ -13,6 +13,7 @@ parent: Science
 <label class="label label-red">High-priority</label>
 
 #### Chemistry (Chapter 5.6; 5.8) 
+
 <label class="label label-green">Complete</label>
 
 NB: You will be provided with a polyatomic ion data sheet and periodic table during the exam. This is also attached to this notification for your reference.
@@ -23,8 +24,8 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Chemical equations involving polyatomic ions 
 
 #### Acids (Chapter 7.5; 7.6)
-- [ ] Properties of Acids and Bases
-- [ ] Chemical formula of common acids (hydrochloric, nitric, sulfuric) and bases (sodium hydroxide, potassium hydroxide, calcium hydroxide)
+- [x] Properties of Acids and Bases
+- [x] Chemical formula of common acids (hydrochloric, nitric, sulfuric) and bases (sodium hydroxide, potassium hydroxide, calcium hydroxide)
 - [ ] Differences between and examples of some strong acids and weak acids vs strong bases and weak bases
 - [ ] How could you distinguish between:
     - a strong acid and a weak acid
@@ -71,6 +72,7 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [ ] Third line of defense
 
 #### Big Ideas In Science – Plate Tectonics (Chapter 8.2-8.6)
+<label class="label label-green">Complete</label>
 - [x] Wegener’s theory of continental drift
 - [x] Describe the use of scientific ideas and technology in the development of the theory of plate tectonics
 - [x] Describe what Pangea was and when it existed
@@ -83,9 +85,9 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Describe the process of folding and faulting and relate to mountain formation	
 - [x] Describe and compare the processes of subduction and the formation of ocean ridges
 - [x] Relate earthquake and volcanic activity to movement along plate boundaries
-- [ ] Compare energy released by earthquakes using the Richter scale
-- [ ] Associate tsunamis with earthquakes and volcanic activity
-- [ ] Distinguish between lava and magma
+- [x] Compare energy released by earthquakes using the Richter scale
+- [x] Associate tsunamis with earthquakes and volcanic activity
+- [x] Distinguish between lava and magma
 - [ ] Relate the age and stability of the Australian continent and its lack of volcanic and major earthquake activity to its location away from plate boundaries.
 
 #### General Science Skills

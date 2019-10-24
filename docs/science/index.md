@@ -7,6 +7,8 @@ has_children: true
 
 # Science
 
+## like BBC Bitesize, but worse
+
 With credit to the following resources:
 
 * Core Science Stage 4 NSW Australian Curriculum Edition 

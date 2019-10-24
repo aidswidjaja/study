@@ -15,7 +15,6 @@ nav_order: 5000
 
 <label class="label label-green">Complete</label>
 
-
 <a class="btn" href="../resources/science/pracpapers/index.html">View Science resources on this website</a>
 
 ##### Note to self: remember to regenerate tree command whenever files in `~/docs/resources/science/pracpapers` are moved, deleted, created, or otherwise changed. For more information, go [here](../maths/tree.html).
@@ -25,6 +24,14 @@ nav_order: 5000
 ## Adrian's Google Slides
 
 <label class="label label-blue">In-progress</label>
+
+***
+
+## BBC Bitesize Acids and Bases
+
+[KS3](https://www.bbc.co.uk/bitesize/guides/zyn3b9q/revision/1)
+[GCSE](https://www.bbc.co.uk/bitesize/guides/ztv2dxs/revision/1)
+[National 5](https://www.bbc.co.uk/bitesize/guides/zsmgpbk/revision/1)
 
 ***
 
