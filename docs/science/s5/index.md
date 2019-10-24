@@ -14,14 +14,14 @@ parent: Science
 
 #### Chemistry (Chapter 5.6; 5.8) 
 
-<label class="label label-green">Complete</label>
+<label class="label label-blue">In-progress</label>
 
 NB: You will be provided with a polyatomic ion data sheet and periodic table during the exam. This is also attached to this notification for your reference.
 
 - [x] Understanding what an ion is
 - [x] Using the periodic table to determine valency
 - [x] Formation of Ionic Compounds (including chemical formulae)
-- [x] Chemical equations involving polyatomic ions 
+- [ ] Chemical equations involving polyatomic ions 
 
 #### Acids (Chapter 7.5; 7.6)
 - [x] Properties of Acids and Bases

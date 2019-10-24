@@ -23,7 +23,7 @@ nav_order: 5000
 
 ## Adrian's Google Slides
 
-<label class="label label-blue">In-progress</label>
+[View on Google Drive](https://drive.google.com/drive/folders/17tjhqV5ToD0TMVP-gj_RsXGdHBNiLhLB?usp=sharing){: .btn }
 
 ***
 

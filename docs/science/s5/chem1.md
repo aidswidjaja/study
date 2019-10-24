@@ -10,7 +10,7 @@ nav_order: 2
 ## also known as Chemistry – the inside story
 {: .no_toc }
 
-<label class="label label-green">Complete</label>
+<label class="label label-blue">In-Progress</label>
 
 #### Table of Contents
 {: .no_toc }
