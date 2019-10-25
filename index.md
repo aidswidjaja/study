@@ -34,7 +34,7 @@ I'm only sending it to my friends for the time being, but if you're not my frien
 
 I'm currently waiting on a bugfix from the developers of Just the Docs, the theme I'm using on this website. In the meantime, use `Ctrl`+`F` on Windows or `Command`+`F` on Mac to find content within a webpage. [Click here for more information on the issue.](https://github.com/pmarsceill/just-the-docs/pull/218)
 
-## The content I want isn't available or hasn't been completed yet!
+### The content I want isn't available or hasn't been completed yet!
 
 You should check out [Khan Academy](https://khanacademy.org) and [BBC Bitesize](bbc.co.uk/bitesize). If you're using Bitesize both KS3 and GCSE content can apply to you (more likely GCSE) and we suggest using the CCEA exam board.
 

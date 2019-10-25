@@ -54,8 +54,8 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 
 #### Nervous System
 - [ ] Sense organs (including receptor cell types)
-- [ ] Structure of the eye
-- [ ] Light refraction
+- [ ] Structure of the eye <label class="label label-yellow">Redundant</label>
+- [ ] Light refraction <label class="label label-yellow">Redundant</label>
 - [ ] Diagram of the brain (including main functions of Brain stem, cerebrum and cerebellum)
 - [ ] Central Nervous System and Peripheral Nervous System
 - [ ] Labelled diagram of a typical neuron
