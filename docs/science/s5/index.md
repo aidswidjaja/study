@@ -13,20 +13,21 @@ parent: Science
 <label class="label label-red">High-priority</label>
 
 #### Chemistry (Chapter 5.6; 5.8) 
-
-<label class="label label-blue">In-progress</label>
+<label class="label label-green">Complete</label>
 
 NB: You will be provided with a polyatomic ion data sheet and periodic table during the exam. This is also attached to this notification for your reference.
 
 - [x] Understanding what an ion is
 - [x] Using the periodic table to determine valency
 - [x] Formation of Ionic Compounds (including chemical formulae)
-- [ ] Chemical equations involving polyatomic ions 
+- [x] Chemical equations involving polyatomic ions 
 
 #### Acids (Chapter 7.5; 7.6)
+<label class="label label-blue">In-progress</label>
+
 - [x] Properties of Acids and Bases
 - [x] Chemical formula of common acids (hydrochloric, nitric, sulfuric) and bases (sodium hydroxide, potassium hydroxide, calcium hydroxide)
-- [ ] Differences between and examples of some strong acids and weak acids vs strong bases and weak bases
+- [x] Differences between and examples of some strong acids and weak acids vs strong bases and weak bases
 - [ ] How could you distinguish between:
     - a strong acid and a weak acid
     - a strong base and a weak acid

@@ -299,6 +299,75 @@ Covalent compounds usually:
 
 ***
 
+## Balancing chemical equations
+
+While it may be easy to write word equations like
+```
+Magnesium metal + hydrochloric acid –> hydrogen gas + magnesium chloride
+```
+writing *chemical* equations are a bit different.
+
+Here, have an easy one.
+```
+H₂ + O₂ –> H₂O
+```
+
+The reactant side (`H₂ + O₂`) has one more oxygen atom than the product side (`H₂O`). Therefore, we need to multiply the atoms to balance the equation.
+
+We do that by writing a number in front of a formula, which **multiplies ALL of the atoms in that formula by that number**. For example, if we write 2 in front of the hydrogen gas on the reactant side and water on the product side...
+```
+2H₂ + O₂ –> 2H₂O
+```
+
+Suddenly we have balanced the equations. Now, there are 4 hydrogen and 2 oxygen on each side.
+
+Here are some more fun ones to do. Use the table for common ionic and covalent compounds. Answers are below.
+
+#### Activity
+
+1. Carbon monoxide gas + oxygen gas –> carbon dioxide gas
+2. Sodium hydroxide + hydrochloric acid –> sodium chloride + water
+3. Mercury + oxygen gas –> mercury(II) oxide
+4. Magnesium metal + hydrochloric acid –> hydrogen gas + magnesium chloride
+5. Sodium + water –> hydrogen gas + sodium hydroxide gas
+6. Copper sulfate + sodium hydroxide –> copper hydroxie + sodium sulfate
+
+#### Common ionic and covalent compounds
+
+**Compound**|**Formula**
+:-----:|:-----:
+**Ionic compound**| 
+Sodium hydroxide|NaOH
+Sodium chloride|NaCl
+Magnesium chloride|MgCl₂
+Copper hydroxide|Cu(OH)₂
+Sodium sulfate|Na₂SO₄
+Copper sulfate|CuSO₄
+Sodium hydrogen carbonate|NaHCO₃
+Mercury(II) oxide|HgO
+Sodium citrate|C₆H₅O₇Na₃
+**Covalent compounds**| 
+Water|H₂O
+Citric acid|C₆H₈O₇
+Carbon dioxide|CO₂
+Oxygen|O₂
+Hydrochloric acid|HCl
+Carbon monoxide|CO
+Hydrogen|H₂
+
+#### Answers
+
+Feel free to email me using the link in the top-right corner if something is wrong. The text is purposely really dark to avoid you cheating, but it may help to highlight it when you are checking it with your cursor to make it more readable.
+
+##### 1. 2CO₂ + O₂ –> 2CO₂
+##### 2. NaOH + HCl –> NaCl + H₂O
+##### 3. 2Hg + O₂ –> 2HgO
+##### 4. Mg + 2HCl –> H₂ + MgCl₂
+##### 5. 2Na + 2H₂O –> H₂ + 2NaOH
+##### 6. CuSO₄ + 2NaOH –> Cu(OH)₂ + Na₂SO₄
+
+***
+
 ## Footnotes and Other Notes
 
 [^1]: Chapter 5.8, Finding the Right Formula – Core Science Stage 5 NSW Australian Curriculum Second Edition
