@@ -1,7 +1,7 @@
 ---
 title: "Extra Resources for Commerce"
 layout: default
-parent: Commerce
+parent: "Commerce"
 nav_order: 5000
 ---
 

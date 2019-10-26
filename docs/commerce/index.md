@@ -1,5 +1,5 @@
 ---
-title: Commerce
+title: "Commerce"
 layout: default
 nav_order: 100
 has_children: true

@@ -1,5 +1,5 @@
 ---
-title: Geography
+title: "Geography"
 layout: default
 nav_order: 80
 has_children: true

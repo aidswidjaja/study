@@ -1,7 +1,8 @@
 ---
-title: Duke of Ed
+title: "Duke of Ed"
 layout: default
 nav_order: 120
+has-children: true
 ---
 
 *Also go to [Manresa](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/Pages/The-Duke-of-Edinburgh's-International-Award.aspx).*
@@ -57,58 +58,7 @@ Through this challenging journey of self-discovery, our Participants:
 
 ***
 
-## How to get involved
-
-1. Register for your level through the Online Record Book (ORB). [Register Your Interest](https://dukeofed.com.au/resources/online-record-book/)
-1. Complete electronic parent permission (if under 18) as part of your registration on the ORB.
-1. Email Validation by parent.
-1. (ALOYS ONLY) Complete [SAC Participant Agreement](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/SiteAssets/Pages/The-Duke-of-Edinburgh%27s-International-Award/Duke%20of%20Edinburgh%27s%20Award%20Participant%20Agreement.pdf) Duke of Edinburgh's Award Participant Agreement.
-1. Complete [NSW Participant Award Plan](http://dukeofed.com.au/wp-content/uploads/2015/09/Participant-Award-Plan-August-2015.pdf)
-1. Complete a [Assessor Commencement Guide​](https://3wsou42v16p23nizfdnrklyt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/CDOC1859310-Duke-of-Edinburghs-International-Award-NSW-Assessor-Commencement-Guide-ACG.pdf) for each section of your Award - Service, Skill, Physical Skill, Adventurous Journey, (Residential Project - Gold only)
-1. Wait till you have been Approved as a Participant by the SAC Award Leader. Read the [Participant APP](https://www.youtube.com/watch?v=wjRPv6kOW2A&feature=youtu.be) or [Participant Web User Guide](https://3wsou42v16p23nizfdnrklyt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Participant-User-Guide.pdf) to explain how to open up your ORB.
-1. Start your Duke of Ed Award and record your activities​.
-
-***
-
-## Resources
-
-- [Cooking with Trangias and Menu Planning](../../resources/dofe/Cooking%20with%20Trangias%20and%20Menu%20Planning.pdf)
-- [Bronze Training Manual](../..resources/dofe/BronzeTrainingManual.pdf)
-- [SAC Award Framework](../..resources/dofe/awardframework.pdf)
-- [NSW Award Framework](http://www.dukeofed.com.au/about-the-award/award-framework/)
-- [SAC Participant Agreement](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/SiteAssets/Pages/The-Duke-of-Edinburgh%27s-International-Award/Duke%20of%20Edinburgh%27s%20Award%20Participant%20Agreement.pdf)
-- [Assessor Commencement Guide​](https://3wsou42v16p23nizfdnrklyt-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/CDOC1859310-Duke-of-Edinburghs-International-Award-NSW-Assessor-Commencement-Guide-ACG.pdf)
-- [NSW Participant Award Plan](http://dukeofed.com.au/wp-content/uploads/2015/09/Participant-Award-Plan-August-2015.pdf)
-- [Participant APP](https://www.youtube.com/watch?v=wjRPv6kOW2A&feature=youtu.be)
-- [Participant Web User Guide](https://3wsou42v16p23nizfdnrklyt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Participant-User-Guide.pdf)
-- [RFS Fire Danger Ratings and Total Fire Bans](https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans)
-
-[View more on Google Drive](https://drive.google.com/drive/folders/1sByotWOt4P02yqxiGnfiYXyXjo4PhTv7?usp=sharing)
-
-***
-
-## Fire bans and no-cook meals
-
-- NSW Fire Ban Policy in the event you are walking on a Fire Ban Day.
-- OEG Field Procedures.
-
-Should there be a fire ban you will have to rethink their food menus. All foods must be of the "no cook" variety . Please check the NSW Rural Fire Service and radio stations on the 6/10/2019 for announcements about Fire Bans and pack food accordingly. Take a "no cook" emergency meal to cover yourself for this situation. The website for the NSW Rural Fire Service is: [https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans](https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans). For the 2019 Bronze Qualifier October AJ in Mt Kuringai the AJ will be conducted in Area 5( Illawarra and Shoalhaven).
-Fire Danger Ratings and Total Fire Bans - NSW Rural Fire Service [https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans](https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans)
-
-Fire Danger Ratings and Total Fire Bans. Bush fire danger ratings are issued during the bush fire danger period. Fire Danger Ratings give you an indication of the consequences of a fire, if one was to start.
-[rfs.nsw.gov.au](https://www.rfs.nsw.gov.au)
-Examples of "no cook" meals:
-
-1. Fruit and veg;
-1. Raw salad ingredients tomatoes, cucumber , lettuce;
-1. Smoked meats like salami;
-1. Pouches of tuna and chicken;
-1. Wraps
-1. Uncle Ben Rice meals, but add cold water only.
-
-***
-
-*Aloys only*
+<label class="label label-blue">Aloys</label>
 
 ## Planned dates for AJs
 

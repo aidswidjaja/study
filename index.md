@@ -49,5 +49,3 @@ Please see [Offline Copies](offline.html) for more information.
 ### Is there more?
 
 If you'd like to contribute, please feel free to [email me](mailto:adrian.marcus.widjaja@gmail.com?I want to contribute to Adrian's Study Club!) and let me know what you can help out with.
-
-*Last updated: 29 September 2019 AEST*
