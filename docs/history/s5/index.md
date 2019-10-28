@@ -1,9 +1,9 @@
 ---
-title: Stage 5 (Modern) World History
+title: "Stage 5 (Modern) World History"
 layout: default
 nav_order: 2
 has_children: true
-parent: History
+parent: "History"
 ---
 
 # Stage 5 (Modern) History
