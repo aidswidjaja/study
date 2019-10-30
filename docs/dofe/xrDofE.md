@@ -1,11 +1,13 @@
 ---
 title: "Resources"
 layout: default
-nav_order: 5
+nav_order: 180
 parent: "Duke of Ed"
 ---
 
 # Resources for Duke of Ed
+
+<label class="label label-blue">Aloys</label>
 
 - [Cooking with Trangias and Menu Planning](../../resources/dofe/Cooking%20with%20Trangias%20and%20Menu%20Planning.pdf)
 - [Bronze Training Manual](../..resources/dofe/BronzeTrainingManual.pdf)

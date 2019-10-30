@@ -11,7 +11,7 @@ parent: "Chapter 5 – Investing"
 <label class="label label-green">Complete</label>
 
 #### Table of Contents
-{: .no_toc }
+{: .no_toc}
 
 * Table of Contents
 {:toc}

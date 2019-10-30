@@ -35,7 +35,7 @@ I'm currently waiting on a bugfix from the developers of Just the Docs, the them
 
 ### How much have you already completed?
 
-You can see our [Roadmap](roadmap.html) which contains our schedule and projected topics.
+You can see our [Roadmap](roadmap.html) which contains our schedule and projected topics. In the future, a "Last modified" footer will be available as well. See this [GitHub issue](https://github.com/pmarsceill/just-the-docs/issues/166) and [pull request](https://github.com/pmarsceill/just-the-docs/pull/217) for more information.
 
 ### The content I want isn't available or hasn't been completed yet!
 

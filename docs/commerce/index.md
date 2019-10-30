@@ -16,13 +16,13 @@ With credit to the following resources:
 
 #### Study Notes
 
-- [x] Chapter 1 – Consumer choice
+- [ ] Chapter 1 – Consumer choice
 - [ ] Chapter 6 – Promoting and selling
 - [ ] Chapter 2 – Personal Finance
-- [ ] Chapter 5 – Investing
+- [x] Chapter 5 – Investing
 
 *based off the Aloys Finals exam for Commerce
 
 #### Extra Resources
 
-- [ ] Practice Papers and Marking Criteria
+- [x] Practice Papers and Marking Criteria

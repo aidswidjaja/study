@@ -2,7 +2,7 @@
 title: "Duke of Ed"
 layout: default
 nav_order: 120
-has-children: true
+has_children: true
 ---
 
 *Also go to [Manresa](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/Pages/The-Duke-of-Edinburgh's-International-Award.aspx).*
