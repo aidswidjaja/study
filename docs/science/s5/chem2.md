@@ -10,7 +10,7 @@ nav_order: 3
 ## also known as Acids and Bases
 {: .no_toc }
 
-<label class="label label-blue">In-Progress</label>
+<label class="label label-green">Complete</label>
 
 #### Table of Contents
 {: .no_toc }
@@ -62,6 +62,75 @@ Bases are chemicals with a **ph > 7**. Bases contain hydroxide ions (OH⁻). Whe
 Water and neutral solutions has a pH level of 7.
 
 ![pH scale](https://bam.files.bbci.co.uk/bam/live/content/zxtxn39/medium)
+
+#### Differentiate between strong and weak
+
+You can test for how acidic or basic is using a number of ways. This includes using universal indicator to estimate pH, or test the reactivity of solutions in water.
+
+## Neutralisation Reactions
+
+[Test yourself on Quizlet](https://quizlet.com/_7e3kah){: .btn }
+
+When you mix an acid and a base together, a chemical reaction occurs! The mixture will get warmer and it usually follows this formula:
+
+```
+acid + base –> salt + water
+```
+
+### Metal oxides and metal hydroxides
+
+Both metal oxides and metal hydroxides are bases
+
+```
+metal oxide + acid –> salt + water
+metal hydroxide + acid –> salt + water
+```
+
+### Metal carbonates
+
+When metal carbonates react with acids, they work the same way as metal oxides and hydroxides but on the reactant side there is also carbon dioxide gas
+
+```
+metal carbonate + acid –> salt + water + carbon dioxide
+```
+
+#### Example
+
+```
+copper oxide + hydrochloric acid –> copper chloride + water
+CuO + 2HCl –> CuCl₂ + H₂O
+```
+
+Note how chloride in copper chloride on the reactant side has a subscript 2. This is to balance the chemical equation. As copper(II) has a valency of 2 we use the crossover method as covered in [Chemistry 1](chem1.html#crossover-method) and multiplechloride by two. To balance the equation on both sides we add a 2 in front of `HCl` which makes sure there are equal atoms on both the reactant and product side.
+
+```
+copper carbonate + nitric acid –> copper nitrate + water + carbon dioxide
+CuCO₃ + 2HNO₃ –> Cu(NO₃)₂ + H₂O + CO₂
+```
+
+## What happens when acids react with...
+
+### Acids react with bases
+
+When acids and bases react, they neutralise and produce salt and water. 
+
+### Acids react with metals
+
+When acids and metals react, they produce salt and hydrogen gas.
+
+### Acids react with carbonates
+
+When acids and carbonates react, they produce salt, water and carbon dioxide.
+
+***
+
+#### Extra information
+
+Reactivity: tendency to lose or gain electrons
+
+Reactivity of metal DECREASES from left to right, and INCREASES from up to down. Alkali metals in Group 1 have the highest reactivity, while noble gases in Group 8 are typically unreactive.
+
+***
 
 ## Footnotes and Other Notes
 

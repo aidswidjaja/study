@@ -301,6 +301,8 @@ Covalent compounds usually:
 
 ## Balancing chemical equations
 
+[See more at In a Nutshell: Equations](equations.html){: .btn .btn-green}
+
 While it may be easy to write word equations like
 ```
 Magnesium metal + hydrochloric acid –> hydrogen gas + magnesium chloride

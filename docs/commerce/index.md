@@ -16,7 +16,7 @@ With credit to the following resources:
 
 #### Study Notes
 
-- [ ] Chapter 1 – Consumer choice
+- [x] Chapter 1 – Consumer choice
 - [ ] Chapter 6 – Promoting and selling
 - [ ] Chapter 2 – Personal Finance
 - [ ] Chapter 5 – Investing

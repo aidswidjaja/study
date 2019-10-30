@@ -1,8 +1,8 @@
 ---
-title: Range of investment options
+title: "Range of investment options"
 layout: default
 nav_order: 2
-parent: Chapter 5 – Investing
+parent: "Chapter 5 – Investing"
 ---
 
 # Range of investment options

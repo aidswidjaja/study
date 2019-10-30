@@ -1,8 +1,8 @@
 ---
-title: Investment Decisions, Financing Investment and Ethical Investments
+title: "Investment Decisions; Financing Investment and; Ethical Investments"
 layout: default
 nav_order: 1
-parent: Chapter 5 – Investing
+parent: "Chapter 5 – Investing"
 ---
 
 # Investment Decisions, Financing Investment and Ethical Investments
@@ -82,4 +82,6 @@ Tassal is a company operating in Tasmania that produces sustainable and environm
 #### Case Study 2
 
 Bendigo Bank's Community Bank Program allows those in rural and remote areas to have access to normal banking, which allows communities the right to operate a Bendgo Bank franchise branch. Revenue is shared between the company and the community, and Bendigo Bank provides banking support.
+
+This can be considered as Corporate Social Responsibility. For example, Maccas uses recycled paper.
 

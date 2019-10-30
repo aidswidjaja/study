@@ -23,35 +23,35 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Chemical equations involving polyatomic ions 
 
 #### Acids (Chapter 7.5; 7.6)
-<label class="label label-blue">In-progress</label>
+<label class="label label-green">Complete</label>
 
 - [x] Properties of Acids and Bases
 - [x] Chemical formula of common acids (hydrochloric, nitric, sulfuric) and bases (sodium hydroxide, potassium hydroxide, calcium hydroxide)
 - [x] Differences between and examples of some strong acids and weak acids vs strong bases and weak bases
-- [ ] How could you distinguish between:
+- [x] How could you distinguish between:
     - a strong acid and a weak acid
     - a strong base and a weak acid
-- [ ] Neutralisation reactions
-- [ ] Writing word equations
-- [ ] Writing chemical equations
-- [ ] Naming salts formed from acid reactions
-- [ ] Be able to describe what happens when an acid reacts with:
+- [x] Neutralisation reactions
+- [x] Writing word equations
+- [x] Writing chemical equations
+- [x] Naming salts formed from acid reactions
+- [x] Be able to describe what happens when an acid reacts with:
     - a base
     - an active metal
     - a carbonate
-- [ ] For each of these reaction types, be able to write:
+- [x] For each of these reaction types, be able to write:
     - word equations
 	- balanced chemical equations
-- [ ] Relate metal reactivity to position on the periodic table
-- [ ] Balancing chemical equations/conservation of mass 
+- [x] Relate metal reactivity to position on the periodic table
+- [x] Balancing chemical equations/conservation of mass 
  
 #### Control Systems (Chapter 1 + 2)
-- [ ] Endocrine System
-- [ ] How does the human body use hormones to maintain:
+- [x] Endocrine System
+- [x] How does the human body use hormones to maintain:
     - the right amount of glucose in the blood
     - the correct temperature
-- [ ] Negative feedback diagrams
-- [ ] Location and function of Endocrine glands (including names of hormones)
+- [x] Negative feedback diagrams
+- [x] Location and function of Endocrine glands (including names of hormones)
 
 #### Nervous System
 - [ ] Sense organs (including receptor cell types)
@@ -74,6 +74,7 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 
 #### Big Ideas In Science – Plate Tectonics (Chapter 8.2-8.6)
 <label class="label label-green">Complete</label>
+
 - [x] Wegener’s theory of continental drift
 - [x] Describe the use of scientific ideas and technology in the development of the theory of plate tectonics
 - [x] Describe what Pangea was and when it existed
@@ -97,6 +98,7 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [ ] Constructing  and understanding tables
 - [ ] Steps in the Scientific method
 - [ ] Assessing Theories, laws and models
+- [ ] Writing chemical and word equations
 
 ###### Quack quack, I think we have an SRP next year by the way.
 
