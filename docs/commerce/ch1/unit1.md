@@ -1,5 +1,5 @@
 ---
-title: "Commerce and choice; More decisions to make and; Comparison shopping"
+title: "Unit 1: Commerce and choice; More decisions to make and; Comparison shopping"
 layout: default
 nav_order: 1
 parent: "Chapter 1 – Consumer Choice"
@@ -11,7 +11,7 @@ parent: "Chapter 1 – Consumer Choice"
 ### Commerce examines how people earn their income, how they spend their money and how and what goods and services are produced.
 {: .no_toc }
 
-<label class="label label-blue">In-Progress</label>
+<label class="label label-green">Complete</label>
 
 #### Table of Contents
 {: .no_toc }
@@ -122,13 +122,13 @@ There are eight rules for comparison shopping
 7. Compare after-sales service and guarantees
 8. Keep all receipts and invoices
 
-Here is an Adrian tip. Use the acronym COMPARE to remember what you need to consider when making wise purchasing decisions.
+Here is an Adrian tip. Use the acronym COMPARE to remember what you need to consider when making wise purchasing decisions. Don't use this in the exam though.
 
-Compare
-Observe
-Momentary impulse buying
-Payment
-Aftersales service, guarantees and refund/return policies
-Records and receipts
-Ensure you need it
+- **C**ompare
+- **O**bserve
+- **M**omentary impulse buying
+- **P**ayment
+- **A**ftersales service, guarantees and refund/return policies
+- **R**ecords and receipts
+- **E**nsure you need it
 

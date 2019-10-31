@@ -40,7 +40,7 @@ Bases are sometimes corrosive. They are bitter, slippery, and/or soapy. Bases th
 
 Bases are chemicals with a **ph > 7**. Bases contain hydroxide ions (OH⁻). When bases are diluted the concentration of OH⁻ ions decreases and pH decreases towards 7 (neutral pH)
 
-> **Acids have a pH less than 7. Bases have a pH greater than 7. Remember it as `a` comes before `b`. Acids come before bases on the pH scale.
+> **Acids have a pH less than 7. Bases have a pH greater than 7. Remember it as `a` comes before `b`. Acids come before bases on the pH scale.**
 
 ### Table of Acids and Bases you should know
 

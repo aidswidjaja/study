@@ -1,5 +1,5 @@
 ---
-title: "Range of investment options"
+title: "Unit 2: Range of investment options"
 layout: default
 nav_order: 2
 parent: "Chapter 5 – Investing"

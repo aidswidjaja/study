@@ -9,11 +9,16 @@ In the future, you can see when a page was last modified by reading the page's f
 # Changelog
 ## starting 31 October 2019
 
-Commit codes will be available for all changes excluding the most recent commit.
+Commit codes will be available for all changes excluding the most recent commit. All times in AEST/AEDT.
 
 ***
 
-### 31 October
+### 31 October #2 
+- Happy halloween!
+- Maths Chapter 5
+- Commerce Unit 2 (almost finished)
+
+### 31 October #1 `f4bd259`
 
 - Made a changelog
 - Fixed tips.md

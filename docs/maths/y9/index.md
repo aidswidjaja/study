@@ -15,8 +15,8 @@ parent: Maths
 **All Year 9 content will be now based off BBC Bitesize equivalents to reduce time spent working on them.**
 
 - [ ] Year 9 Maths 5.3 Chapter 1 - Computation and financial mathematics <label class="label label-purple">Planned</label> <label class="label label-red">High-priority</label>
-- [ ] Year 9 Maths 5.3 Chapter 2 - Expressions, equations and inequalities <label class="label label-blue">In-Progress</label>
-- [x] Year 9 Maths 5.3 Chapter 3 - Right-angled triangles <label class="label label-purple">Planned</label>
+- [x] Year 9 Maths 5.3 Chapter 2 - Expressions, equations and inequalities
+- [x] Year 9 Maths 5.3 Chapter 3 - Right-angled triangles
 - [ ] Year 9 Maths 5.3 Chapter 4 - Linear relationships <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 5 - Length, area, surface area and volume <label class="label label-purple">Planned</label>
 - [ ] Year 9 Maths 5.3 Chapter 6 - Indices and surds <label class="label label-purple">Planned</label> <label class="label label-red">High-priority</label> 

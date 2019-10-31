@@ -1,5 +1,5 @@
 ---
-title: "Investment Decisions; Financing Investment and; Ethical Investments"
+title: "Unit 1: Investment Decisions; Financing Investment and; Ethical Investments"
 layout: default
 nav_order: 1
 parent: "Chapter 5 – Investing"
