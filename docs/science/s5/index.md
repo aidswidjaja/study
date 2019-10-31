@@ -54,8 +54,8 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Location and function of Endocrine glands (including names of hormones)
 
 #### Nervous System
-- [ ] Sense organs (including receptor cell types)
-- [ ] Structure of the eye <label class="label label-yellow">Redundant</label>
+- [x] Sense organs (including receptor cell types)
+- [x] Structure of the eye <label class="label label-yellow">Redundant</label>
 - [ ] Light refraction <label class="label label-yellow">Redundant</label>
 - [ ] Diagram of the brain (including main functions of Brain stem, cerebrum and cerebellum)
 - [ ] Central Nervous System and Peripheral Nervous System
@@ -146,3 +146,5 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 #### CHEAT SHEETS AND OTHER RESOURCES
 
 - [x] How neurons work together 
+
+*Based off the Aloys T4 Finals Exam. 

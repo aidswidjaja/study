@@ -6,8 +6,6 @@ nav_order: 6
 
 <label class="label label-blue">Aloys</label>
 
-*This webpage is for close friends who don't know about the service, or friends outside of Aloys to learn about what I do and how they can implement a similar service at their school.*
-
 # Things You Should Know is a free service to help you stay on top of your assessments, events and co-curricular activities.
 
 ## • when Assessment Notifications come out

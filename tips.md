@@ -28,6 +28,6 @@ Don't cram everything in just before exam period. It's a good idea to continuall
 
 Adrian learnt the hard way in Year 9. And Year 8. And Year 7. Don't be like Adrian.
 
-Also, when answering questions, especially in Humanities subject such as English, History, and Geography, always refer to 
+Also, when answering questions, especially in Humanities subject such as English, History, and Geography, always refer to the [NESA Directive Terms](nesa.html).
 
 

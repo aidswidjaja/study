@@ -16,6 +16,8 @@ With credit to the following resources:
 
 **Looking for Geology? You might be able to find more information on plate tectonics in [Science](../science/s5/tectonic-plates.html).**
 
+[**Practice papers for the Australian Geography Competition**](https://www.geographycompetition.org.au/content/downloads)
+
 #### Study Notes
 
 - [ ] Interconnections 

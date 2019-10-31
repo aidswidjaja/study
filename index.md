@@ -1,5 +1,5 @@
 ---
-title: Home
+title: "Home"
 layout: default
 nav_order: 1
 ---
@@ -18,7 +18,7 @@ I've got more of where this stuff came from over on [Quizlet](https://quizlet.co
 
 ### What do you have here?
 
-We've got a few things on this website including:
+I've got a few things on this website including:
 - Study notes
 - Cheat sheets
 - Practice papers
