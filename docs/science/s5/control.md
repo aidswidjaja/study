@@ -101,7 +101,7 @@ Did you get that?
 2. Nerve impulse reaches presynaptic axon terminal and neurotransmitters are released
 3. Postsynaptic dendrite receives neuron, causing cell to fire and relay the nerve impulse
 
-## Reflex arc
+### Reflex arc
 
 When reflex acions occur, no conscious thought is required. Reflex arcs are actions that are carried out quickly. 
 

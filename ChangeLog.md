@@ -13,7 +13,10 @@ Commit codes will be available for all changes excluding the most recent commit.
 
 ***
 
-### 1 November #1
+### 1 November #2
+- Fixed headings
+
+### 1 November #1 `3f7f3ee`
 - Merged nervous system into control system
 - Reactions cheat sheet
 - More work on endocrine system
