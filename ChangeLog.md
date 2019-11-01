@@ -13,7 +13,12 @@ Commit codes will be available for all changes excluding the most recent commit.
 
 ***
 
-### 31 October #2 
+### 1 November #1
+- Merged nervous system into control system
+- Reactions cheat sheet
+- More work on endocrine system
+
+### 31 October #2 `938e09`
 - Happy halloween!
 - Maths Chapter 5
 - Commerce Unit 2 (almost finished)

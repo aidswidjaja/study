@@ -91,6 +91,8 @@ The subscript shows the number of atoms in a molecule. The coefficient shows the
 
 ***
 
+![Balancing Chemical Equations](https://opentextbc.ca/chemistry/chapter/4-1-writing-and-balancing-chemical-equations/){: .btn .btn-purple}
+
 ## Footnotes and Other Notes
 
 [^1]: [4.1 Writing and Balancing Chemical Equations on OpenTextBC](https://opentextbc.ca/chemistry/chapter/4-1-writing-and-balancing-chemical-equations/)

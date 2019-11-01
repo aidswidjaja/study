@@ -57,12 +57,12 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Sense organs (including receptor cell types)
 - [x] Structure of the eye <label class="label label-yellow">Redundant</label>
 - [ ] Light refraction <label class="label label-yellow">Redundant</label>
-- [ ] Diagram of the brain (including main functions of Brain stem, cerebrum and cerebellum)
-- [ ] Central Nervous System and Peripheral Nervous System
-- [ ] Labelled diagram of a typical neuron
-- [ ] Types of neurons (structure, location and function)
-- [ ] Reflex Arc
-- [ ] Compare and contrast: nervous system vs endocrine system
+- [x] Diagram of the brain (including main functions of Brain stem, cerebrum and cerebellum)
+- [x] Central Nervous System and Peripheral Nervous System
+- [x] Labelled diagram of a typical neuron
+- [x] Types of neurons (structure, location and function)
+- [x] Reflex Arc
+- [x] Compare and contrast: nervous system vs endocrine system
 
 #### Disease
 - [ ] Definitions of Infectious and non-infectious diseases (with examples of 3 types of non-infectious diseases)

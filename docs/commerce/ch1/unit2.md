@@ -21,6 +21,8 @@ parent: "Chapter 1 – Consumer Choice"
 
 ***
 
+**It's important to note that I really don't think they are going to test us on Mail order. So if you are time poor (haha get it) then maybe skip this unit and move onto the next one.**
+
 ## Different prices
 
 1. Manufacture price – price wholesalers pay
@@ -59,7 +61,7 @@ Example of online shopping for 6 pack Hawaiian pineapples: ![Pineapples](https:/
 - Located in many locations and sell a large variety of products, most commonly food items, magazines and newspapers
 - Usually more expensive and lower range, but more convenience
 
-Ezymart near my school in Kirribilli, NSW, Australia. Also students are banned from going there by my school.
+*Ezymart near my school in Kirribilli, NSW, Australia. Also students are banned from going there by my school.*
 ![Ezymart](resources/ezymart.jpg)
 
 #### Specialty stores
@@ -68,7 +70,7 @@ Ezymart near my school in Kirribilli, NSW, Australia. Also students are banned f
 - Some are part of a large franchise chain
 - Their main advantage of specialty stores is service and product knowledge
 
-The Apple Store in Sydney, NSW, Australia. My wallet is burning.
+*The Apple Store in Sydney, NSW, Australia. My wallet is burning.*
 ![Apple Store](https://www.apple.com/au/retail/sydney/images/hero_thumb_2x.jpg)
 
 #### Discount variety stores
@@ -76,7 +78,7 @@ The Apple Store in Sydney, NSW, Australia. My wallet is burning.
 - Stores that offer basic customer service
 - Extremely low prices
 
-The Kmart store in Chatswood, NSW, Australia
+*The Kmart store in Chatswood, NSW, Australia. They have ridiculously cheap candy.*
 ![Kmart](http://chatswood-nsw.place-advisor.com/img/companies/2/20/202/2021/20210.jpg)
 
 #### Department stores
@@ -85,7 +87,7 @@ The Kmart store in Chatswood, NSW, Australia
 - Prices are cheaper than speciality stores but higher than discount variety
 - Some sales assistance
 
-We tried looking for a picture of a Myer store in Darwin, NT, Australia. There isn't any. 
+*We tried looking for a picture of a Myer store in Darwin, NT, Australia. There isn't any.*
 
 #### Supermarkets
 
@@ -101,20 +103,19 @@ THe Woolies Metro at Chatswood Train Station, Chatswood, NSW, Australia. It's ai
 
 A consumer will usually purchase food and small essentials at their local convenience store or shopping arcade. *Unless you live in Chatswood! I love the library so much! It's so close to the Chatime!*
 
-The Spitroast at Artarmon, NSW, Australia. Now closed and replaced by a knockoff but at least they still sell marathon spring rolls.
+*The Spitroast at Artarmon, NSW, Australia. Now closed and replaced by a knockoff but at least they still sell marathon spring rolls.*
 ![Spitroast](http://www.easyoverc.com/shop_images/120_0.jpg)
 
 2. ### Regionally
 
 Department stores, discount department stores and supermarkets are located in regional shopping complexes. They are located under one roof and provide lots of parking.
 
-The Westfield in Chatswood, NSW, Australia. A nice place to *cough cough* study with friends... next to the KFC and the Optus store
+*The Westfield in Chatswood, NSW, Australia. A nice place to *cough cough* study with friends... next to the KFC and the Optus store*
 ![Westfield](http://www.grm.latrade-batam.com/wp-content/uploads/2015/11/project-westfield-chatswood-01.jpg)
 
 3. ### Interstate or globally
 
 Customers now can purchase goods from interstate or globally. This is made possible due to gloablisation and technology. 
 
-NomNomz Plush Dog Toy | Pineapple on eBay, available from Peregian Beach, Qld, Australia
-
+*NomNomz Plush Dog Toy - Pineapple on eBay, available from Peregian Beach, Qld, Australia*
 ![Pineapple](https://i.ebayimg.com/images/g/SsIAAOSwWflaF6sb/s-l300.png)
