@@ -1,11 +1,13 @@
 ---
-title: "Unit 3: Risk and return; Selecting a mix of investments and; Maintaining records and monitoring investments"
+title: "Unit 3: Risk and return; Selecting a mix of investments; Maintaining records and monitoring investments"
 layout: default
 nav_order: 3
 parent: "Chapter 5 – Investing"
 ---
+# Unit 3
+{: .no-toc}
 
-# Risk and return and Selecting a mix of investments
+## Risk and return; Selecting a mix of investments; Maintaining records and monitoring investments
 {: .no-toc}
 
 <label class="label label-green">Complete</label>
@@ -57,5 +59,3 @@ There are three main records shareholders need to prove ownership of shares (inc
 Buying and selling shares for a profit is subject to Capital Gains Tax. It is also important to monitor investments so you can sell and buy for the best price. You can complete an investment tracker such as the one below to monitor investments. Usually this is done every month but some investors do this every day!
 
 ![Investment tracker](http://content.jacplus.com.au/secure/ebooks/11184/1118401042/images/05_source-14.jpg)
-
-

@@ -4,8 +4,10 @@ layout: default
 nav_order: 2
 parent: "Chapter 5 – Investing"
 ---
+# Unit 2
+{: .no-toc}
 
-# Range of investment options
+## Range of investment options
 {: .no-toc}
 
 <label class="label label-green">Complete</label>

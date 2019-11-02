@@ -1,11 +1,13 @@
 ---
-title: "Unit 1: Commerce and choice; More decisions to make and; Comparison shopping"
+title: "Unit 1: Commerce and choice; More decisions to make; Comparison shopping"
 layout: default
 nav_order: 1
 parent: "Chapter 1 – Consumer Choice"
 ---
+# Unit 1
+{: .no_toc }
 
-# Commerce and choice; More decisions to make and; Comparison shopping
+## Commerce and choice; More decisions to make; Comparison shopping
 {: .no_toc }
 
 ### Commerce examines how people earn their income, how they spend their money and how and what goods and services are produced.

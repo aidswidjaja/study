@@ -1,11 +1,13 @@
 ---
-title: "Unit 2: Choosing where to buy and; Key factors affecting consumer decisions"
+title: "Unit 2: Choosing where to buy; Key factors affecting consumer decisions"
 layout: default
 nav_order: 2
 parent: "Chapter 1 – Consumer Choice"
 ---
+# Unit 2
+{: .no_toc }
 
-# Choosing where to buy and; Key factors affecting consumer decisions
+## Choosing where to buy and; Key factors affecting consumer decisions
 {: .no_toc }
 
 ### just use ebay!
@@ -119,3 +121,15 @@ Customers now can purchase goods from interstate or globally. This is made possi
 
 *NomNomz Plush Dog Toy - Pineapple on eBay, available from Peregian Beach, Qld, Australia*
 ![Pineapple](https://i.ebayimg.com/images/g/SsIAAOSwWflaF6sb/s-l300.png)
+
+***
+
+## Key factors affecting consumer decisions
+
+- Service: how a customer is treated can determine whether they return to a store/buy that product in the future.
+- Price: how much a product is – customers want value for money
+- Convenience: how easy it is – location, number of stores, opening hours
+- Marketing: successful marketing campaigns can influence a business' growth
+- Gender and age: needs and wants vary between different groups(but they can also be the same!)
+- Finance: how easy is it to get out of a loan, and is it worth it?
+- Environmental: more environmentally friendly products can incentivise a customer to purchase it

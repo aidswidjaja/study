@@ -1,11 +1,13 @@
 ---
-title: "Unit 1: Investment Decisions; Financing Investment and; Ethical Investments"
+title: "Unit 1: Investment Decisions; Financing Investment; Ethical Investments"
 layout: default
 nav_order: 1
 parent: "Chapter 5 – Investing"
 ---
+# Unit 1
+{: .no-toc}
 
-# Investment Decisions, Financing Investment and Ethical Investments
+## Investment Decisions; Financing Investment; Ethical Investments
 {: .no-toc}
 
 ### Investment: when money is spent to gain profit.

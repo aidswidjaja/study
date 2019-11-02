@@ -13,7 +13,11 @@ Commit codes will be available for all changes excluding the most recent commit.
 
 ***
 
-### 1 November #2
+### 2 November #1
+- Days in the Sun! (disc 1, track 4)
+- Lots and lots of Commerce
+
+### 1 November #2 `f553e4f`
 - Fixed headings
 
 ### 1 November #1 `3f7f3ee`

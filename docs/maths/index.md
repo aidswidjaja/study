@@ -6,7 +6,7 @@ has_children: true
 ---
 # Maths 5.3
 
-## like Khan Academy, but a lot worse
+## like Khan Academy, but a lot worse. Also probably the most incomplete section on this website.
 
 With credit to the following resources:
 

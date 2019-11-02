@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5 – Investing"
 layout: default
-nav_order: 1
+nav_order: 5
 parent: "Commerce"
 has_children: true
 ---
