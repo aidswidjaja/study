@@ -12,8 +12,10 @@ In the future, you can see when a page was last modified by reading the page's f
 Commit codes will be available for all changes excluding the most recent commit. All times in AEST/AEDT.
 
 ***
+### 2 November #2
+- Geography 
 
-### 2 November #1
+### 2 November #1 `d8d12d1`
 - Days in the Sun! (disc 1, track 4)
 - Lots and lots of Commerce
 
