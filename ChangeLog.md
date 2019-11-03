@@ -13,6 +13,9 @@ Commit codes will be available for all changes excluding the most recent commit.
 
 ***
 
+### 4 November #1 
+- fixed acid/base reactions (reactions.md)
+
 ### 3 November #3
 ```
 On branch master
