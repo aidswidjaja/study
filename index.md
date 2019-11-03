@@ -27,7 +27,7 @@ and other things that might be of interest to you.
 
 ### Who is using this website?
 
-This is mostly for my closer friends and friends outside of my current school, but if you're not my friend that is okay and you can use it too. Just try not to tell too many people about it though.
+This is mostly for my closer friends and friends outside of my current school, as well as a digital record for myself, but if you're not my friend that is okay and you can use it too. Just try not to tell too many people about it though.
 
 ### Help! The search function doesn't work!
 

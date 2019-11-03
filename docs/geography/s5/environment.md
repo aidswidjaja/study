@@ -271,3 +271,79 @@ Sometimes, irrigation can cause increased salinity as it increases the amount of
 - Ecosystems around the world can be threatened by invasive species
 - Sometimes invasive species are introduced deliberately, othertimes they are unintentional
 - Invasive species can disrupt the balance of the eocsystem, degrade the land, and impact local populations
+
+### Water degradation
+- Reduction in quality and quantity of clean fresh water
+- Caused by use of water in homes, factories, agriculture, and infrastructure, as well as polution
+- Dams disrupt the flow of water which floods some areas and drains others, which impacts ecosystem services (e.g fresh water provision, fertile soil, food production)
+- Water pollution (contamination of rivers, lakes, oceans, etc) can cause people to lose access to safe and clean drinking water
+- Animals can die and popuation numbers can decline
+- Food sources are lost, and in some extreme cases this leads to food shortages
+- Water pollution is the result of human activities...
+    - shipping
+    - fishing
+    - oil drilling
+- and land activities...
+    - using fertilisers and pesticides
+    - littering
+    - clearing land
+
+
+#### Case study: Murray-Darling Basin
+
+In the Murray-Darling Basin, which accounts for 39% of Australia's income (used for food exports), salinity is increasing and as a result plants and animals are dying. This is due to the capturing of rainwater in dams by farmers. 
+
+As a result, salt interception is being used to pump salty water and trap salt. Then, the salt is sold off for table salt.
+
+#### Damn dams
+
+There are many reasons to build dams, one being hydroelectricity. However, dams can cause  significant environmental impact. 
+
+![Dam dam dam](https://www.internationalrivers.org/sites/default/files/images/book/admin-old/impacts-of-dams.png)
+
+***
+
+##### This marks the beginning of the Abbreviation Project. Basically, everything from now on has been cut down in order to get the main points required for a multiple choice exam!
+{: .no_toc}
+
+## Coastal Environments
+
+- Continually changing due to natural and human activity
+- Affected by human activity which causes coastal degradation
+- [Scale](concepts.html#scale):
+    - Local: litter on a beach
+    - Regional: Oil spill
+    - Global: [Rubber ducks being released into ocean](https://en.wikipedia.org/wiki/Friendly_Floatees)
+- Coastal degradation causes loss of plant/animal species
+- Examples of coastal degradation:
+    - increase of sand in ocean
+    - changing the coastline (e.g human structures)
+    - toxic algae
+
+### Spatial variations
+
+- Spatial variations are the differences between different locations.
+- Natural factors:
+    - atmosphere - gas surrounding earth
+    - biosphere - living things on earth
+    - hydrosphere - water on earth
+    - lithosphere - outer rocky layer of earth
+- Human factors
+    - Tourism
+    - Cleared vegetation
+    - Mining and roads
+    - Land reclamation
+- Where coastlines are significantly altered by humans they are known as anthropogenic coasts
+
+### Climate change
+
+Human activities such as land clearing and fossil fuel burning has caused more carbon dioxide to be present in the atmosphere. This results in global warming. Global warming affects coastlines and ecosystems, and as a result sea levels are rising which in turn causes:
+
+- increased beach erosion
+- increased flooding
+- salt water entering freshwater sources
+- increase in extreme weather events
+
+#### Case study: Great Barrier Reef
+
+The Great Barrier Reef (GBR) in Queensland contains a lot of coral. Rising sea temperatures will result in coral bleaching, and sea levels will rise. In addition, ocean acidification will occur where more carbon dioxide is in the water. This can reduce the amount of carbonate in the water that impacts the ability of animals to create shells.

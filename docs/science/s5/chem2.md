@@ -32,13 +32,13 @@ nav_order: 3
 
 Acids are corrosive. They taste sour, and can be used to react with other substances.
 
-Acids are chemicals with a **pH < 7**. Acids contain hydrogen ions (H⁺). When acids are diluted the concentration of H⁺ ions and pH increases towards 7 (neutral pH)
+Acids are chemicals with a **pH < 7**. Acids contain hydrogen ions (H⁺). When acids are diluted with water the concentration of H⁺ ions in the solution is reduced, and it's pH increases towards 7 (neutral pH).
 
 ### Bases[^1]
 
 Bases are sometimes corrosive. They are bitter, slippery, and/or soapy. Bases that can be dissolved in water are called **alkalis**.
 
-Bases are chemicals with a **ph > 7**. Bases contain hydroxide ions (OH⁻). When bases are diluted the concentration of OH⁻ ions decreases and pH decreases towards 7 (neutral pH)
+Bases are chemicals with a **ph > 7**. Bases contain hydroxide ions (OH⁻). When bases are diluted with water the concentration of OH⁻ ions in the solutions is reduced, and it's pH decreases towards 7 (neutral pH).
 
 > **Acids have a pH less than 7. Bases have a pH greater than 7. Remember it as `a` comes before `b`. Acids come before bases on the pH scale.**
 

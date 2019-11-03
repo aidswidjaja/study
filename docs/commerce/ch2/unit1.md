@@ -27,7 +27,7 @@ parent: "Chapter 2 – Personal Finance"
 
 > "Summer is here! It is time to throw on the sunglasses, wax the surfboard, jump in the car and head for the beach. No cares, no responsibilities, just fun in the sun. For teenagers, summer can be exciting, with opportunities to enjoy the company of friends doing a whole range of activities.
 
-> 41Along with the many exciting challenges of being a teenager, though, come new responsibilities. To get to the beach or pool, teenagers need to manage their money wisely. Pocket money or wages earned through casual work may help to provide the sunglasses and the boardshorts; however, the purchase of a car will probably be the result of a longer term savings plan. To put petrol in the car and pay for repairs also requires careful financial management.
+> Along with the many exciting challenges of being a teenager, though, come new responsibilities. To get to the beach or pool, teenagers need to manage their money wisely. Pocket money or wages earned through casual work may help to provide the sunglasses and the boardshorts; however, the purchase of a car will probably be the result of a longer term savings plan. To put petrol in the car and pay for repairs also requires careful financial management.
 
 > It’s possible — and the earlier we start to organise our personal finances, the better!"
 

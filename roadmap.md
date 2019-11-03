@@ -6,9 +6,7 @@ nav_order: 3
 
 # Roadmap
 
-A majority of the project will be moving everything from Google Docs to Markdown format to host on this site. However, with finals approaching close and our lack of neccessity for learning about Roman numerals, migration to the new platform will be done from topics of most importance to topics of least importance. This also means that topic areas from previous years that don't get covered now won't be prioritised as much.
-
-### Please note that Extra Resources don't have a roadmap, however, while most important things like Past Papers are online as soon as possible, others will take time. Expected completion date for Google Drive organisation: Next year Term 1
+A majority of the project will be moving everything from Google Docs to Markdown format to host on this site. However, with finals approaching close and our lack of neccessity for learning about Roman numerals, migration to the new platform will be done from topics of most importance to topics of least importance. This also means that topic areas from previous years that don't get covered now won't be prioritised as much. **Many study notes will only be migrated from Google Drive to Adrian Study Club as part of a long-term project in 2020.**
 
 Personally I wish we could organise the chapters into concepts. However, that would unnecessarily take a lot of time and the search function + chapter headings already detail something if you wanted to find it. We also seriously recommend using [BBC Bitesize](https://bbc.co.uk/bitesize). If you'd like to volunteer to volunteer moving chapter headings into concepts (which requires merging Year 7 stuff with Year 9 stuff for example) please let me know. We might consider merging in the future but it isn't high priority right now.
 
@@ -35,8 +33,6 @@ The roadmap allows us to keep track of what needs to be completed, what has alre
 <label class="label label-green">Complete</label> – The topic/chapter has been finished. It won't be used on the Roadmap as it is substituted by the checked checkbox, but you'll find it on individual pages. 
 
 <label class="label label-blue">Aloys</label> - Content most likely applies to Aloys students only.
-
-*Last updated: 2 October 2019*
 
 
 

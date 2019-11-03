@@ -12,7 +12,29 @@ In the future, you can see when a page was last modified by reading the page's f
 Commit codes will be available for all changes excluding the most recent commit. All times in AEST/AEDT.
 
 ***
-### 3 November #1
+
+### 3 November #2
+```
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   docs/commerce/ch2/index.md
+	modified:   docs/commerce/ch2/unit1.md
+	modified:   docs/commerce/ch2/unit2.md
+	new file:   docs/commerce/ch2/unit3.md
+	modified:   docs/geography/s5/environment.md
+	new file:   docs/maths/y9/y9c1.md
+	modified:   docs/science/s5/chem2.md
+	new file:   docs/science/s5/disease.md
+	modified:   docs/science/s5/index.md
+	modified:   index.md
+	modified:   roadmap.md
+```
+
+### 3 November #1 `1eb752a`
 - 	modified:   404.md
 -	modified:   ChangeLog.md
 -	modified:   _site/ChangeLog.html

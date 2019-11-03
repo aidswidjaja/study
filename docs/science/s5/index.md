@@ -65,8 +65,8 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Compare and contrast: nervous system vs endocrine system
 
 #### Disease
-- [ ] Definitions of Infectious and non-infectious diseases (with examples of 3 types of non-infectious diseases)
-- [ ] Pathogen types
+- [x] Definitions of Infectious and non-infectious diseases (with examples of 3 types of non-infectious diseases)
+- [x] Pathogen types
 - [ ] Outline of first line of defence against pathogens (physical and chemical barriers)
 - [ ] Description of how phagocytes and lymphocytes help prevent disease
 - [ ] Second line of defence
@@ -90,7 +90,7 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 - [x] Compare energy released by earthquakes using the Richter scale
 - [x] Associate tsunamis with earthquakes and volcanic activity
 - [x] Distinguish between lava and magma
-- [ ] Relate the age and stability of the Australian continent and its lack of volcanic and major earthquake activity to its location away from plate boundaries.
+- [x] Relate the age and stability of the Australian continent and its lack of volcanic and major earthquake activity to its location away from plate boundaries.
 
 #### General Science Skills
 - [ ] Interpreting and drawing graphs
