@@ -12,7 +12,21 @@ In the future, you can see when a page was last modified by reading the page's f
 Commit codes will be available for all changes excluding the most recent commit. All times in AEST/AEDT.
 
 ***
-### 2 November #2
+### 3 November #1
+- 	modified:   404.md
+-	modified:   ChangeLog.md
+-	modified:   _site/ChangeLog.html
+-	modified:   _site/assets/js/search-data.json
+-	modified:   docs/commerce/ch1/index.md
+-	modified:   docs/commerce/ch1/unit4.md
+-	new file:   docs/commerce/ch2/index.md
+-	new file:   docs/commerce/ch2/unit1.md
+-	new file:   docs/commerce/ch2/unit2.md
+-	modified:   docs/commerce/ch5/index.md
+-	modified:   docs/maths/y9/index.md
+- so basically lots of commerce
+
+### 2 November #2 `6e5e244` 
 - Geography 
 
 ### 2 November #1 `d8d12d1`
