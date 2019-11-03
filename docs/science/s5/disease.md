@@ -26,7 +26,7 @@ nav_order: 5
 
 ***
 
-## I like infecting others
+## Diseases
 
 Disease can be sorted into two categories:
 - Infectious - caused by pathogens (e.g bacteria, viruses, fungi) and are contagious
@@ -71,3 +71,42 @@ Environmental disorders|Exposure to poisons, asbestos, fire, drugs, pollution
 
 Most people die from lifestyle diseases such as cardiovascular diseases (stroke, heart attack) which is caused by obesity and lack of nutritione/exercise or lung cancer as a result of smoking.
 
+***
+
+## Lines of Defence
+
+Your body has many defences against pathogens. They can be either specific/non-specific. Specific defences involve targeted and tailored immunity of invading pathogens, while non-specific defences are applied to all threats equally.
+
+### First line of defence – Non-specific
+
+The first line of defence are physical and chemical barriers that try to prevent entry of invading pathogens. 
+
+Physical barriers include:
+- skin
+- coughing
+- sneezing
+- hairs and eyelashes
+- cilia
+
+Chemical barriers include:
+- saliva
+- tears
+- stomach acid
+- mucus
+
+### Second line of defence – Non-specific
+
+If a pathogen evades the first line of defence, the second line of defence kicks in. At this point, an infection has occured.
+
+- Affected area becomes swollen and inflamed, while body temperature increases
+- More blood is directed to the area and blood vessels become permeable (porous - more leaky)
+- White blood cells including phagocytes move to the infected area
+- Phagocytes engulf and destroy pathogens
+
+### Third line of defence – Specific 
+
+If a pathogen evades the first and second lines of defence, then the third line of defence kicks in. It is specific immunity; which is targeted and tailored towards the type of pathogen. Any foreign particle that stimulates the production of antibodies (usually through an immune response) is an **antigen**.
+
+- Antigen enters body and lymphocytes (white blood cells) begin to divide. They split into specialised B lymphocytes and T lymphocytes (B cells and T cells respectively)
+- B cells produce plasma cells which produce antibodies that bind with particular antigens. The first time the body is exposed to a specific type of antigen is a trial and error phase which takes 10-17 for the right antibodies to be produced
+- T cells assist B cells to create an antibody and they do different jobs (e.g attack pathogens, attract/activate phagocytes, assist B cells with antibody production, etc)

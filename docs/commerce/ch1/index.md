@@ -6,9 +6,11 @@ parent: "Commerce"
 has_children: true
 ---
 
-# Chapter 5
-## ohhhhhhhh this is really long
+# Chapter 1
+## hdsajklfhjklsdahfjklhajkldshfklsadh
 <label class="label label-green">Complete</label>
+
+**Our Learning Intention (OLI):** On completion of this chapter, you will have learned how to identify, research and evaluate options when making decisions related to solving the problems and issues that confront consumers.
 
 #### Unit 1
 - [x] 1.1 Commerce and choice

@@ -11,6 +11,8 @@ has_children: true
 
 <label class="label label-green">Complete</label>
 
+**Our Learning Intention (OLI):** On completion of this chapter, you will have learned about the range of investment options and how to make wise investment decisions.
+
 #### Unit 1
 - [x] 5.1 Investment decisions
 - [x] 5.2 Financing investment

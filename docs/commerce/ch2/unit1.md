@@ -21,8 +21,6 @@ parent: "Chapter 2 – Personal Finance"
 * Table of Contents
 {:toc}
 
-**Our learning intention (OLI):** On completion of this chapter, you will have developed knowledge, understanding and skills that will assist you in achieving financial independence by developing the ability to make informed judgements and take effective actions regarding the use and management of money.
-
 ***
 
 > "Summer is here! It is time to throw on the sunglasses, wax the surfboard, jump in the car and head for the beach. No cares, no responsibilities, just fun in the sun. For teenagers, summer can be exciting, with opportunities to enjoy the company of friends doing a whole range of activities.

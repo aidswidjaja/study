@@ -13,7 +13,32 @@ Commit codes will be available for all changes excluding the most recent commit.
 
 ***
 
-### 3 November #2
+### 3 November #3
+```
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   ChangeLog.md
+	modified:   docs/commerce/ch1/index.md
+	modified:   docs/commerce/ch1/unit1.md
+	modified:   docs/commerce/ch2/index.md
+	modified:   docs/commerce/ch2/unit1.md
+	modified:   docs/commerce/ch2/unit3.md
+	new file:   docs/commerce/ch2/unit4.md
+	modified:   docs/commerce/ch5/index.md
+	new file:   docs/commerce/ch6/index.md
+	new file:   docs/commerce/ch6/unit1.md
+	new file:   docs/commerce/ch6/unit2.md
+	modified:   docs/commerce/index.md
+	modified:   docs/science/s5/disease.md
+	modified:   docs/science/s5/index.md
+```
+
+
+### 3 November #2 `e94d151`
 ```
 On branch master
 Your branch is up to date with 'origin/master'.

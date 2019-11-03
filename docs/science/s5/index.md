@@ -67,10 +67,10 @@ NB: You will be provided with a polyatomic ion data sheet and periodic table dur
 #### Disease
 - [x] Definitions of Infectious and non-infectious diseases (with examples of 3 types of non-infectious diseases)
 - [x] Pathogen types
-- [ ] Outline of first line of defence against pathogens (physical and chemical barriers)
-- [ ] Description of how phagocytes and lymphocytes help prevent disease
-- [ ] Second line of defence
-- [ ] Third line of defense
+- [x] Outline of first line of defence against pathogens (physical and chemical barriers)
+- [x] Description of how phagocytes and lymphocytes help prevent disease
+- [x] Second line of defence
+- [x] Third line of defense
 
 #### Big Ideas In Science – Plate Tectonics (Chapter 8.2-8.6)
 <label class="label label-green">Complete</label>

@@ -28,8 +28,6 @@ parent: "Chapter 1 – Consumer Choice"
 ## uh oh.
 {: .no_toc }
 
-Please note that a lot of this is based heavily off the textbook. So you can call it JacPLUS in a nutshell.
-
 ***
 
 ## Commercial choices
