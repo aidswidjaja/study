@@ -110,3 +110,5 @@ If a pathogen evades the first and second lines of defence, then the third line 
 - Antigen enters body and lymphocytes (white blood cells) begin to divide. They split into specialised B lymphocytes and T lymphocytes (B cells and T cells respectively)
 - B cells produce plasma cells which produce antibodies that bind with particular antigens. The first time the body is exposed to a specific type of antigen is a trial and error phase which takes 10-17 for the right antibodies to be produced
 - T cells assist B cells to create an antibody and they do different jobs (e.g attack pathogens, attract/activate phagocytes, assist B cells with antibody production, etc)
+
+**Remember!** Phagocytes are non-specific white blood cells, while lymphocytes are specific.

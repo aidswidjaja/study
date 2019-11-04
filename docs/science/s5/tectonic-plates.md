@@ -191,7 +191,7 @@ Magma is molten rock. Then, when it escapes, it cools down and hardens as lava.
 
 Australia lies in the centre of the Australian plate, which keeps it relatively immune from seismic and volcanic activity. As the mainland is not near any plate boundaries it doesn't occur near Australia a lot. This makes Australia quite a stable continent.
 
-**
+***
 
 ## Footnotes and Other Notes
 

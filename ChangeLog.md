@@ -13,10 +13,19 @@ Commit codes will be available for all changes excluding the most recent commit.
 
 ***
 
-### 4 November #1 
+### 4 November #2 
+- fixed broken image links and typos
+- More science notes (re small things like phagocytes vs lymphocytes)
+- To the abyss! (disc 1, track 8)
+
+"But you forgot to add just a single line on the changelog file you mentioned on the commit a5f4a0d :(" - https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8 
+
+Wait how did you know!!!
+
+### 4 November #1 `eeed93e`
 - fixed acid/base reactions (reactions.md)
 
-### 3 November #3
+### 3 November #3 `3d99fb8`
 ```
 On branch master
 Your branch is up to date with 'origin/master'.

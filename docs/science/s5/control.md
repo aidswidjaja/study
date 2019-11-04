@@ -40,8 +40,9 @@ A stimulus can be anything which triggers an action, including:
 - Seeing a freezer full of chocolate 
 
 This stimulus is received by a receptors. Examples of receptors include:
+
 **Type of receptor**|**Stimulus these receptors respond to**|**Example of places where these are found**
-:-----:|:-----:|:-----:
+:-----:|:-----:|:-----:|
 Chemoreceptors|Chemicals|Tongue
 Photoreceptors|Light|Eye
 Mechanoreceptors|Pressure or distortion|Skin, inner ear
@@ -70,7 +71,7 @@ Dendrite ––––––––––––––––> Axon Branch
 2. Interneurons: CNS
 3. Motor neurons: CNS to effectors (e.g muscles, glands)
 
-![CNS and PNS](http://content.jacplus.com.au/secure/ebooks/07303/0730354067/images/01.04.05.png)
+![CNS and PNS](cnspns.png)
 
 Sensory neurons are pseudounipolar (axon with two extensions – one to receive info and other to transmit to spinal cord). 
 
@@ -84,7 +85,7 @@ Other neuron structures not mentioned in the above 3 neurons include unipolar an
 
 [The synapse on Khan Academy](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse){: .btn .btn-green}
 
-![Synapse](http://content.jacplus.com.au/secure/ebooks/07303/0730354067/images/01.04.02.png)
+![Synapse](https://qbi.uq.edu.au/files/7758/Synapse-QBI-brain-neuroscience.jpg)
 
 To continue relaying a nerve impulse across different neurons, chemical compounds called neurotransmitters are used.
 
@@ -105,7 +106,7 @@ Did you get that?
 
 When reflex acions occur, no conscious thought is required. Reflex arcs are actions that are carried out quickly. 
 
-![Reflex arc](http://content.jacplus.com.au/secure/ebooks/07303/0730354067/images/01.04.04.png)
+![Reflex arc](https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/03/12071741/Screenshot-59.png.jpg)
 
 ***
 
@@ -120,7 +121,7 @@ The brain consists of three main sections:
 - Cerebellum: between the cerebrum and brainstem and controls balance and muscle
 - Brain stem (medulla): connected to spinal cord and controls breathing, heartbeat, digestion
 
-![Brain](http://content.jacplus.com.au/secure/ebooks/07303/0730354067/images/01.05.02a.png)
+![Brain](https://chw.org/-/media/images/medicalcare/birthmarksandvascularanomalies/major-structures-of-brain-with-phace.jpg?la=en&hash=8994DB8B882EAD0BFD1EEB2D9791153A2F8C5DA4)
 
 ### Stem cells
 
@@ -134,7 +135,7 @@ Stem cells are cells that can develop into other specialised cells. They can be 
 
 The eye is made up of a number of different components.
 
-![Structure of the Eye](http://content.jacplus.com.au/secure/ebooks/07303/0730354067/images/01.03.04.png)
+![Structure of the Eye](https://www.thoughtco.com/thmb/x39DElPQAP54cEWf_3ZW6XUYbRs=/2059x1158/smart/filters:no_upscale()/GettyImages-695204442-b9320f82932c49bcac765167b95f4af6.jpg)
 
 - The cornea is the clear, curved, outer surface of the eye
     - It is curved so light approaching the eye is refracted towards the pupil
@@ -180,11 +181,11 @@ Positive feedback, however, is when a change in the normal state is amplified. F
 
 #### Blood Glucose Negative Feedback Loop
 
-![Blood Glucose NFL](https://slideplayer.com/slide/9235205/27/images/32/Control+of+blood+glucose+by+negative+feedback.jpg)
+![Blood Glucose NFL](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1223/2017/02/07230445/Figure_37_03_05.png)
 
 #### Body Temperature Negative Feedback Loop
 
-![Constant Body Temp NFL](http://content.jacplus.com.au/secure/ebooks/07303/0730354067/images/01-02-01.png)
+![Constant Body Temp NFL](https://cdn.kastatic.org/ka-perseus-images/69ad70de87b8e05dcbd1708d4f48dc176e1276e9.png)
 
 - A	Air temperature increases.
 - B	Heat receptors detect increase in temperature and send message to the hypothalamus in the brain. Message travels along nerve cells.
@@ -227,9 +228,9 @@ Hormones control the menstrual cycle in women and sperm production in men. The h
 
 ## Compare and Contrast: The endocrine system and the nervous system 
 
-![More on Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-nervous-and-endocrine-systems/a/hs-the-nervous-and-endocrine-systems-review){: .btn .btn-green}
+[More on Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-nervous-and-endocrine-systems/a/hs-the-nervous-and-endocrine-systems-review){: .btn .btn-green}
 
-![How the Nervous System Interacts with Other Body Systems - University of Washington](https://faculty.washington.edu/chudler/organ.html){: .btn .btn-blue}
+[How the Nervous System Interacts with Other Body Systems - University of Washington](https://faculty.washington.edu/chudler/organ.html){: .btn .btn-blue}
 
 - The endocrine system uses chemicals to affect changes in the body
 - It makes slower but longer lasting changes to target organs

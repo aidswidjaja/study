@@ -15,19 +15,16 @@ nav_order: 999
 ***
 
 1. Acid + Base
-
 ```
 acid + base –> salt + water
 ```
 
 1. Acid + Carbonate
-
 ```
 acid + carbonate –> salt + water + carbon dioxide
 ```
 
 1. Acid + Metal
-
 ```
 acid + metal –> salt + water + carbon dioxide
 ```
