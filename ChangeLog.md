@@ -11,9 +11,15 @@ In the future, you can see when a page was last modified by reading the page's f
 
 Commit codes will be available for all changes excluding the most recent commit. All times in AEST/AEDT.
 
+[Vim Cheat Sheet](http://www.fprintf.net/vimCheatSheet.html)
+
 ***
 
-### 4 November #2 
+### 4 November #3
+- Added that vim cheat sheet link up there
+- Underground river (disc 1, track 9)
+
+### 4 November #2 `8ae9779`
 - fixed broken image links and typos
 - More science notes (re small things like phagocytes vs lymphocytes)
 - To the abyss! (disc 1, track 8)
