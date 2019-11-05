@@ -15,7 +15,10 @@ Commit codes will be available for all changes excluding the most recent commit.
 
 ***
 
-### 4 November #3
+### 5 November #1 
+- Fixed search function, only partially works
+
+### 4 November #3 `4c978ee`
 - Added that vim cheat sheet link up there
 - Underground river (disc 1, track 9)
 
