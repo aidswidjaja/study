@@ -14,8 +14,92 @@ Commit codes will be available for all changes excluding the most recent commit.
 [Vim Cheat Sheet](http://www.fprintf.net/vimCheatSheet.html)
 
 ***
+### 6 November #1
+- Lots of stuff
+```
+91 files changed, 772 insertions(+), 328 deletions(-)
+ rewrite _site/ChangeLog.html (65%)
+ rewrite _site/calendar.html (80%)
+ rewrite _site/docs/commerce/ch1/index.html (84%)
+ rewrite _site/docs/commerce/ch1/unit1.html (86%)
+ rewrite _site/docs/commerce/ch1/unit2.html (86%)
+ rewrite _site/docs/commerce/ch1/unit3.html (87%)
+ rewrite _site/docs/commerce/ch1/unit4.html (85%)
+ rewrite _site/docs/commerce/ch2/index.html (84%)
+ rewrite _site/docs/commerce/ch2/unit1.html (84%)
+ rewrite _site/docs/commerce/ch2/unit2.html (85%)
+ rewrite _site/docs/commerce/ch2/unit3.html (83%)
+ rewrite _site/docs/commerce/ch2/unit4.html (84%)
+ rewrite _site/docs/commerce/ch5/index.html (81%)
+ rewrite _site/docs/commerce/ch5/unit1.html (84%)
+ rewrite _site/docs/commerce/ch5/unit2.html (83%)
+ rewrite _site/docs/commerce/ch5/unit3.html (71%)
+ rewrite _site/docs/commerce/ch6/index.html (82%)
+ rewrite _site/docs/commerce/ch6/unit1.html (86%)
+ rewrite _site/docs/commerce/ch6/unit2.html (83%)
+ rewrite _site/docs/commerce/index.html (82%)
+ rewrite _site/docs/commerce/xrCommerce.html (82%)
+ rewrite _site/docs/dofe/index.html (86%)
+ rewrite _site/docs/dofe/involved.html (82%)
+ rewrite _site/docs/dofe/toban.html (87%)
+ rewrite _site/docs/dofe/xrDofE.html (82%)
+ rewrite _site/docs/geography/index.html (82%)
+ rewrite _site/docs/geography/s4/index.html (82%)
+ rewrite _site/docs/geography/s4/interconnections.html (81%)
+ rewrite _site/docs/geography/s4/land.html (82%)
+ rewrite _site/docs/geography/s5/concepts.html (87%)
+ rewrite _site/docs/geography/s5/index.html (82%)
+ rewrite _site/docs/geography/tools/index.html (81%)
+ rewrite _site/docs/history/index.html (81%)
+ rewrite _site/docs/history/s5/index.html (82%)
+ rewrite _site/docs/history/s5/tactics.html (83%)
+ rewrite _site/docs/maths/index.html (82%)
+ rewrite _site/docs/maths/mathschecklist.html (77%)
+ copy _site/{calendar.html => docs/maths/tree.html} (54%)
+ rewrite _site/docs/maths/xrMaths.html (82%)
+ rewrite _site/docs/maths/y7/index.html (82%)
+ rewrite _site/docs/maths/y8/index.html (82%)
+ rewrite _site/docs/maths/y8/y8c1.html (74%)
+ rewrite _site/docs/maths/y8/y8c2.html (65%)
+ rewrite _site/docs/maths/y8/y8c4.html (82%)
+ rewrite _site/docs/maths/y8/y8c5.html (74%)
+ rewrite _site/docs/maths/y8/y8c7.html (73%)
+ rewrite _site/docs/maths/y9/index.html (83%)
+ rewrite _site/docs/maths/y9/quadratics.html (86%)
+ rewrite _site/docs/maths/y9/y9c1.html (65%)
+ rewrite _site/docs/maths/y9/y9c2.html (65%)
+ rewrite _site/docs/maths/y9/y9c3.html (63%)
+ rewrite _site/docs/maths/y9/y9c4.html (66%)
+ rewrite _site/docs/maths/y9/y9c5.html (84%)
+ create mode 100644 _site/docs/maths/y9/y9c6.html
+ create mode 100644 _site/docs/maths/y9/y9c8.html
+ rewrite _site/docs/science/index.html (82%)
+ rewrite _site/docs/science/ptable.html (81%)
+ rewrite _site/docs/science/s4/index.html (84%)
+ rewrite _site/docs/science/s5/chem2.html (73%)
+ rewrite _site/docs/science/s5/disease.html (86%)
+ rewrite _site/docs/science/s5/equations.html (67%)
+ rewrite _site/docs/science/s5/how-neurons-work-together.html (82%)
+ rewrite _site/docs/science/s5/index.html (86%)
+ rewrite _site/docs/science/s5/reactions.html (78%)
+ rewrite _site/docs/science/s5/tectonic-plates.html (90%)
+ rewrite _site/docs/science/xrScience.html (84%)
+ rewrite _site/index.html (85%)
+ create mode 100644 _site/issues.html
+ rewrite _site/mathschecklist.html (78%)
+ rewrite _site/meta.html (72%)
+ rewrite _site/nesahsc.html (84%)
+ rewrite _site/offline.html (73%)
+ rewrite _site/reflog.html (80%)
+ rewrite _site/roadmap.html (83%)
+ rewrite _site/tips.html (82%)
+ rewrite _site/tysk.html (86%)
+ create mode 100644 docs/maths/y9/y9c6.md
+ create mode 100644 docs/maths/y9/y9c8.md
+ create mode 100644 issues.md
+ ```
 
-### 5 November #1 
+### 5 November #1 `c6d143`
 - Fixed search function, only partially works
 
 ### 4 November #3 `4c978ee`

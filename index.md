@@ -29,10 +29,6 @@ and other things that might be of interest to you.
 
 This is mostly for my closer friends and friends outside of my current school, as well as a digital record for myself, but if you're not my friend that is okay and you can use it too. Just try not to tell too many people about it though.
 
-### Help! The search function doesn't work!
-
-I'm currently waiting on a bugfix from the developers of Just the Docs, the theme I'm using on this website. In the meantime, use `Ctrl`+`F` on Windows or `Command`+`F` on Mac to find content within a webpage. [Click here for more information on the issue.](https://github.com/pmarsceill/just-the-docs/pull/218)
-
 ### How much have you already completed?
 
 You can see our [Roadmap](roadmap.html) which contains our schedule and projected topics. In the future, a "Last modified" footer will be available as well. See this [GitHub issue](https://github.com/pmarsceill/just-the-docs/issues/166) and [pull request](https://github.com/pmarsceill/just-the-docs/pull/217) for more information.
