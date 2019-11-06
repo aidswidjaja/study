@@ -89,13 +89,13 @@ When an atom is excited it may "jump" to a higher electron shell. They drop back
 
 There are 18 groups in the periodic table. Here are some important ones.
 
-| Group      | Name                  | Other                                             |   |   |
-|------------|-----------------------|---------------------------------------------------|---|---|
-| Group 1    | Alkali metals         | React strongly with water to form basic solutions |   |   |
-| Group 2    | Alkaline earth metals | Highly reactive                                   |   |   |
-| Group 17   | Halogens              | Non-metal elements                                |   |   |
-| Group 18   | Noble gases           | Inert elements that aren't that reactive          |   |   |
-| Group 3-12 | Transition metals     | Metallic elements                                 |   |   |
+| Group      | Name                  | Other                                             |
+|------------|-----------------------|---------------------------------------------------|
+| Group 1    | Alkali metals         | React strongly with water to form basic solutions | 
+| Group 2    | Alkaline earth metals | Highly reactive                                   |
+| Group 17   | Halogens              | Non-metal elements                                |
+| Group 18   | Noble gases           | Inert elements that aren't that reactive          |
+| Group 3-12 | Transition metals     | Metallic elements                                 |
 
 ***
 
@@ -328,11 +328,17 @@ Here are some more fun ones to do. Use the table for common ionic and covalent c
 #### Activity
 
 1. Carbon monoxide gas + oxygen gas –> carbon dioxide gas
+{: .no_toc}
 2. Sodium hydroxide + hydrochloric acid –> sodium chloride + water
+{: .no_toc}
 3. Mercury + oxygen gas –> mercury(II) oxide
+{: .no_toc}
 4. Magnesium metal + hydrochloric acid –> hydrogen gas + magnesium chloride
+{: .no_toc}
 5. Sodium + water –> hydrogen gas + sodium hydroxide gas
+{: .no_toc}
 6. Copper sulfate + sodium hydroxide –> copper hydroxie + sodium sulfate
+{: .no_toc}
 
 #### Common ionic and covalent compounds
 

@@ -32,7 +32,7 @@ Disease can be sorted into two categories:
 - Infectious - caused by pathogens (e.g bacteria, viruses, fungi) and are contagious
 - Non-infectious - no pathogens and non-contagious
 
-![Classifying diseases](http://content.jacplus.com.au/secure/ebooks/07303/0730354067/images/02.01.01.jpg)
+![Classifying diseases](http://diseasesanddefences.weebly.com/uploads/5/9/8/7/59870847/8416872.jpg?475)
 
 ### Infectious diseases
 
