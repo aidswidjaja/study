@@ -6,6 +6,15 @@ nav_order: 5
 
 # Known Issues
 
+## Move from remote to local Jekyll theme
+
+Enhancement
+{: .label .label-yellow}
+
+1. Clone original git repo
+2. Replace docs folder with my content
+3. Replace root files with my root files
+
 ## Search function doesn't work
 
 Bug
