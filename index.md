@@ -4,6 +4,11 @@ layout: default
 nav_order: 1
 ---
 
+# Good job with your exams everybody!
+## If you're still doing them, good luck for you too! Adrian's Study Club will be maintained again next year (to move all of the old content on and fix [Known issues](issues.html))
+
+***
+
 # “Haven’t we all done this in our Maths Summary Books?”
 
 ## This website contains archives of Adrian's digitised exam resources and stuff like that. Feel free to use it for your own intents and purposes.
