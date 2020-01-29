@@ -17,17 +17,13 @@ Things You Should Know can help you stay on top of your assessments, events and 
 
 [Join TYSK on WhatsApp](https://tinyurl.com/AloysTYSK){: .btn .btn-green}
 
-TYSK also has a WhatsApp group chat for important and medium-priority announcements. Although not mandatory, it is strongly recommended you join. However, by having a separate group chat, it keeps the main chat uncluttered. You will also be able to turn off notifications for the Announcements group chat while keeping them on for the main group chat.
+TYSK also has a WhatsApp group chat for important and medium-priority announcements - for example, co-curricular announcements or general TYSK news. By having a separate group chat, it keeps the main chat uncluttered. You will also be able to turn off notifications for the Low-Priority group chat while keeping them on for the main group chat. 
 
-[Join TYSK Announcements on WhatsApp](https://tinyurl.com/TYSKAnnounce){: .btn}
+[Join TYSK Low-Priority on WhatsApp](https://tinyurl.com/TYSKAnnounce){: .btn}
 
 [Submit feedback, suggestions and enquiries here, or DM a Group Admin](https://forms.gle/jCQ5mJWzG7EB6CDZ7){: .btn}
 
 ***
-
-### View the TYSK Calendar
-
-You can view an assessment schedule on Google Calendar here, [at this link](https://calendar.google.com/calendar/embed?src=3s2njvh3m3sulttuinhvmscbj4%40group.calendar.google.com&ctz=Australia%2FSydney). You can also integrate it with iCal by going to File >> New Calendar Subscription... and pasting `https://calendar.google.com/calendar/ical/3s2njvh3m3sulttuinhvmscbj4%40group.calendar.google.com/public/basic.ics` as your URL.
 
 ### Volunteer to help TYSK
 
@@ -35,14 +31,3 @@ You can volunteer in a number of ways.
 
 1. Join the TYSK Staff Team and send out notifications for everybody, or manage the TYSK Calendar.
 2. Send a school provided assessment notification [to this email address](https://adrian-study-club.netlify.com/tysk.html#use-things-you-should-know-on-email) for Elective subjects or Maths 5.2, so we can add it to the TYSK Calendar and provide TYSK notifications for it.
-
-### What does DROM mean on TYSK Calendar?
-
-DROM stands for "Don't Rely on Me". This means that it is solely based on the information provided in the assessment schedule and can't be independently verified by TYSK. If you'd like to cover a specific elective/Maths 5.2, or make a correction, please message an admin on WhatsApp!
-
-***
-
-### Future ideas for TYSK
-
-- Email service (through Google Groups)
-- Google Classroom service 
