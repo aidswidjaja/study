@@ -28,6 +28,10 @@ Not many people. It's mostly for me but is also used by my friends from my curre
 
 Print >> Save to PDF, or if you're more technically inclined see [Offline Copies](offline.html). There's a lot of content available for download as a PDF immediately or on a Google Doc, so check the Extra Resources page on each corresponding subject.
 
+### How do I know if Adrian's Study Club goes down?
+
+If there is an intentional shutdown of Adrian's Study Club, you'll get a maintainence message. Otherwise, you can go to [this website](https://aidswidjaja.github.io/social/#is-it-currently-online) to check whether the site is live or if there is an error. If there is an error, I'm probably working on a fix, but if it hasn't been patched in a couple of days [let me know.](mailto:adrian.marcus.widjaja@gmail.com?There's an error with the deploy of your site.) 
+
 ### How can I help?
 
 [Letting me know](mailto:adrian.marcus.widjaja@gmail.com?I want to contribute to Adrian's Study Club!) would be a great start! If you've already got notes written on a Google Doc or Microsoft Word document these can easily be ported to the website.
