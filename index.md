@@ -16,6 +16,10 @@ I've got a few things on this website, including [study notes](https://en.wikipe
 
 See the [Roadmap](roadmap.html) for each corresponding subject to see what's been finished, what's to be done and what will not be completed.
 
+### The search function doesn't work yet!
+
+Please see [Known Issues](issues.html). In the meantime, you can search for content on a page with `Ctrl+F` on Windows and `Cmd+F` on Mac.
+
 ### The content I want isn't available or hasn't been completed yet!
 
 Sorry I'm not smart enough to get into the accelerated maths course. See Extra Resources on each page if there are any useful external links that I like. Otherwise, you should check out [Khan Academy](https://khanacademy.org) and [BBC Bitesize](bbc.co.uk/bitesize). If you're using Bitesize both KS3 and GCSE content can apply to you (more likely GCSE) and I suggest using the CCEA exam board. You can also help out by seeing how you can contribute in [How can I help?](#how-can-i-help). I also have more resources available on [Quizlet](https://quizlet.com/class/10813900/).
@@ -26,7 +30,7 @@ Not many people. It's mostly for me but is also used by my friends from my curre
 
 ### How can I download this offline?
 
-Print >> Save to PDF, or if you're more technically inclined see [Offline Copies](offline.html). There's a lot of content available for download as a PDF immediately or on a Google Doc, so check the Extra Resources page on each corresponding subject.
+`Print >> Save to PDF`, or if you're more technically inclined see [Offline Copies](offline.html). There's a lot of content available for download as a PDF immediately or on a Google Doc, so check the Extra Resources page on each corresponding subject.
 
 ### How do I know if Adrian's Study Club goes down?
 
