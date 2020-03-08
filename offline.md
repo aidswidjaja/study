@@ -5,7 +5,7 @@ nav_order: 10
 ---
 
 # Offline Copies
-## This guide assumes that you have a basic understanding of terminal programs, cd (chdir) and md (mkdir), Git, Ruby, RubyGems, and Bundler.
+## This guide assumes you have a basic understanding of Ruby development environments and Unix terminal commands
 
 Some content like Cheat Sheets and Student-made Quizzes are downloadable as PDFs.
 
@@ -32,7 +32,7 @@ which ruby
 1. **Clone the repository:**
 ```
 cd DIRECTORY-NAME 
-    # replace DIRECTORY-NAME-HERE with the directory where you want to store the contents
+    # replace DIRECTORY-NAME with the directory where you want to store the contents
     # or leave empty for user root directory 
     # (i.e C:\Users\Adrian and Jacinta on Windows
     # and ~/Macintosh HD/Users/Adrian on Mac are your root directories)
