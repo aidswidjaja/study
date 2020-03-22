@@ -7,6 +7,7 @@ nav_order: 8
 # Assessment Calendar
 
 <label class="label label-blue">Aloys</label>
+<label class="label label-red">Depreceated</label>
 
 <iframe src="https://calendar.google.com/calendar/embed?src=3s2njvh3m3sulttuinhvmscbj4%40group.calendar.google.com&ctz=Australia%2FSydney" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
