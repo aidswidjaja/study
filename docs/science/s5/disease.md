@@ -2,7 +2,7 @@
 title: "Disease"
 layout: default
 parent: "Stage 5 Science"
-nav_order: 5
+nav_order: 11
 ---
 
 # Chemistry 2
