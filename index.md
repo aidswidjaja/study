@@ -39,3 +39,5 @@ If there is an intentional shutdown of Adrian's Study Club, you'll get a maintai
 ### How can I help?
 
 [Letting me know](mailto:adrian.marcus.widjaja@gmail.com?I want to contribute to Adrian's Study Club!) would be a great start! If you've already got notes written on a Google Doc or Microsoft Word document these can easily be ported to the website.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a01bbd12-618d-46e1-8120-dc5ba8a380d1/deploy-status)](https://app.netlify.com/sites/adrian-study-club/deploys)

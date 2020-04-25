@@ -127,6 +127,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 td, th { padding: 0; }
 
+@media (min-width: 31.25rem) { .site-title { font-size: 18px !important; font-weight: 700; } }
 * { box-sizing: border-box; }
 
 ::selection { color: #fff; background: #41d693; }
@@ -2167,4 +2168,6 @@ pre.highlight code, figure.highlight code { padding: 0; border: 0; }
   .pl-xl-10 { padding-left: 4rem !important; }
   .px-xl-10 { padding-right: 4rem !important; padding-left: 4rem !important; }
   .py-xl-10 { padding-top: 4rem !important; padding-bottom: 4rem !important; } }
+.site-title { font-size: 20px; }
+
 .site-title { font-size: 20px; }
