@@ -1,5 +1,4 @@
 remote_theme: aidswidjaja/just-the-docs
-theme: "just-the-docs"
 title: Adrian's Study Club
 description: Resources and other cool stuff to help you prepare for your exams.
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -7,6 +6,8 @@ encoding: UTF-8
 aux_links:
   "Email Adrian for help":
     - "mailto:adrian.marcus.widjaja@gmail.com?subject=[ASC Enquiry]"
-footer_content: "Copyleft &copy; 2017-2019  Adrian Widjaja and other contributors. CC BY-SA 4.0 Australia unless otherwise stated."
+footer_content: "Copyleft &copy; 2017-2020  Adrian Widjaja and other contributors. CC BY-SA 4.0 Australia unless otherwise stated."
 color_scheme: "dark"
 search_enabled: true
+heading_anchors: true
+footer_content: true

@@ -40,7 +40,12 @@ Remember! All transition metals have a valency of `2+` except for Gold, which ha
 ### Endothermic and exothermic reactions
 
 - Endothermic reactions **absorb** heat
+  - respiration
+  - metal + acid
+  - heat packs and warmers
 - Exothermic reactions **release** heat
+  - photosynthesis
+  - ice packs
 
 > TIP! To remember the difference between **endo**thermic and **exo**thermic reactions - remember that **endo** sounds like **in**hale (take in), and **exo** sounds like **ex**hale (release) with respect to __heat__.
 
@@ -69,6 +74,12 @@ Source: Table 16 at [Introductory Chemistry, Chapter 16.1](https://saylordotorg.
 - Your standard hydrocarbons are known as **alkanes** (methane `CH4`, ethane `C2H6`, buthane `C4H8`, etc) - they are saturated and are joined by single bonds.
     - They are relatively unreactive apart from combustion reactions
 - **Alkanels** or ***alcohols** (methanol `CH3OH`, ethanol `C2H5OH`, butanol `C4H7OH`, etc) contain saturated hybocarbons bound to a hydroxide `-OH` . 
+
+### Reactivity series
+
+![https://1.bp.blogspot.com/-Tq1XUPWeAZ8/VOFc1B9C6jI/AAAAAAAAA2U/Jv4oPX0EpuE/s1600/3.3.1.png]
+
+Metals that are higher up the reactivity series are more reactive and more vulnerable to reactions such as corrosion.
 
 ## Precipitation reactions
 ### When solutions of different ionic compounds react with each other, they sometimes produce a **precipitate** - insoluble solid. 
@@ -153,4 +164,52 @@ Note that `carbon dioxide` has been replaced with `carbon monoxide + carbon`
 
 **It was determined in an experiment that less energy is released with less carbon atoms.**
 
+## Corrosion
+### Corrosion occurs when metal is exposed to air, water or other substances.
+{: .no_toc }
+
+<span class="fs-4">[Corrosion on BBC Bitesize (National 4)](https://www.bbc.co.uk/bitesize/guides/zjb2pv4/revision/2){: .btn .btn-green}</span>
+
+Some materials are more vulnerable to corrosion than others
+- Iron and steel rust
+- Tin doesn't rust
+
+In the real world (yea with all this coronavirus stuff I guess noone knows what that is anymore eh) corrosion is prevented through different measures:
+
+- Painting/greasing: Paint or grease protects the metal from air, water, and sunlight.
+- Electro-plating: tin-plated iron won't rust as the iron is not exposed, and tin doesn't rust. Electro-plating involves covering a metal in a thin layer of a less reactive metal.
+- Sacrificial Protection: Magnesium is more reactive in corrosion, therefore it can be sacrificed instead of the material under it. Sacrificial protection involves coating a metal in a more reactive metal.
+- Galvanising is similar to sacrificial protection, but it specifically refers to coating iron or steel with a zinc protective layer.
+
+## Displacement reaction 
+### In a displacement reaction, a more reactive metal will displace a less reactive metal from its compounds[^1]
+
+<span class="fs-4">[Displacement reactions on BBC Bitesize (KS3)](https://www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3){: .btn .btn-green}</span>
+
+![https://1.bp.blogspot.com/-Tq1XUPWeAZ8/VOFc1B9C6jI/AAAAAAAAA2U/Jv4oPX0EpuE/s1600/3.3.1.png]
+
+Some metals are more reactive than others.
+
+```nimrod
+Fe + Pb(NO₃)₂ -> Fe(NO₃)₂ + Pb  # displacement has occured
+Mg + CuSO     -> MgSO₄ + Cu     # displacement has occured
+Pb + Fe(NO₃)₂ -> NO REACTION    # no displacement
+Au + Pb(NO₃)₂ -> NO REACTION    # no displacement
+```
+
+According to the Reactivity series, Magnesium is more reactive than zinc, and zinc is more reactive than iron, and iron is more reactive than copper, etc. This is best represented in this table displaying different reactions and whether an observable and visible reaction occurs.
+
+| |**Magnesium**|**Zinc**|**Iron**|**Copper**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Magnesium sulfate|✘|✘|✘|✘
+Zinc sulfate|✔|✘|✘|✘
+Iron sulfate|✔|✔|✘|✘
+Copper sulfate|✔|✔|✔|✘
+Reactions seen|3|2|1|0
+
+Source: BBC Bitesize ofc!
+
+[^1]Displacement reactions on BBC Bitesize (KS3) - [https://www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3](www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3)
+
+## Year 9 fun
 
