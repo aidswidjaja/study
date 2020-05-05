@@ -7,10 +7,10 @@ nav_order: 4
 
 # Chemistry 3
 {: .no_toc }
-## Organic chemistry: Precipitaion, combustion, corrosion, displacement reactions (and all the fun stuff from last year)
+## Organic chemistry: Precipitaion, combustion, decomposition, corrosion, displacement reactions (and all the fun stuff from last year)
 {: .no_toc }
 
-<label class="label label-blue">In-progress</label>
+<label class="label label-green">Complete</label>
 
 #### Table of Contents
 {: .no_toc }
@@ -69,7 +69,7 @@ C10H22 |decane
 
 Source: Table 16 at [Introductory Chemistry, Chapter 16.1](https://saylordotorg.github.io/text_introductory-chemistry/s20-01-hydrocarbons.html)
 
-![https://www.softschools.com/chemistry/organic_chemistry/alkanes_vs_alkenes_vs_alkynes/]
+![Alkanes vs alkenes vs alkynes](https://www.softschools.com/chemistry/organic_chemistry/alkanes_vs_alkenes_vs_alkynes/)
 
 - Your standard hydrocarbons are known as **alkanes** (methane `CH4`, ethane `C2H6`, buthane `C4H8`, etc) - they are saturated and are joined by single bonds.
     - They are relatively unreactive apart from combustion reactions
@@ -77,7 +77,7 @@ Source: Table 16 at [Introductory Chemistry, Chapter 16.1](https://saylordotorg.
 
 ### Reactivity series
 
-![https://1.bp.blogspot.com/-Tq1XUPWeAZ8/VOFc1B9C6jI/AAAAAAAAA2U/Jv4oPX0EpuE/s1600/3.3.1.png]
+![Reactivity series](https://1.bp.blogspot.com/-Tq1XUPWeAZ8/VOFc1B9C6jI/AAAAAAAAA2U/Jv4oPX0EpuE/s1600/3.3.1.png)
 
 Metals that are higher up the reactivity series are more reactive and more vulnerable to reactions such as corrosion.
 
@@ -164,6 +164,26 @@ Note that `carbon dioxide` has been replaced with `carbon monoxide + carbon`
 
 **It was determined in an experiment that less energy is released with less carbon atoms.**
 
+## Decomposition
+
+i swear we never learnt this
+
+Decomposition occurs when one substance breaks down into two substances. It is an example of an **endothermic reaction**
+
+The general equation for a decomp. reaction is:
+```nimrod
+AB -> A + B
+```
+
+For example, with calcium carbonate[^4]
+```nimrod
+CuCO3 -> CuO + CO2
+```
+
+It is usually observable by colour change.
+
+[^4]: https://www.bbc.co.uk/bitesize/guides/zqd2mp3/revision/5
+
 ## Corrosion
 ### Corrosion occurs when metal is exposed to air, water or other substances.
 {: .no_toc }
@@ -186,7 +206,7 @@ In the real world (yea with all this coronavirus stuff I guess noone knows what 
 
 <span class="fs-4">[Displacement reactions on BBC Bitesize (KS3)](https://www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3){: .btn .btn-green}</span>
 
-![https://1.bp.blogspot.com/-Tq1XUPWeAZ8/VOFc1B9C6jI/AAAAAAAAA2U/Jv4oPX0EpuE/s1600/3.3.1.png]
+![Reactivity series](https://1.bp.blogspot.com/-Tq1XUPWeAZ8/VOFc1B9C6jI/AAAAAAAAA2U/Jv4oPX0EpuE/s1600/3.3.1.png)
 
 Some metals are more reactive than others.
 
@@ -209,7 +229,123 @@ Reactions seen|3|2|1|0
 
 Source: BBC Bitesize ofc!
 
-[^1]Displacement reactions on BBC Bitesize (KS3) - [https://www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3](www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3)
+[^1]: Displacement reactions on BBC Bitesize (KS3) - [https://www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3](www.bbc.co.uk/bitesize/guides/zqwmxnb/revision/3)
 
-## Year 9 fun
+## wow what's that? they released the study guide? 
 
+#### Biology
+
+
+#### Chemistry
+- [x] Describe the indications that a chemical reaction has occurred
+- [x] Group compounds into ionic and covalent depending on their properties
+- [x] Explain the Law of Conservation of Mass
+- [x] Describe and write equations for combustion, decomposition and precipitation reactions
+- [x] Write word and balanced chemical equations for the following reactions
+  - metal and acid reactions (also describe the test for hydrogen)
+  - metal carbonate and acid reactions (also describe the test for carbon dioxide)
+  - decomposition reactions involving metal carbonates and metal oxides
+- [x] Use the solubility rules (provided – no need to memorise) to predict whether reactions will produce a precipitate
+
+## Chemistry
+
+### Describe the indications that a chemical reaction has occurred
+
+To quote the Minnesota Science Teachers Education Project...
+
+> There are five signs of a chemical change:
+1. Color Change
+2. Production of an odor
+3. Change of Temperature
+4. Evolution of a gas (formation of bubbles)
+5. Precipitate (formation of a solid)
+
+In a precipitation reaction, this might involve the formation of a solid (precipitate). In a combustion reaction, a change of temperature or production of a gas. In a corrosion reaction, this might involve a change of temperature or a precipitate (rust). In a displacement reaction, this might involve a colour change of sorts.
+
+### Group compounds into ionic and covalent depending on their properties[^2]
+
+Ionic compounds:
+- have higher melting points and electrical conductivity
+- electrostatic bonds between ions
+- tend to be hard and brittle
+- solid at room temp.
+- occurs between a metal and a non-metal
+
+Covalent compounds:
+- have lower melting points and electrical conductivity
+- share electrons
+- tend to be soft and flexible
+- liquid/gaseous at room temp.
+- occurs between two non-metals
+
+[^2]: [Chemistry LibreTexts (UC Davis, CSU, US DoE)](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds_vs_Ionic_Bonds)
+
+### Explain the Law of Conservation of Mass
+
+The law of conservation of mass or principle of mass conservation states that for any system closed to all transfers of matter and energy, the mass of the system must remain constant over time, as the system's mass cannot change, so quantity can neither be added nor be removed. Therefore, the quantity of mass is conserved over time.[^3]
+
+In a nutshell:
+```nimrod
+mass cannot be created nor destroyed
+```
+
+[^3]: Wikipedia, the free encyclopedia. https://en.wikipedia.org/wiki/Conservation_of_mass
+
+### Describe and write equations for combustion, decomposition and precipitation reactions
+
+**sigh**
+
+#### Combustion 
+
+##### Complete combustion
+```nimrod
+hydrocarbon + oxygen -> carbon dioxide + water
+```
+
+##### Incomplete combustion
+```nimrod
+hydrocarbon + oxygen -> carbon monoxide + carbon + water 
+```
+
+#### Decomposition
+```nimrod
+A-B -> A + B
+```
+
+#### Precipitation
+```nimrod
+A-B + C-D -> A-D + B-C
+where A and C are metals
+and   B and D are non-metals
+```
+
+It might also help knowing your other general equations:
+
+#### Combination
+```nimrod
+A + B -> A-B
+```
+
+#### Corrosion
+```nimrod
+metal + oxygen gas -> metal oxide
+```
+
+#### Acid + Base
+```nimrod
+acid + base -> salt + water
+```
+
+#### Acid + Carbonate
+```nimrod
+acid + carbonate -> salt + water + carbon dioxide
+```
+
+#### Acid + Metal
+```nimrod
+acid + metal -> salt + hydrogen
+```
+
+#### Use the solubility rules (provided – no need to memorise) to predict whether reactions will produce a precipitate
+
+Something is soluble if it can dissolve in water. In an exam, you'll be given a solubility rules sheet, and you'll need to use it (in conjunction with the periodic table)

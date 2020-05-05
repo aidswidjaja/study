@@ -26,6 +26,6 @@ acid + carbonate –> salt + water + carbon dioxide
 
 1. Acid + Metal
 ```
-acid + metal –> salt + water + carbon dioxide
+acid + metal –> salt + hydrogen
 ```
 
