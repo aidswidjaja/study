@@ -24,7 +24,7 @@ nav_order: 5
 
 - [x] Describe DNA structure: nucleotides, sugar phosphate backbone, base pairing, double helix model
 - [x] Explain the importance of the exact replication of DNA
-- [ ] Describe the relationship between DNA, genes and chromosomes
+- [x] Describe the relationship between DNA, genes and chromosomes
 - [ ] Explain the relationship between genes and proteins
 - [ ] Describe mitosis including: the behaviour of chromosomes; why it is needed
 - [ ] Explain how meiosis can create variation in offspring, and why this is important
@@ -61,7 +61,7 @@ SATC unit circle? **NO**. ATGC double helix structure. **hell yea**
 
 *Note: do not inject your backbone with sugar and phosphate.*
 
-The sugar phosphate backbones are the strong bonds between one nucleotide and the phosphate of the next nucleotide. 
+The sugar phosphate backbones are the strong bonds between one nucleotide and the phosphate of the next nucleotide. In the double helix structure, they form those long curly strands that are connected to each other by bases.
 
 ### Double helix model
 
@@ -80,9 +80,18 @@ Anyway, the double helix structure of DNA consists of the following components.
 1. Base pairing - those are your horizontal lines which link...
 2. DNA strands!
 
-In DNA there are two **antiparallel** strands, 
+In DNA there are two **antiparallel** strands, which are basically just sugar phosphate molecules.
 
 ### Exact replication of DNA
 
 DNA replication is extremely important, as it is the process by which genetic information is duplicated to produce new cells. Reproduction of cells, and by extension, organisms, depend on accurate and exact DNA replication. When errors or abnormalities occur in DNA replication, genetic disorders can cause developmental, intellectual, physical, or other life-threatening issues.
 
+### Relationship between DNA, genes and chromosomes
+
+- **DNA** molecules contain genetic information and are known for their double helix structure. 
+- **Genes** are made up of DNA and contain genetic code to form **proteins**.
+- **Chromosomes** are DNA molecules containing tightly coiled DNA that is only visible during cell division. It contains a very long strand of DNA, and contains many genes!
+
+### Genes and proteins
+
+tbc
