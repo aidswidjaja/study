@@ -25,7 +25,7 @@ nav_order: 5
 - [x] Describe DNA structure: nucleotides, sugar phosphate backbone, base pairing, double helix model
 - [x] Explain the importance of the exact replication of DNA
 - [x] Describe the relationship between DNA, genes and chromosomes
-- [ ] Explain the relationship between genes and proteins
+- [x] Explain the relationship between genes and proteins
 - [ ] Describe mitosis including: the behaviour of chromosomes; why it is needed
 - [ ] Explain how meiosis can create variation in offspring, and why this is important
 - [ ] Describe the chromosomal differences between human males and females
@@ -93,5 +93,13 @@ DNA replication is extremely important, as it is the process by which genetic in
 - **Chromosomes** are DNA molecules containing tightly coiled DNA that is only visible during cell division. It contains a very long strand of DNA, and contains many genes!
 
 ### Genes and proteins
+
+- Genes contain the genetic code to form proteins.
+- Genes become proteins through a complicated process featuring two ideas - transcription and translation.
+- In accordance with the unwritten laws of standardised testing in education, we're not going to go into that since its not covered in the test.
+
+## Cell Division
+
+### Mitosis
 
 tbc

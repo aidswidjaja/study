@@ -2,23 +2,23 @@
 title: "Known Issues"
 layout: default
 nav_order: 5
+last_modified_date: 2020-05-10 12:47:00 +1000
 ---
 
 # Known Issues
 
-## Move from remote to local Jekyll theme
+<label class="label label-yellow">Meta</label>
 
-Enhancement
-{: .label .label-yellow}
 
-1. Clone original git repo
-2. Replace docs folder with my content
-3. Replace root files with my root files
 
 ## Search function doesn't work
 
 Bug
 {: .label .label-red}
+
+Fixed
+{: .label .label-green}
+
 
 - Unescaped amps in search.rake
 - search.rake succeeds with my own fix (yes I'm debugging errors of professional developers) but the search function still fails on localhost (`jekyll serve`)
@@ -28,6 +28,8 @@ Bug
 ### Sidebar disappears when deployed with search-data.json content that pulls from the variable in search.rake
 
 - how does that even happen? Could be related to new sidebar title override
+
+**Sidebar title override removed, no intention to replace**
 
 ## Sidebar title override added
 
@@ -39,9 +41,15 @@ Feature
 - Check 6 November commit history if it has broken anything
 - One of the netlify deploys have a half-working search function but because the variable was escaped it didn't read content
 
+**Sidebar title override removed, no intention to replace**
+
 ## Last modified
 
 Feature
 {: .label .label-blue}
 
 - Will add this later; after exams
+
+~~**idk man, its not working** - should be available in v0.2.9 but idk~~
+
+ok its working - hardcode required in teh fromat `YYYY-MM-DD HH:MM:SS +1000` where `+1000` is time after UTC.
