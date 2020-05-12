@@ -3,6 +3,11 @@ title: "Home"
 layout: default
 nav_order: 1
 ---
+
+<h2 style="color: red">12 May: Currently investigating an issue where the sidebar does not work. In the meantime, please use the Search function (which now works after I delayed fixing it for a year)</h2>
+
+***
+
 # “Haven’t we all done this in our Maths Summary Books?”
 ## Welcome to Adrian's Study Club - a database of study notes, past papers and exam resources I've collected over the years.
 
