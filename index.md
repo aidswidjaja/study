@@ -24,7 +24,7 @@ you have 2 options...
 
 </div>
 
-<span class="fs-4">[Tree Function](_site/tree.html){: .btn .btn-green}</span>
+<span class="fs-4">[Tree Function](tree.html){: .btn .btn-green}</span>
 <span class="fs-4">[Tree Function but its in hexadecimal :D](tree_dir.html){: .btn .bg-red-300 .text-grey-dk-300}</span>
 
 haha now you know why I'm not going to fix this for EVERY. SINGLE. WEBPAGE.
