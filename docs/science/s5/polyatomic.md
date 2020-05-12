@@ -3,6 +3,7 @@ title: "In a Nutshell: Polyatomic Ion Sheet"
 layout: default
 nav_order: 99999239
 parent: "Stage 5 Science"
+grand_parent: Science
 ---
 
 # Polyatomic Ion Sheet

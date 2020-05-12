@@ -3,6 +3,7 @@ title: "Biology"
 layout: default
 parent: "Stage 5 Science"
 nav_order: 5
+grand_parent: Science
 ---
 
 # Biology

@@ -3,6 +3,7 @@ title: "Control Systems (Nervous + Endocrine System)"
 layout: default
 parent: "Stage 5 Science"
 nav_order: 10
+grand_parent: Science
 ---
 
 # Control Systems

@@ -3,6 +3,7 @@ title: "In a Nutshell: How Neurons Work Together"
 layout: default
 parent: "Stage 5 Science"
 nav_order: 1000
+grand_parent: Science
 ---
 
 # How Neurons Work Together

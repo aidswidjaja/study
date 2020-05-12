@@ -3,6 +3,7 @@ title: "In a Nutshell: Important Acid/Base Reactions"
 layout: default
 parent: "Stage 5 Science"
 nav_order: 999
+grand_parent: Science
 ---
 
 # Important Acid/Base Reactions

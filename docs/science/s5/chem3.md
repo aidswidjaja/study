@@ -3,6 +3,7 @@ title: "Chemistry 3"
 layout: default
 parent: "Stage 5 Science"
 nav_order: 4
+grand_parent: Science
 ---
 
 # Chemistry 3

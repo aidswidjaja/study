@@ -3,6 +3,7 @@ title: "Tectonic Plates"
 layout: default
 parent: "Stage 5 Science"
 nav_order: 12
+grand_parent: Science
 ---
 
 # Tectonic Plates

@@ -3,6 +3,7 @@ title: "In a Nutshell: Equations"
 layout: default
 parent: "Stage 5 Science"
 nav_order: 999
+grand_parent: Science
 ---
 
 # Equations[^1]
