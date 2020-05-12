@@ -9,7 +9,9 @@ last_modified_date: 2020-05-10 12:47:00 +1000
 
 <label class="label label-yellow">Meta</label>
 
+## Sidebar is ded
 
+yea
 
 ## Search function doesn't work
 

@@ -4,7 +4,41 @@ layout: default
 nav_order: 1
 ---
 
-<h2 style="color: red">12 May: Currently investigating an issue where the sidebar does not work. In the meantime, please use the Search function (which now works after I delayed fixing it for a year)</h2>
+<h1 style="color: red">🐛🚨 12 May: BREAKING BUG ALERT  🚨🐛</h1>
+
+<div style="color: orange">
+
+<ul>
+<li>the sidebar is broken. </li>
+<li>I know how to fix it but it would involve basically editing every page on this website, which is painful. </li>
+<li>So, I'll work on that after exams but in the meantime, I've fixed Stage 5 Science and that's about it. </li>
+</ul>
+
+<h2 style="color: red">But Adrian! What do I do in the meantime!</h2>
+
+you have 2 options...
+<ul>
+<li>Use the Search Function (like a normal person)- it looks nice and its pretty cool and it took me 1 year to fix</li>
+<li>Use the Tree Function like a <code style="color: #32CD32">c00l hack3r</code> - it looks hacker-ish and will give you nightmares in your sleep</li>
+</ul>
+
+</div>
+
+<span class="fs-4">[Tree Function](_site/tree.html){: .btn .btn-green}</span>
+<span class="fs-4">[Tree Function but its in hexadecimal :D](tree_dir.html){: .btn .bg-red-300 .text-grey-dk-300}</span>
+
+haha now you know why I'm not going to fix this for EVERY. SINGLE. WEBPAGE.
+
+##### Note to self:
+
+```bash
+# Normal Tree
+$ cd study/_site
+$ tree -a -F -v -S -H "https://study.adrian.id.au" -T "sorry I broke the sidebar" --charset=utf8 -o tree.html
+# Super Messed Up Tree
+$ cd study
+$ tree -a -D -F -f -v -A -C -g --inodes --device -H "https://study.adrian.id.au" -T "lol" --charset=utf8 --si -u -o tree_dir.html
+```
 
 ***
 
