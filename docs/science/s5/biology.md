@@ -11,7 +11,7 @@ grand_parent: Science
 ## DNA fun!
 {: .no_toc }
 
-<label class="label label-blue">In-progress</label>
+<label class="label label-green">Completed</label>
 
 #### Table of Contents
 {: .no_toc }
@@ -34,8 +34,10 @@ grand_parent: Science
 - [x] Explain the difference between genes and alleles
 - [x] Use Punnett squares to predict the phenotype and genotype of offspring
 - [x] Interpret genotypes/phenotypes from a pedigree diagram
-- [ ] What is meant by genetically modified organisms (GMO’s) and transgenic organisms
-- [ ] Explain what gene therapy can be used for
+- [x] What is meant by genetically modified organisms (GMO’s) and transgenic organisms
+- [x] Explain what gene therapy can be used for
+
+***
 
 ## DNA structure
 
@@ -173,13 +175,13 @@ Alleles are the alternate or variant forms of a given gene.
  
 ***
 
-### Males and Females
+## Males and Females
 
 [Learn more at the World Health Organization](https://www.who.int/genomics/gender/en/index1.html)
 
 The X and Y chromosomes determine a person's sex. Most women are `46XX` and most men are `46XY`. Therefore, it can be said that while females possess only the generic `X` chromosome, males inherit the unique `Y` chromosome.
 
-### Important definitions
+## Important definitions
 
 |**Term**   |**Definition**    |
 |:---|:---|
@@ -190,11 +192,11 @@ The X and Y chromosomes determine a person's sex. Most women are `46XX` and most
 |Genotype    |The genetic makeup of a cell.    |
 |Phenotype    |The set of physical characteristics determined by the genetic makeup of a cell.    |
 
-### Genes vs Alleles
+## Genes vs Alleles
 
 Remember that genes are the small sequences or sections of DNA that contain genetic code to form proteins. Alleles are variant forms of these genes - an allele refers to one of usually two variant/mutant form.
 
-### Punnet Squares
+## Punnet Squares
 
 Punnet squares are diagrams (they look similar to two way tables) that can be used to predict genotypes. 
 
@@ -204,7 +206,7 @@ The dominant allele only needs one of it present in a gene, while the recessive 
 
 With Punnet Squares, you can determine the probability of a specific genotype.
 
-### Pedigree Diagrams
+## Pedigree Diagrams
 
 Pedigree diagrams show the presence or absence of a particular trait throughout a family. 
 
@@ -218,3 +220,32 @@ Pedigree diagrams show the presence or absence of a particular trait throughout 
 - E.g, II-4 was born in the second generation and is the 4th person to be born
 
 The exam questions will usually ask you to determine whether a trait has occured, but you might not always be able to determine the genotype with only the information you have.
+
+## Genetically Modified Organisms
+### yum yum
+{: .no_toc }
+
+- Genetically modified organisms refer to any living organisms whose genetic material has been altered using genetic engineering techniques. 
+- Transgenic organisms are living organisms that have been introduced to foreign DNA using biotechnology.
+    - The foreign DNA is refered to as the transgene.
+- Recombinant DNA is artifically produced DNA that has been formed by combining genetic material from different organisms to create new DNA sequences.
+    - Genetic recombination is the exchange of genetic material between different organisms.
+
+It's a pretty controversial topic, right up there with whether [cheeseburgers should fit in your mouth or not](https://www.reddit.com/r/changemyview/comments/giwvfy/cmv_if_your_hamburgercheeseburger_cant_fit_in_my/) and [what you should do if someone asks you to look after their pets for 3 weeks and then disappears for a year oh wait that isn't controversial :/](https://www.reddit.com/r/legaladvice/comments/gjeuu0/update_neighbors_entrusted_me_with_looking_after/) With that being said however, if something like this comes up as part of an exam qustion, you should always do a safe, non-`r/unpopularopinion`, risk-benefit analysis that is impartial and– ok you know what just pretend alright noone cares about your political opinions you're here for the masks not the poopposting.
+
+- GMO crops can be more resistant to pesticides... [which is probably a good thing because then you're not injesting carcinogenic herbicides which have been involved in multidistrict litigation involving over 42,000 plaintiffs.](https://en.wikipedia.org/wiki/Roundup_(herbicide)#Cancer_cases)
+- That being said, if GMO experiments go wrong, that's bad right? [and i oop–](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1299063/)
+
+```
+Noone cares about your political opinion.
+```
+
+### Gene Therapy
+
+Gene therapy involves inserting copies of a norbal allele into the chromosomes of an individual with a faulty/defective allele or gene. It's typically used in genetic disorders such as cystic fibrosis (an inherited, life-threatening disorder that damages the lungs and digestive system). It's only ever used on body cells, not sex cells (because that would affect offspring), however, offspring could still inherit the faulty allele from their parents (familiarise yourself with [genes and alleles](#genes-vs-alleles)). 
+
+It is not always successful, and there are different methods (and discussions) surrounding gene therapy. However, I don't believe it will be a central component of the exam, so if you are interested, please read more at...
+
+[BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zsw4k7h/revision/3){: .btn-lg .btn .btn-green}
+
+### that's it! Good luck with your Science exam! (Don't forget your Religion is due today at 3:10pm unless you're reading this in the future or on the day I uploadaed this, in which case, go to sleep.)

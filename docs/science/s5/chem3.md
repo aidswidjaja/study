@@ -70,7 +70,7 @@ C10H22 |decane
 
 Source: Table 16 at [Introductory Chemistry, Chapter 16.1](https://saylordotorg.github.io/text_introductory-chemistry/s20-01-hydrocarbons.html)
 
-![Alkanes vs alkenes vs alkynes](https://www.softschools.com/chemistry/organic_chemistry/alkanes_vs_alkenes_vs_alkynes/)
+![Alkanes vs alkenes vs alkynes](https://www.softschools.com/chemistry/organic_chemistry/images/alkanes_vs_alkenes_vs_alkynes_1.png)
 
 - Your standard hydrocarbons are known as **alkanes** (methane `CH4`, ethane `C2H6`, buthane `C4H8`, etc) - they are saturated and are joined by single bonds.
     - They are relatively unreactive apart from combustion reactions
