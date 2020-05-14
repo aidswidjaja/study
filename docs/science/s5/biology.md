@@ -31,9 +31,9 @@ grand_parent: Science
 - [x] Explain how meiosis can create variation in offspring, and why this is important
 - [x] Describe the chromosomal differences between human males and females
 - [x] Understand the terms: dominant, recessive, homozygous, heterozygous, genotype, phenotype
-- [ ] Explain the difference between genes and alleles
-- [ ] Use Punnett squares to predict the phenotype and genotype of offspring
-- [ ] Interpret genotypes/phenotypes from a pedigree diagram
+- [x] Explain the difference between genes and alleles
+- [x] Use Punnett squares to predict the phenotype and genotype of offspring
+- [x] Interpret genotypes/phenotypes from a pedigree diagram
 - [ ] What is meant by genetically modified organisms (GMO’s) and transgenic organisms
 - [ ] Explain what gene therapy can be used for
 
@@ -189,3 +189,32 @@ The X and Y chromosomes determine a person's sex. Most women are `46XX` and most
 |Heterozygous    |Heterozygous genes occur when the alleles are different.      |
 |Genotype    |The genetic makeup of a cell.    |
 |Phenotype    |The set of physical characteristics determined by the genetic makeup of a cell.    |
+
+### Genes vs Alleles
+
+Remember that genes are the small sequences or sections of DNA that contain genetic code to form proteins. Alleles are variant forms of these genes - an allele refers to one of usually two variant/mutant form.
+
+### Punnet Squares
+
+Punnet squares are diagrams (they look similar to two way tables) that can be used to predict genotypes. 
+
+![Punnet Squares](https://i.ytimg.com/vi/agQpPPQ5IVQ/maxresdefault.jpg)
+
+The dominant allele only needs one of it present in a gene, while the recessive allele needs to have two of it in a gene.
+
+With Punnet Squares, you can determine the probability of a specific genotype.
+
+### Pedigree Diagrams
+
+Pedigree diagrams show the presence or absence of a particular trait throughout a family. 
+
+![Pedigree Diagrams](https://cdn.kastatic.org/ka-perseus-images/096f00d7597a7b640e5675cdd51259a2fdf817f1.png)
+
+- Circle = male
+- Square = female
+- Coloured in = affected with trait in question
+- Roman numerals indicate generation
+- Arabic numerals indicate individuals
+- E.g, II-4 was born in the second generation and is the 4th person to be born
+
+The exam questions will usually ask you to determine whether a trait has occured, but you might not always be able to determine the genotype with only the information you have.
