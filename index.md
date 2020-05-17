@@ -49,7 +49,9 @@ $ tree -a -D -F -f -v -A -C -g --inodes --device -H "https://study.adrian.id.au"
 
 ### What do you have here?
 
-I've got a few things on this website, including [study notes](https://en.wikipedia.org/wiki/Note-taking), [cheat sheets](https://en.wikipedia.org/wiki/Cheat_sheet), [past papers](https://en.wikipedia.org/wiki/Past_paper) and exam resources. If you're here for past papers (most likely because you don't go to my current school and I'm a nice friend) check out the Extra Resources section for Maths 5.3, Science and Commerce.
+I've got a few things on this website, including [study notes](https://en.wikipedia.org/wiki/Note-taking), [cheat sheets](https://en.wikipedia.org/wiki/Cheat_sheet), [past papers](https://en.wikipedia.org/wiki/Past_paper) and exam resources. If you're here for past papers (most likely because you don't go to my current school and I'm a nice friend) check out the Extra Resources section for Maths 5.3, Science and Commerce below. Additional Maths 5.3 resources are archived on Google Drive and can be found in [Year 9 Maths](maths/y9/index.html).
+
+[View more Extra Resources](resources/index.html){: .btn}
 
 ### How much have you done?
 
