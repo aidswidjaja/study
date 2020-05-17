@@ -8,7 +8,7 @@ parent: Maths
 
 # Year 9 Maths
 
-<label class="label label-blue">In-progress</label>
+<label class="label label-yellow">Incomplete</label>
 
 [View more 5.3 resources in Google Drive](https://drive.google.com/drive/folders/1Lc8Ct2LC0LQ_yq95yTJHZh5Sq8j7gDBN?usp=sharing){: .btn}
 
