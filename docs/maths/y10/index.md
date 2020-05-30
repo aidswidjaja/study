@@ -12,3 +12,4 @@ parent: Maths
 
 #### Cheat sheets and other resources
 - [x] In a Nutshell: Surface Area, Volume and Measurement Formulae
+- [x] In a Nutshell: Parabola Forms
