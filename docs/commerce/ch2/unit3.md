@@ -3,6 +3,8 @@ title: "Unit 3: Managing your money; Insurance; Consequences of poor financial m
 layout: default
 nav_order: 2
 parent: "Chapter 2 – Personal Finance"
+grand_parent: "Commerce"
+
 ---
 # Unit 3
 {: .no_toc }

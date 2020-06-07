@@ -3,6 +3,8 @@ title: "Unit 4: Sources of financial advice; Laws that regulate and monitor the 
 layout: default
 nav_order: 2
 parent: "Chapter 2 – Personal Finance"
+grand_parent: "Commerce"
+
 ---
 # Unit 3
 {: .no_toc }

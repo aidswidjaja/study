@@ -3,6 +3,8 @@ title: "Unit 2: Choosing where to buy; Key factors affecting consumer decisions"
 layout: default
 nav_order: 2
 parent: "Chapter 1 – Consumer Choice"
+grand_parent: "Commerce"
+
 ---
 # Unit 2
 {: .no_toc }

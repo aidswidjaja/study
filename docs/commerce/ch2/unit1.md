@@ -3,6 +3,8 @@ title: "Unit 1: Earning an income; Spending and saving income; Factors that infl
 layout: default
 nav_order: 1
 parent: "Chapter 2 – Personal Finance"
+grand_parent: "Commerce"
+
 ---
 # Unit 1
 {: .no_toc }

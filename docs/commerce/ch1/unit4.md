@@ -3,6 +3,8 @@ title: "Unit 4: Payment choices; Methods of keeping records; Changes over time a
 layout: default
 nav_order: 4
 parent: "Chapter 1 – Consumer Choice"
+grand_parent: "Commerce"
+
 ---
 # Unit 4
 {: .no_toc }

@@ -18,12 +18,18 @@ Please note that a lot of this is based heavily off the textbook. So you can cal
 
 #### Study Notes
 
+##### Year 9
+
 - [x] Chapter 1 – Consumer choice
 - [x] Chapter 2 – Personal Finance
 - [x] Chapter 5 – Investing
 - [ ] Chapter 6 – Promoting and selling
 
 *based off the Aloys Finals exam for Commerce
+
+##### Year 10
+
+- [ ] Chapter 13 - Our economy <label class="label label-blue">In-Progress</label>
 
 #### Extra Resources
 

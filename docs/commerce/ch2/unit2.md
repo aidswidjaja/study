@@ -3,6 +3,8 @@ title: "Unit 2: Borrowing money: credit"
 layout: default
 nav_order: 2
 parent: "Chapter 2 – Personal Finance"
+grand_parent: "Commerce"
+
 ---
 # Unit 2
 {: .no_toc }

@@ -3,6 +3,7 @@ title: "Unit 1: Commerce and choice; More decisions to make; Comparison shopping
 layout: default
 nav_order: 1
 parent: "Chapter 1 – Consumer Choice"
+grand_parent: "Commerce"
 ---
 # Unit 1
 {: .no_toc }

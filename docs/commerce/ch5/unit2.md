@@ -3,6 +3,7 @@ title: "Unit 2: Range of investment options"
 layout: default
 nav_order: 2
 parent: "Chapter 5 – Investing"
+grand_parent: "Commerce"
 ---
 # Unit 2
 {: .no-toc}

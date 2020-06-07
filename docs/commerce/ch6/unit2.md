@@ -4,6 +4,7 @@ layout: default
 nav_order: 2
 parent: "Chapter 6 – Promoting and Selling"
 has_children: true
+grand_parent: "Commerce"
 ---
 
 # Unit 2

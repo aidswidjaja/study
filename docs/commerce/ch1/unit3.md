@@ -3,6 +3,8 @@ title: "Unit 3: The need for consumer protection; Features of a simple contact; 
 layout: default
 nav_order: 3
 parent: "Chapter 1 – Consumer Choice"
+grand_parent: "Commerce"
+
 ---
 
 # Unit 3
