@@ -99,8 +99,9 @@ Fiscal policy is the use of government revenue collection and expenditure to inf
 <details>
 <summary>Definition of Monetary Policy</summary>
 Monetary policy is the policy adopted by the monetary authority of a country that controls either the interest rate payable on very short-term borrowing or the money supply, often targeting inflation or the interest rate to ensure price stability and general trust in the currency.[^2]
-<details>
+</details>
 
 [^1]: Wikipedia, the free encyclopedia - Wikipedia contributors. (2020, June 6). Fiscal policy. In Wikipedia, The Free Encyclopedia. Retrieved 02:10, June 7, 2020, from https://en.wikipedia.org/w/index.php?title=Fiscal_policy&oldid=961067779
 
 [^2]: Wikipedia, the free encyclopedia – Wikipedia contributors. (2020, May 30). Monetary policy. In Wikipedia, The Free Encyclopedia. Retrieved 02:11, June 7, 2020, from https://en.wikipedia.org/w/index.php?title=Monetary_policy&oldid=959780937
+

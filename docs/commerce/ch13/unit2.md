@@ -20,8 +20,8 @@ grand_parent: "Commerce"
 * Table of Contents
 {:toc}
 
-##### I'm so interested in interest rates!
-- said nobody ever
+> I'm so interested in interest rates!
+– said nobody ever
 
 ***
 
@@ -81,8 +81,41 @@ People can choose, yknow. And that's what we call a **personal investment strate
 
 ## Inflation
 
-[RBA Inflation Calculator](https://www.rba.gov.au/calculator/)
-{: .btn .btn-blue .btn-lg}
+[RBA Inflation Calculator](https://www.rba.gov.au/calculator/){: .btn .btn-blue .btn-lg}
+[Inflation and its Measurement (RBA)](https://www.rba.gov.au/education/resources/explainers/inflation-and-its-measurement.html){: .btn .btn-blue .btn-lg}
 
 ```
 Calendar Year: A basket of goods and services valued at $100 in calendar year 2000, would in calendar year 2015 cost $150.6.
+```
+
+Inflation is the increase in the level of prices of goods and services. They typically rise (but can also fall - this is known as deflation.)
+
+You can calculate the inflation rate using the inflation rate formula.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;\fn_cs&space;\LARGE&space;Inflation&space;=&space;\frac{Price_{Year&space;2}&space;-&space;Price_{Year&space;1}}{Price_{Year&space;1}}&space;\times&space;100" target="_blank"><img src="https://latex.codecogs.com/png.latex?\bg_white&space;\fn_cs&space;\LARGE&space;Inflation&space;=&space;\frac{Price_{Year&space;2}&space;-&space;Price_{Year&space;1}}{Price_{Year&space;1}}&space;\times&space;100" title="\LARGE Inflation = \frac{Price_{Year 2} - Price_{Year 1}}{Price_{Year 1}} \times 100" /></a>
+
+hopefully that appears right.
+
+Anywayyyyyyyy.... it might also help to know that **Australia's inflation rate is at 2-3%**.　We measure inflation using the **Consumer Price Index (CPI)** (calculated by the ABS) which measures the percentage change in the price of a basket of goods and services consumed by households. It is representative of **typical consumer spending.**
+
+## Exchange rates
+
+Exchange rates are the rate at which one currency is exchanged for another. For example, when `A$1 = US$1.05` that means 1 Australian dollar is worth 105 US cents. Ha ha, the days when that was still true (this textbook is so old!)
+
+Anyway, because exchange rates are floated, it means they fluctuate based on supply and demand. When one currency increases it value against another this is known as an **appreciation**, and the other way around is known as a **depreciation**.
+
+### Appreciation
+- An appreciation will raise the price of Australian dollars in terms of foreign currencies
+- Exports become more expensive (reducing international competitiveness, worser for exporting businesses)
+- Imports become cheaper (this is better for consumers)
+
+### Depreciation
+- A depreciation will lower the price of Australian dollars in terms of foreign currencies
+- Exports become cheaper (increasing international competitiveness, better for exporting businesses)
+- Imports become cheaper (this is worser for consumers)
+
+### Balance of trade
+- When `imports > exports` this creates a negative balance of trade that can lead to foreign debt.
+- When `exports > imports` then we have a positive balance of trade which can lead to surplus.
+
+> **The balance of trade is the difference between the value of a nation's imports and the value of its exports.
