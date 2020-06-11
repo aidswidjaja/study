@@ -347,6 +347,8 @@ acid + carbonate -> salt + water + carbon dioxide
 acid + metal -> salt + hydrogen
 ```
 
+[Test yourself on Quizlet!](https://quizlet.com/_8gsxma?x=1qqt&i=yca7d){: .btn }
+
 #### Use the solubility rules (provided – no need to memorise) to predict whether reactions will produce a precipitate
 
 Something is soluble if it can dissolve in water. In an exam, you'll be given a solubility rules sheet, and you'll need to use it (in conjunction with the periodic table)
