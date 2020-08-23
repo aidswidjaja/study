@@ -5,8 +5,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 encoding: UTF-8
 aux_links:
   "Email Adrian for help":
-    - "mailto:adrian.marcus.widjaja@gmail.com?subject=[ASC Enquiry]"
-footer_content: "Copyleft &copy; 2017-2020  Adrian Widjaja and other contributors. CC BY-SA 4.0 Australia unless otherwise stated."
+    - "mailto:sekolah@adrian.id.au?subject=[ASC Enquiry]"
+footer_content: "Copyright &copy; 2017-2020  aidswidjaja and other contributors. CC BY-SA 4.0 Australia unless otherwise stated."
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 show_gh_edit_link: true
