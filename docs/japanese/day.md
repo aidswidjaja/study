@@ -2,6 +2,7 @@
 title: Day in the Life of Adrian
 layout: default
 nav_order: 1
+grand_parent: "Japanese"
 parent: "Japanese"
 ---
 

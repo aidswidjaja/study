@@ -2,6 +2,8 @@
 title: "The 7 Geographical Concepts"
 layout: default
 nav_order: 2
+grand_parent: "Geography"
+
 parent: "Stage 5 Geography"
 ---
 

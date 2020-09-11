@@ -2,6 +2,8 @@
 title: "Environmental Change and Management"
 layout: default
 nav_order: 3
+grand_parent: "Geography"
+
 parent: "Stage 5 Geography"
 ---
 

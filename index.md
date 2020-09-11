@@ -4,44 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-<h1 style="color: red">🐛🚨 12 May: BREAKING BUG ALERT  🚨🐛</h1>
-
-<div style="color: orange">
-
-<ul>
-<li>the sidebar is broken. </li>
-<li>I know how to fix it but it would involve basically editing every page on this website, which is painful. </li>
-<li>So, I'll work on that after exams but in the meantime, I've fixed Stage 5 Science and that's about it. </li>
-</ul>
-
-<h2 style="color: red">But Adrian! What do I do in the meantime!</h2>
-
-you have 2 options...
-<ul>
-<li>Use the Search Function (like a normal person)- it looks nice and its pretty cool and it took me 1 year to fix</li>
-<li>Use the Tree Function like a <code style="color: #32CD32">c00l hack3r</code> - it looks hacker-ish and will give you nightmares in your sleep</li>
-</ul>
-
-</div>
-
-<span class="fs-4">[Tree Function](tree.html){: .btn .btn-green}</span>
-<span class="fs-4">[Tree Function but its in hexadecimal :D](tree_dir.html){: .btn .bg-red-300 .text-grey-dk-300}</span>
-
-haha now you know why I'm not going to fix this for EVERY. SINGLE. WEBPAGE.
-
-##### Note to self:
-
-```bash
-# Normal Tree
-$ cd study/_site
-$ tree -a -F -v -S -H "https://study.adrian.id.au" -T "sorry I broke the sidebar" --charset=utf8 -o tree.html
-# Super Messed Up Tree
-$ cd study
-$ tree -a -D -F -f -v -A -C -g --inodes --device -H "https://study.adrian.id.au" -T "lol" --charset=utf8 --si -u -o tree_dir.html
-```
-
-***
-
 # “Haven’t we all done this in our Maths Summary Books?”
 ## Welcome to Adrian's Study Club - a database of study notes, past papers and exam resources I've collected over the years.
 
@@ -49,7 +11,7 @@ $ tree -a -D -F -f -v -A -C -g --inodes --device -H "https://study.adrian.id.au"
 
 ### What do you have here?
 
-I've got a few things on this website, including [study notes](https://en.wikipedia.org/wiki/Note-taking), [cheat sheets](https://en.wikipedia.org/wiki/Cheat_sheet), [past papers](https://en.wikipedia.org/wiki/Past_paper) and exam resources. If you're here for past papers (most likely because you don't go to my current school and I'm a nice friend) check out the Extra Resources section for Maths 5.3, Science and Commerce below. Additional Maths 5.3 resources are archived on Google Drive and can be found in [Year 9 Maths](maths/y9/index.html).
+I've got a few things on this website, including [study notes](https://en.wikipedia.org/wiki/Note-taking), [cheat sheets](https://en.wikipedia.org/wiki/Cheat_sheet), [past papers](https://en.wikipedia.org/wiki/Past_paper) and exam resources. ~~If you're here for past papers (most likely because you don't go to my current school and I'm a nice friend) check out the Extra Resources section for Maths 5.3, Science and Commerce below.~~ [I moved this sorry](docs/resources/index.html).  Additional Maths 5.3 resources are archived on Google Drive and can be found in [Year 9 Maths](maths/y9/index.html).
 
 [View more Extra Resources](resources/index.html){: .btn}
 

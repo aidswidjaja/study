@@ -2,6 +2,8 @@
 title: "Stage 5 Geography"
 layout: default
 nav_order: 3
+grand_parent: "Geography"
+
 has_children: true
 parent: "Geography"
 ---

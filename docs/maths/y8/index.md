@@ -2,6 +2,7 @@
 title: Year 8 Maths
 layout: default
 nav_order: 2
+grand_parent: "Maths"
 has_children: true
 parent: Maths
 ---

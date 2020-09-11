@@ -2,6 +2,8 @@
 title: "Landforms and Landscapes"
 layout: default
 parent: "Stage 4 Geography"
+grand_parent: "Geography"
+
 nav_order: 4
 ---
 

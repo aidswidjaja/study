@@ -2,6 +2,7 @@
 title: "In a Nutshell: Adrian's Study Club"
 layout: default
 nav_order: 987654321
+grand_parent: "History"
 has_children: true
 parent: "History"
 ---

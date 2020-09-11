@@ -2,6 +2,7 @@
 title: Japanese
 layout: default
 nav_order: 119
+grand_parent: "Japanese"
 has_children: true
 ---
 

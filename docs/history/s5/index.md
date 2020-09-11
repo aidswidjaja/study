@@ -2,6 +2,7 @@
 title: "Stage 5 (Modern) World History"
 layout: default
 nav_order: 2
+grand_parent: "History"
 has_children: true
 parent: "History"
 ---
