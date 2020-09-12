@@ -17,7 +17,6 @@ You also require the following dependencies:
 
 If you're on Mac, you might want to not affect the pre-installed system Ruby. You can use [RVM](https://rvm.io) to install multiple different versions of Ruby. You might also want to get [Homebrew](https://brew.sh) if you would like to make the process easier, but it isn't neccessary.
 
-### Before you begin, you'll need to [email me](mailto:adrian.marcus.widjaja@gmail.com?Request for GitHub repo access) for access to the repository as it is privated for privacy reasons. 
 
 1. **Use a different version of Ruby (optional):**
 ```

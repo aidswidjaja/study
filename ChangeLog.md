@@ -8,6 +8,11 @@ nav_order: 2
 
 <label class="label label-yellow">Meta</label>
 
+### 12 September 2020
+- Updated version of Just the Docs
+- by now all pages should be fixed
+- Extra Resources moved to private GitHub repo
+
 ### 17 May 2020
 - All Extra Resources (for any subject) are now available [here](resources/index.html)
 
