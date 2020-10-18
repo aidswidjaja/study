@@ -21,3 +21,8 @@ parent: "Geography"
 GeoTip: do some of the questions out of the textbook, you never know when the Geography Department gets lazy and just copies question straight out of there!
 
 I'm also not going to finish this in time, so from Biomes and Food Security onwards everything will be significantly abbreviated.
+
+## [Geography transect assignment](transect.pdf)
+
+The chunkiest 82-page 14000 word PhD dissertation I'm ever going to write in my life.
+
