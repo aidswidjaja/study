@@ -4,6 +4,12 @@ layout: default
 nav_order: 1
 ---
 
+# This website is currently undergoing a spring cleaning process
+
+It turns out 4 years of study notes and content can have a website pretty congested (a quick look at our [Git commit history](https://github.com/aidswidjaja/study) will confirm that) so over the next few months we'll be cleaning this site up to make it nicer to navigate and explore.
+
+***
+
 # “Haven’t we all done this in our Maths Summary Books?”
 ## Welcome to Adrian's Study Club - a database of study notes, past papers and exam resources I've collected over the years.
 
