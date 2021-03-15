@@ -9,5 +9,5 @@ has_children: true
 
 <label class="label label-purple">HSC</label>
 
-- [Year 11 Economics - Adrian's Study Kit (HTML)](ecokit11.html)
-- [Year 11 Economics - Adrian's Study Kit (Doc)](https://docs.google.com/document/d/14pwp6ZBNkLiN1CLYiOGF3nVITVP-EXqK6-scKiymGfk/edit)
+- [Year 11 Economics - Adrian's Study Kit (pdf)](ecokit11-latest.pdf)
+- [Year 11 Economics - Adrian's Study Kit (gdoc)](https://docs.google.com/document/d/14pwp6ZBNkLiN1CLYiOGF3nVITVP-EXqK6-scKiymGfk/edit)
