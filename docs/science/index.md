@@ -9,6 +9,8 @@ has_children: true
 
 ## like BBC Bitesize, but worse
 
+<label class="label label-blue">K-10</label>
+
 With credit to the following resources:
 
 * Core Science Stage 4 NSW Australian Curriculum Edition 

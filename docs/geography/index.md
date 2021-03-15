@@ -7,6 +7,8 @@ has_children: true
 
 # Geography
 
+<label class="label label-blue">K-10</label>
+
 With credit to the following resources:
 
 * Oxford Insight Geography Stage 4 Australian Curriculum for NSW

@@ -5,12 +5,11 @@ nav_order: 120
 has_children: true
 ---
 
-*Also go to [Manresa](https://manresa.staloysius.nsw.edu.au/CoCurricula/Duke/Pages/The-Duke-of-Edinburgh's-International-Award.aspx).*
-
 # Duke of Ed
 {: .no_toc }
 
 <label class="label label-blue">Aloys</label>
+<label class="label label-blue">K-10</label>
 
 #### Table of Contents
 {: .no_toc }

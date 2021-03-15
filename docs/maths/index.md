@@ -8,6 +8,8 @@ has_children: true
 
 ## like Khan Academy, but a lot worse. Also probably the most incomplete section on this website.
 
+<label class="label label-blue">K-10</label>
+
 With credit to the following resources:
 
 * CambridgeMATHS NSW Syllabus for the Australian Curriculum Year 7 Option 1

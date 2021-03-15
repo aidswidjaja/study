@@ -9,6 +9,8 @@ has_children: true
 
 ## really boring
 
+<label class="label label-blue">K-10</label>
+
 With credit to the following resources:
 
 * New concepts in commerce – Third Edition (978 1 118 40100 2 [web])
