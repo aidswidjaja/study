@@ -16,6 +16,6 @@ If you prefer, there's Google Docs links here (and these get edited live!), but 
 - [Year 11 Modern History](https://docs.google.com/document/d/1nw0PkRFUO1XJYUBvr-HzuHGbRvfO-StNbJWZBMirTR0/edit)
 - [Year 11 Studies of Religion I](https://docs.google.com/document/d/1Cy0FgvYoCbGGWZJzRD4_S2j-0BC_onoYqNg5688Q7hg/edit)
 
-to-do: add cool anime study boy
+![Anime study boy](animestudying.jpg)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a01bbd12-618d-46e1-8120-dc5ba8a380d1/deploy-status)](https://app.netlify.com/sites/adrian-study-club/deploys)
